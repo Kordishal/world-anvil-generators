@@ -6,7 +6,7 @@ if __name__ == '__main__':
         values = dict()
         values['values'] = dict()
         for line in fp:
-            name = line.strip()
+            name = line.strip().capitalize()
             values['values'][name] = name
 
     with open('output.json', 'w') as fp:

@@ -1,0 +1,32 @@
+{
+    "values": {
+        "value1": "Caravan",
+        "value2": "Slum",
+        "value3": "Military, Camp",
+        "value4": "Military, Base",
+        "value5": "Hamlet",
+        "value6": "Outpost / Base",
+        "value7": "Village",
+        "value8": "Neighbourhood",
+        "value9": "Town",
+        "value10": "Underground / Vault",
+        "value11": "Large town",
+        "value12": "District",
+        "value13": "Quarter",
+        "value14": "Ward",
+        "value15": "Trade post",
+        "value16": "City",
+        "value17": "Large city",
+        "value18": "Orbital, Station",
+        "value19": "Arcology",
+        "value20": "Metropolis",
+        "value21": "Capital",
+        "value22": "Conurbation",
+        "value23": "Citadel",
+        "value24": "Megalopolis",
+        "value25": "State",
+        "value26": "National Territory",
+        "value27": "Ecumenopolis",
+        "value28": "Starbase"
+    }
+}

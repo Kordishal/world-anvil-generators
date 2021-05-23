@@ -1,0 +1,26 @@
+{
+    "values": {
+        "value1": "Character",
+        "value2": "Conflict",
+        "value3": "Condition",
+        "value4": "Document",
+        "value5": "Ethnicity",
+        "value6": "Formation",
+        "value7": "Geography",
+        "value8": "Item",
+        "value9": "Language",
+        "value10": "Law",
+        "value11": "Settlement",
+        "value12": "Landmark",
+        "value13": "Material",
+        "value14": "Myth / Legend",
+        "value15": "Organization",
+        "value16": "Profession",
+        "value17": "Rank / Title",
+        "value18": "Spell",
+        "value19": "Species",
+        "value20": "Technology",
+        "value21": "Tradition / Ritual",
+        "value22": "Vehicle"
+    }
+}

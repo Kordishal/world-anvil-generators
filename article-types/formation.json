@@ -1,0 +1,33 @@
+{
+    "values": {
+        "value1": "Air Force",
+        "value2": "Airborne",
+        "value3": "Armour",
+        "value4": "Artillery",
+        "value5": "Cavalry",
+        "value6": "Cyber",
+        "value7": "Containment/Hazmat",
+        "value8": "Covert Ops",
+        "value9": "Escort",
+        "value10": "Infantry",
+        "value11": "Intelligence",
+        "value12": "Magic",
+        "value13": "Marines",
+        "value14": "Medical",
+        "value15": "Mech",
+        "value16": "Mechanized",
+        "value17": "Mercenary",
+        "value18": "Motorized",
+        "value19": "Militia",
+        "value20": "Navy",
+        "value21": "Paramilitary",
+        "value22": "Raiding parties",
+        "value23": "Reserves",
+        "value24": "Security",
+        "value25": "Shock",
+        "value26": "Special Forces",
+        "value27": "Spaceborne",
+        "value28": "Space/EVA",
+        "value29": "Support"
+    }
+}

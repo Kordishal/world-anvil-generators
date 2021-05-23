@@ -1,0 +1,25 @@
+{
+    "values": {
+        "value1": "Biomaterial",
+        "value2": "Ceramic",
+        "value3": "Composite",
+        "value4": "Concrete",
+        "value5": "Electronic",
+        "value6": "Elemental / Molecular",
+        "value7": "Glass",
+        "value8": "Livestock",
+        "value9": "Metal",
+        "value10": "Metaphysical",
+        "value11": "Metamaterial",
+        "value12": "Nanomaterial",
+        "value13": "Organic",
+        "value14": "Ore/Mineral",
+        "value15": "Optic",
+        "value16": "Polymer",
+        "value17": "Plastic",
+        "value18": "Semiconductor",
+        "value19": "Stone",
+        "value20": "Textile",
+        "value21": "Wood"
+    }
+}

@@ -1,14 +1,28 @@
 {
     "values": {
-        "value1": "Ponytail",
-        "value2": "Single braid",
-        "value3": "Crop cut",
-        "value4": "Bald",
-        "value5": "Mullet",
-        "value6": "Long",
-        "value7": "Dreadlocks",
-        "value8": "Afro",
-        "value9": "Short Dreads",
-        "value10": "Buzz Cut"
+        "value1": {
+            "value": "Abstract",
+            "weight": 10
+        },
+        "value2": {
+            "value": "Realist",
+            "weight": 10
+        },
+        "value3": {
+            "value": "Surrealist",
+            "weight": 10
+        },
+        "value4": {
+            "value": "Line Art",
+            "weight": 10
+        },
+        "value5": {
+            "value": "Washed Out",
+            "weight": 10
+        },
+        "value6": {
+            "value": "Water color",
+            "weight": 10
+        }
     }
 }

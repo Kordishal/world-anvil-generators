@@ -9,7 +9,10 @@ if __name__ == '__main__':
         count = 1
         for line in fp:
             name = line.strip()
-            values['values'][f'{value}{count}'] = name
+            values['values'][f'{value}{count}'] = {
+                "value": name,
+                "weight": 10
+            }
             count += 1
     with open('output.json', 'w') as fp:
         json.dump(values, fp, ensure_ascii=False, indent='    ')

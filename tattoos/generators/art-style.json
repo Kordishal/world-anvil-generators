@@ -1,12 +1,28 @@
 {
-  "values": {
-    "val1": "Abstract",
-    "val2": "Realist",
-    "val3": "Surrealist",
-    "val4": "Line Art",
-    "val5": "Line Art",
-    "val6": "Line Art",
-    "val7": "Washed Out",
-    "val8": "Water color"
-  }
+    "values": {
+        "value1": {
+            "value": "Abstract",
+            "weight": 10
+        },
+        "value2": {
+            "value": "Realist",
+            "weight": 30
+        },
+        "value3": {
+            "value": "Surrealist",
+            "weight": 5
+        },
+        "value4": {
+            "value": "Line Art",
+            "weight": 50
+        },
+        "value5": {
+            "value": "Washed Out",
+            "weight": 5
+        },
+        "value6": {
+            "value": "Water color",
+            "weight": 10
+        }
+    }
 }

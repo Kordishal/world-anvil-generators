@@ -1,0 +1,24 @@
+{
+    "values": {
+        "Ankle": "Ankle",
+        "Arm": "Arm",
+        "Bicep": "Bicep",
+        "Buttocks": "Buttocks",
+        "Calf": "Calf",
+        "Ear": "Ear",
+        "Foot": "Foot",
+        "Forearm": "Forearm",
+        "Full leg": "Full leg",
+        "half-sleeve": "Half sleeve",
+        "hand": "Hand",
+        "ribcage": "Ribcage",
+        "Hip": "Hip",
+        "knee": "Knee",
+        "Leg": "Leg",
+        "Shoulder": "Shoulder",
+        "torso": "Torso side",
+        "sleeve": "Sleeve",
+        "thigh": "Thigh",
+        "wrist": "Wrist"
+    }
+}

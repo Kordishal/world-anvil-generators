@@ -1,0 +1,6 @@
+{
+    "values": {
+        "template1": "[template:tattoo-placement-soullink|{}}",
+        "template2": "[template:tattoo-placement-side-soullink|{}]"
+    }
+}

@@ -1,10 +1,12 @@
 {
   "values": {
-    "val2": "Abstract",
-    "val3": "Realist",
-    "val4": "Surrealist",
+    "val1": "Abstract",
+    "val2": "Realist",
+    "val3": "Surrealist",
+    "val4": "Line Art",
     "val5": "Line Art",
-    "val6": "Washed Out",
-    "val7": "Water color"
+    "val6": "Line Art",
+    "val7": "Washed Out",
+    "val8": "Water color"
   }
 }

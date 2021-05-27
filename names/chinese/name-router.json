@@ -1,6 +1,4 @@
 {
-  "gender": {
-    "male": "",
-    "female": ""
-  }
+  "tag": "#chinese",
+  "scope": "author"
 }

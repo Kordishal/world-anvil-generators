@@ -2,7 +2,6 @@
     "values": {
         "color": "color",
         "black": "black",
-        "black-and-grey": "black and grey",
-        "white": "white"
+        "other": "other"
     }
 }

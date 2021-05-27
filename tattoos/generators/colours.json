@@ -6,6 +6,9 @@
         "blue": "blue",
         "green": "green",
         "pink": "pink",
-        "violet": "violet"
+        "violet": "violet",
+        "white": "white",
+        "black": "black",
+        "grey": "grey"
     }
 }

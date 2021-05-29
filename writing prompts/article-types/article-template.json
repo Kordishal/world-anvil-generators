@@ -1,0 +1,26 @@
+{
+    "values": {
+        "character": "Character",
+        "military-conflict": "Conflict",
+        "condition": "Condition",
+        "document": "Document",
+        "ethnicity": "Ethnicity",
+        "formation": "Formation",
+        "geography": "Geography",
+        "item": "Item",
+        "language": "Language",
+        "law": "Law",
+        "settlement": "Settlement",
+        "landmark": "Landmark",
+        "material": "Material",
+        "myth": "Myth / Legend",
+        "organization": "Organization",
+        "profession": "Profession",
+        "rank": "Rank / Title",
+        "spell": "Spell",
+        "species": "Species",
+        "technology": "Technology",
+        "ritual": "Tradition / Ritual",
+        "vehicle": "Vehicle"
+    }
+}

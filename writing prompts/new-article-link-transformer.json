@@ -1,0 +1,28 @@
+{
+    "new-article-link": {
+        "person": "https://www.worldanvil.com/world/person/new",
+        "condition": "https://www.worldanvil.com/world/condition/new",
+        "document": "https://www.worldanvil.com/world/document/new",
+        "ethnicity": "https://www.worldanvil.com/world/ethnicity/new",
+        "formation": "https://www.worldanvil.com/world/formation/new",
+        "item": "https://www.worldanvil.com/world/item/new",
+        "language": "https://www.worldanvil.com/world/language/new",
+        "material": "https://www.worldanvil.com/world/material/new",
+        "military-conflict": "https://www.worldanvil.com/world/militaryConflict/new",
+        "myth": "https://www.worldanvil.com/world/myth/new",
+        "landmark": "https://www.worldanvil.com/world/location/new?type=landmark",
+        "geography": "https://www.worldanvil.com/world/location/new?type=location",
+        "settlement": "https://www.worldanvil.com/world/location/new?type=settlement",
+        "natural-law": "https://www.worldanvil.com/world/law/new",
+        "organization": "https://www.worldanvil.com/world/organization/new",
+        "prose": "https://www.worldanvil.com/world/prose/new",
+        "profession": "https://www.worldanvil.com/world/profession/new",
+        "plot": "https://www.worldanvil.com/world/plot/new",
+        "title": "https://www.worldanvil.com/world/rank/new",
+        "rank": "https://www.worldanvil.com/world/rank/new",
+        "species": "https://www.worldanvil.com/world/species/new",
+        "technology": "https://www.worldanvil.com/world/technology/new",
+        "ritual": "https://www.worldanvil.com/world/ritual/new",
+        "vehicle": "https://www.worldanvil.com/world/vehicle/new"
+    }
+}

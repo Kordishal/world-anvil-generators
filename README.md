@@ -1,5 +1,5 @@
 ### World Anvil Generators
-A collection of data sets and payloads for World Anvil generators, routers & templates.
+A collection of data sets and payloads for World Anvil generators, routers & templates. These are not offical World Anvil resources.
 
 #### Article Types
 Generators for the article types per article template.

@@ -1,5 +1,6 @@
 import csv
 import json
+import math
 import random
 from typing import List, Set
 
@@ -82,13 +83,39 @@ def generate_names(items: Set[str], order: int, max_length: int):
 
 
 def generate_name_list(items: Set[str], order: int):
-    print(f"Total {order}: {len(items)}")
-    generated_names = dict()
-    generated_names['values'] = dict()
-    for word in items:
-        generated_names['values'][word.lower().replace(' ', '-')] = word
-    with open(f'fantasy-name-generator-order-{order}.json', 'w') as fp:
-        json.dump(generated_names, fp, ensure_ascii=False, indent='    ')
+    total = len(items)
+    print(f"Total {order}: {total}")
+    above_20k = total % 20000
+    rounded = total - above_20k
+    if rounded == 0:
+        generated_names = dict()
+        generated_names['values'] = dict()
+        for word in items:
+            generated_names['values'][word.lower().replace(' ', '-')] = word
+        with open(f'fantasy-name-generator-order-{order}.json', 'w') as fp:
+            json.dump(generated_names, fp, ensure_ascii=False, indent='    ')
+    else:
+        items = list(items)
+        rounds = math.floor(rounded / 20000)
+        i = 0
+        pos = 0
+        next_pos = 20000
+        for i in range(1, rounds):
+            generated_names = dict()
+            generated_names['values'] = dict()
+            for word in items[pos:next_pos]:
+                generated_names['values'][word.lower().replace(' ', '-')] = word
+            with open(f'fantasy-name-generator-order-{order}-part-{i}.json', 'w') as fp:
+                json.dump(generated_names, fp, ensure_ascii=False, indent='    ')
+            pos = next_pos
+            next_pos += 20000
+
+        generated_names = dict()
+        generated_names['values'] = dict()
+        for word in items[rounded:]:
+            generated_names['values'][word.lower().replace(' ', '-')] = word
+        with open(f'fantasy-name-generator-order-{order}-part-{i + 1}.json', 'w') as fp:
+            json.dump(generated_names, fp, ensure_ascii=False, indent='    ')
 
 
 if __name__ == '__main__':

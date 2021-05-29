@@ -32,8 +32,6 @@ class MarkovChain:
                     position += self.order
                     part = next_part
                     next_part = word[position:position+self.order]
-        print(self.start)
-        print(self.database)
 
     def generate_word(self) -> str:
         current_part = random.choice(self.start)
@@ -64,7 +62,14 @@ def generate_names(items: Set[str], order: int, max_length: int):
     chain = MarkovChain(list(items), order=order, max_length=max_length)
     all_words = set()
     not_new_count = 0
-    max_not_new_count = 1000
+    if order == 2:
+        max_not_new_count = 1000
+    elif order == 3:
+        max_not_new_count = 10000
+    elif order == 4:
+        max_not_new_count = 100000
+    else:
+        max_not_new_count = 100
     while not_new_count < max_not_new_count:
         new_word = chain.generate_word()
         if new_word in all_words:
@@ -72,14 +77,18 @@ def generate_names(items: Set[str], order: int, max_length: int):
         else:
             not_new_count = 0
             all_words.add(new_word)
+    print(f"Generated: Order {order}; Max Length {max_length}; Total {len(all_words)}")
+    return all_words
+
+
+def generate_name_list(items: Set[str], order: int):
+    print(f"Total {order}: {len(items)}")
     generated_names = dict()
     generated_names['values'] = dict()
-    for word in all_words:
+    for word in items:
         generated_names['values'][word.lower().replace(' ', '-')] = word
-
-    with open(f'fantasy-name-generator-oder-{order}-max-length-{max_length}.json', 'w') as fp:
+    with open(f'fantasy-name-generator-order-{order}.json', 'w') as fp:
         json.dump(generated_names, fp, ensure_ascii=False, indent='    ')
-    print(f"Generated: Order {order}; Max Length {max_length}; Total {len(all_words)}")
 
 
 if __name__ == '__main__':
@@ -135,12 +144,34 @@ if __name__ == '__main__':
     with open('router-names-to-source.json', 'w') as fp:
         json.dump(source_transformer, fp, ensure_ascii=False, indent='    ')
 
-    generate_names(names, 2, 8)
-    generate_names(names, 2, 9)
-    generate_names(names, 2, 10)
-    generate_names(names, 3, 8)
-    generate_names(names, 3, 9)
-    generate_names(names, 3, 10)
-    generate_names(names, 3, 11)
-    generate_names(names, 3, 12)
-    generate_names(names, 4, 12)
+    names_2_8 = generate_names(names, 2, 8)
+    names_2_9 = generate_names(names, 2, 9)
+    names_2_10 = generate_names(names, 2, 10)
+
+    total_2 = names_2_8 | names_2_9 | names_2_10
+    generate_name_list(total_2, 2)
+
+    names_3_8 = generate_names(names, 3, 8)
+    names_3_9 = generate_names(names, 3, 9)
+    names_3_10 = generate_names(names, 3, 10)
+    names_3_11 = generate_names(names, 3, 11)
+    names_3_12 = generate_names(names, 3, 12)
+    names_3_13 = generate_names(names, 3, 13)
+    names_3_14 = generate_names(names, 3, 14)
+
+    total_3 = names_3_8 | names_3_9 | names_3_10 | names_3_11 | names_3_12 | names_3_13 | names_3_14
+    generate_name_list(total_3, 3)
+
+    names_4_12 = generate_names(names, 4, 12)
+    names_4_13 = generate_names(names, 4, 13)
+    names_4_14 = generate_names(names, 4, 14)
+    names_4_15 = generate_names(names, 4, 15)
+    names_4_16 = generate_names(names, 4, 16)
+
+    total_4 = names_4_12 | names_4_13 | names_4_14 | names_4_15 | names_4_16
+    generate_name_list(total_4, 4)
+
+    names_5_25 = generate_names(names, 5, 25)
+
+    total_5 = names_5_25
+    generate_name_list(total_5, 5)

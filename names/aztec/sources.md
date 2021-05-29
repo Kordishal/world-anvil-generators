@@ -8,3 +8,9 @@ of the names are adapted from there. While others are taken from historical sour
 [List of Tenochtitlan rulers](https://en.wikipedia.org/wiki/List_of_Tenochtitlan_rulers)
 [Nahuatl Names 1544](https://nahuatlstudies.blogspot.com/2014/11/nahuatl-names-nahuatl-names-in-1544.html)
 [Nahuatl Dictionary](https://nahuatl.uoregon.edu/themes/names-people-deities)
+
+
+## Metadata
+
+Description: A total of 11729 fantasy names inspired by historical Aztec names.
+Tags: `#aztec,#names,#fantasy,#markov,#order-3`

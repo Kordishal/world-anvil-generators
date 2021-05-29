@@ -1,0 +1,2744 @@
+{
+    "values": {
+        "value1": {
+            "value": "[url:http://www.wikidata.org/entity/Q5011|tab]Amor[/url]",
+            "weight": 10
+        },
+        "value2": {
+            "value": "[url:http://www.wikidata.org/entity/Q38419|tab]Curupira[/url]",
+            "weight": 10
+        },
+        "value3": {
+            "value": "[url:http://www.wikidata.org/entity/Q44810|tab]Bigfoot[/url]",
+            "weight": 10
+        },
+        "value4": {
+            "value": "[url:http://www.wikidata.org/entity/Q49658|tab]Ungeheuer von Loch Ness[/url]",
+            "weight": 10
+        },
+        "value5": {
+            "value": "[url:http://www.wikidata.org/entity/Q108636|tab]Osterhase[/url]",
+            "weight": 10
+        },
+        "value6": {
+            "value": "[url:http://www.wikidata.org/entity/Q133368|tab]Kubikajiri[/url]",
+            "weight": 10
+        },
+        "value7": {
+            "value": "[url:http://www.wikidata.org/entity/Q142294|tab]Elwetritsch[/url]",
+            "weight": 10
+        },
+        "value8": {
+            "value": "[url:http://www.wikidata.org/entity/Q151761|tab]Bahkauv[/url]",
+            "weight": 10
+        },
+        "value9": {
+            "value": "[url:http://www.wikidata.org/entity/Q160010|tab]Mittagsfrau[/url]",
+            "weight": 10
+        },
+        "value10": {
+            "value": "[url:http://www.wikidata.org/entity/Q183571|tab]Chupacabra[/url]",
+            "weight": 10
+        },
+        "value11": {
+            "value": "[url:http://www.wikidata.org/entity/Q204753|tab]Barong[/url]",
+            "weight": 10
+        },
+        "value12": {
+            "value": "[url:http://www.wikidata.org/entity/Q215605|tab]Lóng[/url]",
+            "weight": 10
+        },
+        "value13": {
+            "value": "[url:http://www.wikidata.org/entity/Q236429|tab]Stymphalische Vögel[/url]",
+            "weight": 10
+        },
+        "value14": {
+            "value": "[url:http://www.wikidata.org/entity/Q243362|tab]Baphomet[/url]",
+            "weight": 10
+        },
+        "value15": {
+            "value": "[url:http://www.wikidata.org/entity/Q257275|tab]Ōnamazu[/url]",
+            "weight": 10
+        },
+        "value16": {
+            "value": "[url:http://www.wikidata.org/entity/Q272149|tab]Allghoi Khorkhoi[/url]",
+            "weight": 10
+        },
+        "value17": {
+            "value": "[url:http://www.wikidata.org/entity/Q285529|tab]Shachihoko[/url]",
+            "weight": 10
+        },
+        "value18": {
+            "value": "[url:http://www.wikidata.org/entity/Q303769|tab]Aatxe[/url]",
+            "weight": 10
+        },
+        "value19": {
+            "value": "[url:http://www.wikidata.org/entity/Q332242|tab]Buraq[/url]",
+            "weight": 10
+        },
+        "value20": {
+            "value": "[url:http://www.wikidata.org/entity/Q334456|tab]Erymanthischer Eber[/url]",
+            "weight": 10
+        },
+        "value21": {
+            "value": "[url:http://www.wikidata.org/entity/Q370801|tab]Wendigo[/url]",
+            "weight": 10
+        },
+        "value22": {
+            "value": "[url:http://www.wikidata.org/entity/Q378477|tab]Behemoth[/url]",
+            "weight": 10
+        },
+        "value23": {
+            "value": "[url:http://www.wikidata.org/entity/Q380258|tab]Adze[/url]",
+            "weight": 10
+        },
+        "value24": {
+            "value": "[url:http://www.wikidata.org/entity/Q403017|tab]Ahuitzotl (Fabelwesen)[/url]",
+            "weight": 10
+        },
+        "value25": {
+            "value": "[url:http://www.wikidata.org/entity/Q466882|tab]Kerynitische Hirschkuh[/url]",
+            "weight": 10
+        },
+        "value26": {
+            "value": "[url:http://www.wikidata.org/entity/Q487324|tab]Xiezhi[/url]",
+            "weight": 10
+        },
+        "value27": {
+            "value": "[url:http://www.wikidata.org/entity/Q490838|tab]Azrael[/url]",
+            "weight": 10
+        },
+        "value28": {
+            "value": "[url:http://www.wikidata.org/entity/Q499356|tab]Schlangenhalspanther[/url]",
+            "weight": 10
+        },
+        "value29": {
+            "value": "[url:http://www.wikidata.org/entity/Q510798|tab]Táltos[/url]",
+            "weight": 10
+        },
+        "value30": {
+            "value": "[url:http://www.wikidata.org/entity/Q515345|tab]Yara-ma-yha-who[/url]",
+            "weight": 10
+        },
+        "value31": {
+            "value": "[url:http://www.wikidata.org/entity/Q568199|tab]Karakura[/url]",
+            "weight": 10
+        },
+        "value32": {
+            "value": "[url:http://www.wikidata.org/entity/Q592903|tab]Rahab[/url]",
+            "weight": 10
+        },
+        "value33": {
+            "value": "[url:http://www.wikidata.org/entity/Q607347|tab]Pishtaku[/url]",
+            "weight": 10
+        },
+        "value34": {
+            "value": "[url:http://www.wikidata.org/entity/Q622761|tab]Hase im Mond[/url]",
+            "weight": 10
+        },
+        "value35": {
+            "value": "[url:http://www.wikidata.org/entity/Q668330|tab]Jersey Devil[/url]",
+            "weight": 10
+        },
+        "value36": {
+            "value": "[url:http://www.wikidata.org/entity/Q723865|tab]Ichthyokentauren[/url]",
+            "weight": 10
+        },
+        "value37": {
+            "value": "[url:http://www.wikidata.org/entity/Q733664|tab]Lutin[/url]",
+            "weight": 10
+        },
+        "value38": {
+            "value": "[url:http://www.wikidata.org/entity/Q736709|tab]Squasc[/url]",
+            "weight": 10
+        },
+        "value39": {
+            "value": "[url:http://www.wikidata.org/entity/Q746248|tab]Mothman[/url]",
+            "weight": 10
+        },
+        "value40": {
+            "value": "[url:http://www.wikidata.org/entity/Q756990|tab]Uräusschlange[/url]",
+            "weight": 10
+        },
+        "value41": {
+            "value": "[url:http://www.wikidata.org/entity/Q757960|tab]Yazi[/url]",
+            "weight": 10
+        },
+        "value42": {
+            "value": "[url:http://www.wikidata.org/entity/Q757964|tab]Q757964[/url]",
+            "weight": 10
+        },
+        "value43": {
+            "value": "[url:http://www.wikidata.org/entity/Q757972|tab]Suanni[/url]",
+            "weight": 10
+        },
+        "value44": {
+            "value": "[url:http://www.wikidata.org/entity/Q757989|tab]Q757989[/url]",
+            "weight": 10
+        },
+        "value45": {
+            "value": "[url:http://www.wikidata.org/entity/Q758058|tab]Taotie[/url]",
+            "weight": 10
+        },
+        "value46": {
+            "value": "[url:http://www.wikidata.org/entity/Q758067|tab]Denglong[/url]",
+            "weight": 10
+        },
+        "value47": {
+            "value": "[url:http://www.wikidata.org/entity/Q771046|tab]Seebischof[/url]",
+            "weight": 10
+        },
+        "value48": {
+            "value": "[url:http://www.wikidata.org/entity/Q780857|tab]Ethiopian pegasus[/url]",
+            "weight": 10
+        },
+        "value49": {
+            "value": "[url:http://www.wikidata.org/entity/Q794547|tab]Bahamut[/url]",
+            "weight": 10
+        },
+        "value50": {
+            "value": "[url:http://www.wikidata.org/entity/Q804542|tab]Baku[/url]",
+            "weight": 10
+        },
+        "value51": {
+            "value": "[url:http://www.wikidata.org/entity/Q816795|tab]Hippokamp[/url]",
+            "weight": 10
+        },
+        "value52": {
+            "value": "[url:http://www.wikidata.org/entity/Q873665|tab]Taowu[/url]",
+            "weight": 10
+        },
+        "value53": {
+            "value": "[url:http://www.wikidata.org/entity/Q873886|tab]Wunderhirsch[/url]",
+            "weight": 10
+        },
+        "value54": {
+            "value": "[url:http://www.wikidata.org/entity/Q891424|tab]Bolla[/url]",
+            "weight": 10
+        },
+        "value55": {
+            "value": "[url:http://www.wikidata.org/entity/Q903786|tab]Empusa[/url]",
+            "weight": 10
+        },
+        "value56": {
+            "value": "[url:http://www.wikidata.org/entity/Q946981|tab]Skythisches Lamm[/url]",
+            "weight": 10
+        },
+        "value57": {
+            "value": "[url:http://www.wikidata.org/entity/Q951340|tab]Yale[/url]",
+            "weight": 10
+        },
+        "value58": {
+            "value": "[url:http://www.wikidata.org/entity/Q966607|tab]Surma[/url]",
+            "weight": 10
+        },
+        "value59": {
+            "value": "[url:http://www.wikidata.org/entity/Q973546|tab]Bunyip[/url]",
+            "weight": 10
+        },
+        "value60": {
+            "value": "[url:http://www.wikidata.org/entity/Q1052353|tab]Purusha[/url]",
+            "weight": 10
+        },
+        "value61": {
+            "value": "[url:http://www.wikidata.org/entity/Q1077710|tab]Shen[/url]",
+            "weight": 10
+        },
+        "value62": {
+            "value": "[url:http://www.wikidata.org/entity/Q1088083|tab]Karkadann[/url]",
+            "weight": 10
+        },
+        "value63": {
+            "value": "[url:http://www.wikidata.org/entity/Q1088867|tab]Chrysomallos[/url]",
+            "weight": 10
+        },
+        "value64": {
+            "value": "[url:http://www.wikidata.org/entity/Q1092593|tab]Longana[/url]",
+            "weight": 10
+        },
+        "value65": {
+            "value": "[url:http://www.wikidata.org/entity/Q1127246|tab]Wechselbalg[/url]",
+            "weight": 10
+        },
+        "value66": {
+            "value": "[url:http://www.wikidata.org/entity/Q1130107|tab]Lilin[/url]",
+            "weight": 10
+        },
+        "value67": {
+            "value": "[url:http://www.wikidata.org/entity/Q1131235|tab]Karkinos[/url]",
+            "weight": 10
+        },
+        "value68": {
+            "value": "[url:http://www.wikidata.org/entity/Q1141550|tab]Jaguarmensch[/url]",
+            "weight": 10
+        },
+        "value69": {
+            "value": "[url:http://www.wikidata.org/entity/Q1148977|tab]Zhu Bajie[/url]",
+            "weight": 10
+        },
+        "value70": {
+            "value": "[url:http://www.wikidata.org/entity/Q1187298|tab]Gyges[/url]",
+            "weight": 10
+        },
+        "value71": {
+            "value": "[url:http://www.wikidata.org/entity/Q1191044|tab]The Beast[/url]",
+            "weight": 10
+        },
+        "value72": {
+            "value": "[url:http://www.wikidata.org/entity/Q1197711|tab]Sha Wujing[/url]",
+            "weight": 10
+        },
+        "value73": {
+            "value": "[url:http://www.wikidata.org/entity/Q1257943|tab]Dreiköpfiger Adler[/url]",
+            "weight": 10
+        },
+        "value74": {
+            "value": "[url:http://www.wikidata.org/entity/Q1262691|tab]Schneelöwe[/url]",
+            "weight": 10
+        },
+        "value75": {
+            "value": "[url:http://www.wikidata.org/entity/Q1302775|tab]eierlegende Wollmilchsau[/url]",
+            "weight": 10
+        },
+        "value76": {
+            "value": "[url:http://www.wikidata.org/entity/Q1375695|tab]Hun Dun[/url]",
+            "weight": 10
+        },
+        "value77": {
+            "value": "[url:http://www.wikidata.org/entity/Q1433459|tab]Melek Taus[/url]",
+            "weight": 10
+        },
+        "value78": {
+            "value": "[url:http://www.wikidata.org/entity/Q1493440|tab]Mogwai[/url]",
+            "weight": 10
+        },
+        "value79": {
+            "value": "[url:http://www.wikidata.org/entity/Q1503117|tab]Mhorag[/url]",
+            "weight": 10
+        },
+        "value80": {
+            "value": "[url:http://www.wikidata.org/entity/Q1520161|tab]Getüm[/url]",
+            "weight": 10
+        },
+        "value81": {
+            "value": "[url:http://www.wikidata.org/entity/Q1545450|tab]Greif[/url]",
+            "weight": 10
+        },
+        "value82": {
+            "value": "[url:http://www.wikidata.org/entity/Q1549181|tab]Großes Känguru[/url]",
+            "weight": 10
+        },
+        "value83": {
+            "value": "[url:http://www.wikidata.org/entity/Q1574615|tab]Krølle-Bølle[/url]",
+            "weight": 10
+        },
+        "value84": {
+            "value": "[url:http://www.wikidata.org/entity/Q1575492|tab]Hanghuhn[/url]",
+            "weight": 10
+        },
+        "value85": {
+            "value": "[url:http://www.wikidata.org/entity/Q1660457|tab]Akabeko[/url]",
+            "weight": 10
+        },
+        "value86": {
+            "value": "[url:http://www.wikidata.org/entity/Q1664033|tab]Innerer Schweinehund[/url]",
+            "weight": 10
+        },
+        "value87": {
+            "value": "[url:http://www.wikidata.org/entity/Q1689438|tab]Jimmy Squarefoot[/url]",
+            "weight": 10
+        },
+        "value88": {
+            "value": "[url:http://www.wikidata.org/entity/Q1707194|tab]Cuco[/url]",
+            "weight": 10
+        },
+        "value89": {
+            "value": "[url:http://www.wikidata.org/entity/Q1743879|tab]Kithaironischer Löwe[/url]",
+            "weight": 10
+        },
+        "value90": {
+            "value": "[url:http://www.wikidata.org/entity/Q1751351|tab]Ninki-Nanka[/url]",
+            "weight": 10
+        },
+        "value91": {
+            "value": "[url:http://www.wikidata.org/entity/Q1776640|tab]Klushund[/url]",
+            "weight": 10
+        },
+        "value92": {
+            "value": "[url:http://www.wikidata.org/entity/Q1784010|tab]Lindwurm von Lambton[/url]",
+            "weight": 10
+        },
+        "value93": {
+            "value": "[url:http://www.wikidata.org/entity/Q1860727|tab]Triton[/url]",
+            "weight": 10
+        },
+        "value94": {
+            "value": "[url:http://www.wikidata.org/entity/Q1886894|tab]Grindylow[/url]",
+            "weight": 10
+        },
+        "value95": {
+            "value": "[url:http://www.wikidata.org/entity/Q1900292|tab]Mo-O[/url]",
+            "weight": 10
+        },
+        "value96": {
+            "value": "[url:http://www.wikidata.org/entity/Q1957615|tab]Á Bao A Qu[/url]",
+            "weight": 10
+        },
+        "value97": {
+            "value": "[url:http://www.wikidata.org/entity/Q1959754|tab]Q1959754[/url]",
+            "weight": 10
+        },
+        "value98": {
+            "value": "[url:http://www.wikidata.org/entity/Q1964412|tab]Leyak[/url]",
+            "weight": 10
+        },
+        "value99": {
+            "value": "[url:http://www.wikidata.org/entity/Q1992451|tab]Balaur[/url]",
+            "weight": 10
+        },
+        "value100": {
+            "value": "[url:http://www.wikidata.org/entity/Q2006961|tab]Yeren[/url]",
+            "weight": 10
+        },
+        "value101": {
+            "value": "[url:http://www.wikidata.org/entity/Q2049563|tab]Beast of Exmoor[/url]",
+            "weight": 10
+        },
+        "value102": {
+            "value": "[url:http://www.wikidata.org/entity/Q2062425|tab]Skunk Ape[/url]",
+            "weight": 10
+        },
+        "value103": {
+            "value": "[url:http://www.wikidata.org/entity/Q2094195|tab]Q2094195[/url]",
+            "weight": 10
+        },
+        "value104": {
+            "value": "[url:http://www.wikidata.org/entity/Q2099475|tab]Q2099475[/url]",
+            "weight": 10
+        },
+        "value105": {
+            "value": "[url:http://www.wikidata.org/entity/Q2153976|tab]Q2153976[/url]",
+            "weight": 10
+        },
+        "value106": {
+            "value": "[url:http://www.wikidata.org/entity/Q2181932|tab]Apotamkin[/url]",
+            "weight": 10
+        },
+        "value107": {
+            "value": "[url:http://www.wikidata.org/entity/Q2273216|tab]Topielec[/url]",
+            "weight": 10
+        },
+        "value108": {
+            "value": "[url:http://www.wikidata.org/entity/Q2274704|tab]Vetala[/url]",
+            "weight": 10
+        },
+        "value109": {
+            "value": "[url:http://www.wikidata.org/entity/Q2293613|tab]Aspidochelone[/url]",
+            "weight": 10
+        },
+        "value110": {
+            "value": "[url:http://www.wikidata.org/entity/Q2307579|tab]Camazotz[/url]",
+            "weight": 10
+        },
+        "value111": {
+            "value": "[url:http://www.wikidata.org/entity/Q2344734|tab]Druk[/url]",
+            "weight": 10
+        },
+        "value112": {
+            "value": "[url:http://www.wikidata.org/entity/Q2366503|tab]Japanese dragon[/url]",
+            "weight": 10
+        },
+        "value113": {
+            "value": "[url:http://www.wikidata.org/entity/Q2379888|tab]Adlet[/url]",
+            "weight": 10
+        },
+        "value114": {
+            "value": "[url:http://www.wikidata.org/entity/Q2391848|tab]Pitsen[/url]",
+            "weight": 10
+        },
+        "value115": {
+            "value": "[url:http://www.wikidata.org/entity/Q2395594|tab]Q2395594[/url]",
+            "weight": 10
+        },
+        "value116": {
+            "value": "[url:http://www.wikidata.org/entity/Q2417943|tab]Raijū[/url]",
+            "weight": 10
+        },
+        "value117": {
+            "value": "[url:http://www.wikidata.org/entity/Q2419622|tab]Squonk[/url]",
+            "weight": 10
+        },
+        "value118": {
+            "value": "[url:http://www.wikidata.org/entity/Q2447830|tab]Salmon of Knowledge[/url]",
+            "weight": 10
+        },
+        "value119": {
+            "value": "[url:http://www.wikidata.org/entity/Q2454771|tab]Mawu[/url]",
+            "weight": 10
+        },
+        "value120": {
+            "value": "[url:http://www.wikidata.org/entity/Q2481184|tab]Q2481184[/url]",
+            "weight": 10
+        },
+        "value121": {
+            "value": "[url:http://www.wikidata.org/entity/Q2499582|tab]Jin Chan[/url]",
+            "weight": 10
+        },
+        "value122": {
+            "value": "[url:http://www.wikidata.org/entity/Q2501210|tab]Bai Ze[/url]",
+            "weight": 10
+        },
+        "value123": {
+            "value": "[url:http://www.wikidata.org/entity/Q2525461|tab]Iku-Turso[/url]",
+            "weight": 10
+        },
+        "value124": {
+            "value": "[url:http://www.wikidata.org/entity/Q2529907|tab]Vogel Gryff[/url]",
+            "weight": 10
+        },
+        "value125": {
+            "value": "[url:http://www.wikidata.org/entity/Q2529990|tab]Alp[/url]",
+            "weight": 10
+        },
+        "value126": {
+            "value": "[url:http://www.wikidata.org/entity/Q2540132|tab]Kotcha-Si[/url]",
+            "weight": 10
+        },
+        "value127": {
+            "value": "[url:http://www.wikidata.org/entity/Q2576738|tab]fravashi[/url]",
+            "weight": 10
+        },
+        "value128": {
+            "value": "[url:http://www.wikidata.org/entity/Q2625852|tab]Q2625852[/url]",
+            "weight": 10
+        },
+        "value129": {
+            "value": "[url:http://www.wikidata.org/entity/Q2633489|tab]Indrik[/url]",
+            "weight": 10
+        },
+        "value130": {
+            "value": "[url:http://www.wikidata.org/entity/Q2649344|tab]Q2649344[/url]",
+            "weight": 10
+        },
+        "value131": {
+            "value": "[url:http://www.wikidata.org/entity/Q2698640|tab]Bugul Noz[/url]",
+            "weight": 10
+        },
+        "value132": {
+            "value": "[url:http://www.wikidata.org/entity/Q2709534|tab]Q2709534[/url]",
+            "weight": 10
+        },
+        "value133": {
+            "value": "[url:http://www.wikidata.org/entity/Q2737953|tab]crocotta[/url]",
+            "weight": 10
+        },
+        "value134": {
+            "value": "[url:http://www.wikidata.org/entity/Q2743878|tab]leontophone[/url]",
+            "weight": 10
+        },
+        "value135": {
+            "value": "[url:http://www.wikidata.org/entity/Q2781767|tab]Q2781767[/url]",
+            "weight": 10
+        },
+        "value136": {
+            "value": "[url:http://www.wikidata.org/entity/Q2795785|tab]Q2795785[/url]",
+            "weight": 10
+        },
+        "value137": {
+            "value": "[url:http://www.wikidata.org/entity/Q2798319|tab]horned serpent[/url]",
+            "weight": 10
+        },
+        "value138": {
+            "value": "[url:http://www.wikidata.org/entity/Q2840148|tab]Alraune[/url]",
+            "weight": 10
+        },
+        "value139": {
+            "value": "[url:http://www.wikidata.org/entity/Q2842133|tab]Q2842133[/url]",
+            "weight": 10
+        },
+        "value140": {
+            "value": "[url:http://www.wikidata.org/entity/Q2856523|tab]Q2856523[/url]",
+            "weight": 10
+        },
+        "value141": {
+            "value": "[url:http://www.wikidata.org/entity/Q2902427|tab]Bicorn and Chichevache[/url]",
+            "weight": 10
+        },
+        "value142": {
+            "value": "[url:http://www.wikidata.org/entity/Q2920710|tab]Ocho-Kochi[/url]",
+            "weight": 10
+        },
+        "value143": {
+            "value": "[url:http://www.wikidata.org/entity/Q2922717|tab]Bownessie[/url]",
+            "weight": 10
+        },
+        "value144": {
+            "value": "[url:http://www.wikidata.org/entity/Q2927718|tab]Buggane[/url]",
+            "weight": 10
+        },
+        "value145": {
+            "value": "[url:http://www.wikidata.org/entity/Q2930134|tab]siebenköpfiges Biest[/url]",
+            "weight": 10
+        },
+        "value146": {
+            "value": "[url:http://www.wikidata.org/entity/Q2943809|tab]Ceffyl dŵr[/url]",
+            "weight": 10
+        },
+        "value147": {
+            "value": "[url:http://www.wikidata.org/entity/Q2962975|tab]Caballo marino chilote[/url]",
+            "weight": 10
+        },
+        "value148": {
+            "value": "[url:http://www.wikidata.org/entity/Q2963796|tab]Chinthe[/url]",
+            "weight": 10
+        },
+        "value149": {
+            "value": "[url:http://www.wikidata.org/entity/Q2987501|tab]Kui[/url]",
+            "weight": 10
+        },
+        "value150": {
+            "value": "[url:http://www.wikidata.org/entity/Q2998824|tab]Coulobre[/url]",
+            "weight": 10
+        },
+        "value151": {
+            "value": "[url:http://www.wikidata.org/entity/Q3054744|tab]Shangyang[/url]",
+            "weight": 10
+        },
+        "value152": {
+            "value": "[url:http://www.wikidata.org/entity/Q3094873|tab]Galtzagorriak[/url]",
+            "weight": 10
+        },
+        "value153": {
+            "value": "[url:http://www.wikidata.org/entity/Q3183062|tab]joint snake[/url]",
+            "weight": 10
+        },
+        "value154": {
+            "value": "[url:http://www.wikidata.org/entity/Q3219468|tab]Q3219468[/url]",
+            "weight": 10
+        },
+        "value155": {
+            "value": "[url:http://www.wikidata.org/entity/Q3254885|tab]Bedawang[/url]",
+            "weight": 10
+        },
+        "value156": {
+            "value": "[url:http://www.wikidata.org/entity/Q3277613|tab]Liekkiö[/url]",
+            "weight": 10
+        },
+        "value157": {
+            "value": "[url:http://www.wikidata.org/entity/Q3282743|tab]Q3282743[/url]",
+            "weight": 10
+        },
+        "value158": {
+            "value": "[url:http://www.wikidata.org/entity/Q3306791|tab]psychic vampire[/url]",
+            "weight": 10
+        },
+        "value159": {
+            "value": "[url:http://www.wikidata.org/entity/Q3317775|tab]Moddey Dhoo[/url]",
+            "weight": 10
+        },
+        "value160": {
+            "value": "[url:http://www.wikidata.org/entity/Q3346508|tab]nuton[/url]",
+            "weight": 10
+        },
+        "value161": {
+            "value": "[url:http://www.wikidata.org/entity/Q3484151|tab]Simiot[/url]",
+            "weight": 10
+        },
+        "value162": {
+            "value": "[url:http://www.wikidata.org/entity/Q3486963|tab]Loveland frog[/url]",
+            "weight": 10
+        },
+        "value163": {
+            "value": "[url:http://www.wikidata.org/entity/Q3499829|tab]Zduhać[/url]",
+            "weight": 10
+        },
+        "value164": {
+            "value": "[url:http://www.wikidata.org/entity/Q3503382|tab]Ziege-Fisch[/url]",
+            "weight": 10
+        },
+        "value165": {
+            "value": "[url:http://www.wikidata.org/entity/Q3552530|tab]Usagi[/url]",
+            "weight": 10
+        },
+        "value166": {
+            "value": "[url:http://www.wikidata.org/entity/Q3607089|tab]Aigamuxa[/url]",
+            "weight": 10
+        },
+        "value167": {
+            "value": "[url:http://www.wikidata.org/entity/Q3614482|tab]Ammuntadore[/url]",
+            "weight": 10
+        },
+        "value168": {
+            "value": "[url:http://www.wikidata.org/entity/Q3617509|tab]Animale di Seth[/url]",
+            "weight": 10
+        },
+        "value169": {
+            "value": "[url:http://www.wikidata.org/entity/Q3631219|tab]Avurie[/url]",
+            "weight": 10
+        },
+        "value170": {
+            "value": "[url:http://www.wikidata.org/entity/Q3632369|tab]Babau[/url]",
+            "weight": 10
+        },
+        "value171": {
+            "value": "[url:http://www.wikidata.org/entity/Q3632741|tab]Badalischio[/url]",
+            "weight": 10
+        },
+        "value172": {
+            "value": "[url:http://www.wikidata.org/entity/Q3632742|tab]Badalisc[/url]",
+            "weight": 10
+        },
+        "value173": {
+            "value": "[url:http://www.wikidata.org/entity/Q3639054|tab]Beast from the Sea[/url]",
+            "weight": 10
+        },
+        "value174": {
+            "value": "[url:http://www.wikidata.org/entity/Q3639742|tab]Biddrina[/url]",
+            "weight": 10
+        },
+        "value175": {
+            "value": "[url:http://www.wikidata.org/entity/Q3639940|tab]Biliku[/url]",
+            "weight": 10
+        },
+        "value176": {
+            "value": "[url:http://www.wikidata.org/entity/Q3640465|tab]Bisso Galeto[/url]",
+            "weight": 10
+        },
+        "value177": {
+            "value": "[url:http://www.wikidata.org/entity/Q3642361|tab]Borda[/url]",
+            "weight": 10
+        },
+        "value178": {
+            "value": "[url:http://www.wikidata.org/entity/Q3643892|tab]Brathy[/url]",
+            "weight": 10
+        },
+        "value179": {
+            "value": "[url:http://www.wikidata.org/entity/Q3646598|tab]Buffardello[/url]",
+            "weight": 10
+        },
+        "value180": {
+            "value": "[url:http://www.wikidata.org/entity/Q3646672|tab]Bugonie[/url]",
+            "weight": 10
+        },
+        "value181": {
+            "value": "[url:http://www.wikidata.org/entity/Q3657246|tab]Goatman[/url]",
+            "weight": 10
+        },
+        "value182": {
+            "value": "[url:http://www.wikidata.org/entity/Q3664407|tab]Cenocroca[/url]",
+            "weight": 10
+        },
+        "value183": {
+            "value": "[url:http://www.wikidata.org/entity/Q3682382|tab]Cogas[/url]",
+            "weight": 10
+        },
+        "value184": {
+            "value": "[url:http://www.wikidata.org/entity/Q3683324|tab]Colo Colo[/url]",
+            "weight": 10
+        },
+        "value185": {
+            "value": "[url:http://www.wikidata.org/entity/Q3686664|tab]Confinati[/url]",
+            "weight": 10
+        },
+        "value186": {
+            "value": "[url:http://www.wikidata.org/entity/Q3705382|tab]Demone del consumo[/url]",
+            "weight": 10
+        },
+        "value187": {
+            "value": "[url:http://www.wikidata.org/entity/Q3740591|tab]Furchterregende Fabeltiere[/url]",
+            "weight": 10
+        },
+        "value188": {
+            "value": "[url:http://www.wikidata.org/entity/Q3758826|tab]Gata Carogna[/url]",
+            "weight": 10
+        },
+        "value189": {
+            "value": "[url:http://www.wikidata.org/entity/Q3758893|tab]Gatto Mammone[/url]",
+            "weight": 10
+        },
+        "value190": {
+            "value": "[url:http://www.wikidata.org/entity/Q3764063|tab]Gigat[/url]",
+            "weight": 10
+        },
+        "value191": {
+            "value": "[url:http://www.wikidata.org/entity/Q3772582|tab]Gnefro[/url]",
+            "weight": 10
+        },
+        "value192": {
+            "value": "[url:http://www.wikidata.org/entity/Q3774458|tab]Boiúna[/url]",
+            "weight": 10
+        },
+        "value193": {
+            "value": "[url:http://www.wikidata.org/entity/Q3780134|tab]Gwarch y Rhybin[/url]",
+            "weight": 10
+        },
+        "value194": {
+            "value": "[url:http://www.wikidata.org/entity/Q3783630|tab]Hatcukliba[/url]",
+            "weight": 10
+        },
+        "value195": {
+            "value": "[url:http://www.wikidata.org/entity/Q3792065|tab]Iemisch[/url]",
+            "weight": 10
+        },
+        "value196": {
+            "value": "[url:http://www.wikidata.org/entity/Q3801858|tab]hircocervus[/url]",
+            "weight": 10
+        },
+        "value197": {
+            "value": "[url:http://www.wikidata.org/entity/Q3806978|tab]Noce di Benevento[/url]",
+            "weight": 10
+        },
+        "value198": {
+            "value": "[url:http://www.wikidata.org/entity/Q3817077|tab]Krivapeta[/url]",
+            "weight": 10
+        },
+        "value199": {
+            "value": "[url:http://www.wikidata.org/entity/Q3820084|tab]L'uomo selvatico di Sacco[/url]",
+            "weight": 10
+        },
+        "value200": {
+            "value": "[url:http://www.wikidata.org/entity/Q3827958|tab]Lauro[/url]",
+            "weight": 10
+        },
+        "value201": {
+            "value": "[url:http://www.wikidata.org/entity/Q6144419|tab]Water leaper[/url]",
+            "weight": 10
+        },
+        "value202": {
+            "value": "[url:http://www.wikidata.org/entity/Q6240648|tab]Fūri[/url]",
+            "weight": 10
+        },
+        "value203": {
+            "value": "[url:http://www.wikidata.org/entity/Q6378849|tab]Kaupe[/url]",
+            "weight": 10
+        },
+        "value204": {
+            "value": "[url:http://www.wikidata.org/entity/Q6416220|tab]Kirtimukha[/url]",
+            "weight": 10
+        },
+        "value205": {
+            "value": "[url:http://www.wikidata.org/entity/Q6441360|tab]Q6441360[/url]",
+            "weight": 10
+        },
+        "value206": {
+            "value": "[url:http://www.wikidata.org/entity/Q6441586|tab]Sheshe[/url]",
+            "weight": 10
+        },
+        "value207": {
+            "value": "[url:http://www.wikidata.org/entity/Q6449760|tab]Irshi[/url]",
+            "weight": 10
+        },
+        "value208": {
+            "value": "[url:http://www.wikidata.org/entity/Q6452911|tab]Q6452911[/url]",
+            "weight": 10
+        },
+        "value209": {
+            "value": "[url:http://www.wikidata.org/entity/Q6458857|tab]Kirubi[/url]",
+            "weight": 10
+        },
+        "value210": {
+            "value": "[url:http://www.wikidata.org/entity/Q6463750|tab]Q6463750[/url]",
+            "weight": 10
+        },
+        "value211": {
+            "value": "[url:http://www.wikidata.org/entity/Q6483995|tab]Chai nenesi[/url]",
+            "weight": 10
+        },
+        "value212": {
+            "value": "[url:http://www.wikidata.org/entity/Q6501641|tab]Q6501641[/url]",
+            "weight": 10
+        },
+        "value213": {
+            "value": "[url:http://www.wikidata.org/entity/Q6505889|tab]Q6505889[/url]",
+            "weight": 10
+        },
+        "value214": {
+            "value": "[url:http://www.wikidata.org/entity/Q6515693|tab]Q6515693[/url]",
+            "weight": 10
+        },
+        "value215": {
+            "value": "[url:http://www.wikidata.org/entity/Q6529392|tab]Q6529392[/url]",
+            "weight": 10
+        },
+        "value216": {
+            "value": "[url:http://www.wikidata.org/entity/Q6529587|tab]Yel iyesi[/url]",
+            "weight": 10
+        },
+        "value217": {
+            "value": "[url:http://www.wikidata.org/entity/Q6532818|tab]Q6532818[/url]",
+            "weight": 10
+        },
+        "value218": {
+            "value": "[url:http://www.wikidata.org/entity/Q6532838|tab]Q6532838[/url]",
+            "weight": 10
+        },
+        "value219": {
+            "value": "[url:http://www.wikidata.org/entity/Q6537535|tab]Q6537535[/url]",
+            "weight": 10
+        },
+        "value220": {
+            "value": "[url:http://www.wikidata.org/entity/Q6545638|tab]Uzuh[/url]",
+            "weight": 10
+        },
+        "value221": {
+            "value": "[url:http://www.wikidata.org/entity/Q6545893|tab]Uylak[/url]",
+            "weight": 10
+        },
+        "value222": {
+            "value": "[url:http://www.wikidata.org/entity/Q6548423|tab]lilu[/url]",
+            "weight": 10
+        },
+        "value223": {
+            "value": "[url:http://www.wikidata.org/entity/Q6554388|tab]Q6554388[/url]",
+            "weight": 10
+        },
+        "value224": {
+            "value": "[url:http://www.wikidata.org/entity/Q6567287|tab]Q6567287[/url]",
+            "weight": 10
+        },
+        "value225": {
+            "value": "[url:http://www.wikidata.org/entity/Q6578495|tab]Sazakan[/url]",
+            "weight": 10
+        },
+        "value226": {
+            "value": "[url:http://www.wikidata.org/entity/Q6581763|tab]Q6581763[/url]",
+            "weight": 10
+        },
+        "value227": {
+            "value": "[url:http://www.wikidata.org/entity/Q6583293|tab]Q6583293[/url]",
+            "weight": 10
+        },
+        "value228": {
+            "value": "[url:http://www.wikidata.org/entity/Q6586584|tab]Q6586584[/url]",
+            "weight": 10
+        },
+        "value229": {
+            "value": "[url:http://www.wikidata.org/entity/Q6586606|tab]Q6586606[/url]",
+            "weight": 10
+        },
+        "value230": {
+            "value": "[url:http://www.wikidata.org/entity/Q6594568|tab]Q6594568[/url]",
+            "weight": 10
+        },
+        "value231": {
+            "value": "[url:http://www.wikidata.org/entity/Q6632346|tab]Skinwalker[/url]",
+            "weight": 10
+        },
+        "value232": {
+            "value": "[url:http://www.wikidata.org/entity/Q6636040|tab]Qarakorshaq[/url]",
+            "weight": 10
+        },
+        "value233": {
+            "value": "[url:http://www.wikidata.org/entity/Q6650148|tab]Q6650148[/url]",
+            "weight": 10
+        },
+        "value234": {
+            "value": "[url:http://www.wikidata.org/entity/Q6657778|tab]Q6657778[/url]",
+            "weight": 10
+        },
+        "value235": {
+            "value": "[url:http://www.wikidata.org/entity/Q6694999|tab]Luanda Magere[/url]",
+            "weight": 10
+        },
+        "value236": {
+            "value": "[url:http://www.wikidata.org/entity/Q6729513|tab]Nie Xiaoqian[/url]",
+            "weight": 10
+        },
+        "value237": {
+            "value": "[url:http://www.wikidata.org/entity/Q6739846|tab]Q6739846[/url]",
+            "weight": 10
+        },
+        "value238": {
+            "value": "[url:http://www.wikidata.org/entity/Q6748038|tab]Mandi[/url]",
+            "weight": 10
+        },
+        "value239": {
+            "value": "[url:http://www.wikidata.org/entity/Q6750912|tab]Q6750912[/url]",
+            "weight": 10
+        },
+        "value240": {
+            "value": "[url:http://www.wikidata.org/entity/Q6753371|tab]Ergene iyesi[/url]",
+            "weight": 10
+        },
+        "value241": {
+            "value": "[url:http://www.wikidata.org/entity/Q6758789|tab]Emegen[/url]",
+            "weight": 10
+        },
+        "value242": {
+            "value": "[url:http://www.wikidata.org/entity/Q6762977|tab]Q6762977[/url]",
+            "weight": 10
+        },
+        "value243": {
+            "value": "[url:http://www.wikidata.org/entity/Q6777987|tab]Q6777987[/url]",
+            "weight": 10
+        },
+        "value244": {
+            "value": "[url:http://www.wikidata.org/entity/Q6781188|tab]Q6781188[/url]",
+            "weight": 10
+        },
+        "value245": {
+            "value": "[url:http://www.wikidata.org/entity/Q6811893|tab]Q6811893[/url]",
+            "weight": 10
+        },
+        "value246": {
+            "value": "[url:http://www.wikidata.org/entity/Q6824644|tab]Q6824644[/url]",
+            "weight": 10
+        },
+        "value247": {
+            "value": "[url:http://www.wikidata.org/entity/Q6824836|tab]Büke[/url]",
+            "weight": 10
+        },
+        "value248": {
+            "value": "[url:http://www.wikidata.org/entity/Q6828792|tab]Q6828792[/url]",
+            "weight": 10
+        },
+        "value249": {
+            "value": "[url:http://www.wikidata.org/entity/Q6840266|tab]Howling Celestial Dog[/url]",
+            "weight": 10
+        },
+        "value250": {
+            "value": "[url:http://www.wikidata.org/entity/Q6852791|tab]Q6852791[/url]",
+            "weight": 10
+        },
+        "value251": {
+            "value": "[url:http://www.wikidata.org/entity/Q6860012|tab]Basty[/url]",
+            "weight": 10
+        },
+        "value252": {
+            "value": "[url:http://www.wikidata.org/entity/Q6862054|tab]Q6862054[/url]",
+            "weight": 10
+        },
+        "value253": {
+            "value": "[url:http://www.wikidata.org/entity/Q6875085|tab]Q6875085[/url]",
+            "weight": 10
+        },
+        "value254": {
+            "value": "[url:http://www.wikidata.org/entity/Q6890059|tab]Moehau[/url]",
+            "weight": 10
+        },
+        "value255": {
+            "value": "[url:http://www.wikidata.org/entity/Q6893207|tab]Q6893207[/url]",
+            "weight": 10
+        },
+        "value256": {
+            "value": "[url:http://www.wikidata.org/entity/Q6893315|tab]Q6893315[/url]",
+            "weight": 10
+        },
+        "value257": {
+            "value": "[url:http://www.wikidata.org/entity/Q6893371|tab]Q6893371[/url]",
+            "weight": 10
+        },
+        "value258": {
+            "value": "[url:http://www.wikidata.org/entity/Q6893519|tab]mohan[/url]",
+            "weight": 10
+        },
+        "value259": {
+            "value": "[url:http://www.wikidata.org/entity/Q6894354|tab]Q6894354[/url]",
+            "weight": 10
+        },
+        "value260": {
+            "value": "[url:http://www.wikidata.org/entity/Q6895966|tab]Q6895966[/url]",
+            "weight": 10
+        },
+        "value261": {
+            "value": "[url:http://www.wikidata.org/entity/Q6901846|tab]Q6901846[/url]",
+            "weight": 10
+        },
+        "value262": {
+            "value": "[url:http://www.wikidata.org/entity/Q6903682|tab]Q6903682[/url]",
+            "weight": 10
+        },
+        "value263": {
+            "value": "[url:http://www.wikidata.org/entity/Q6915607|tab]Q6915607[/url]",
+            "weight": 10
+        },
+        "value264": {
+            "value": "[url:http://www.wikidata.org/entity/Q6959853|tab]Q6959853[/url]",
+            "weight": 10
+        },
+        "value265": {
+            "value": "[url:http://www.wikidata.org/entity/Q7011794|tab]Q7011794[/url]",
+            "weight": 10
+        },
+        "value266": {
+            "value": "[url:http://www.wikidata.org/entity/Q7069863|tab]nuno[/url]",
+            "weight": 10
+        },
+        "value267": {
+            "value": "[url:http://www.wikidata.org/entity/Q7116293|tab]Oynyena Maria[/url]",
+            "weight": 10
+        },
+        "value268": {
+            "value": "[url:http://www.wikidata.org/entity/Q7125024|tab]Painted Skin[/url]",
+            "weight": 10
+        },
+        "value269": {
+            "value": "[url:http://www.wikidata.org/entity/Q7270599|tab]Queen of Elphame[/url]",
+            "weight": 10
+        },
+        "value270": {
+            "value": "[url:http://www.wikidata.org/entity/Q7322519|tab]Q7322519[/url]",
+            "weight": 10
+        },
+        "value271": {
+            "value": "[url:http://www.wikidata.org/entity/Q7420120|tab]Santelmo[/url]",
+            "weight": 10
+        },
+        "value272": {
+            "value": "[url:http://www.wikidata.org/entity/Q7423103|tab]Sarangay[/url]",
+            "weight": 10
+        },
+        "value273": {
+            "value": "[url:http://www.wikidata.org/entity/Q7536575|tab]Skrat[/url]",
+            "weight": 10
+        },
+        "value274": {
+            "value": "[url:http://www.wikidata.org/entity/Q7676143|tab]Tailypo[/url]",
+            "weight": 10
+        },
+        "value275": {
+            "value": "[url:http://www.wikidata.org/entity/Q7683345|tab]Taniwha[/url]",
+            "weight": 10
+        },
+        "value276": {
+            "value": "[url:http://www.wikidata.org/entity/Q7710762|tab]Thardid Jimbo[/url]",
+            "weight": 10
+        },
+        "value277": {
+            "value": "[url:http://www.wikidata.org/entity/Q7730866|tab]The Dragon of the North[/url]",
+            "weight": 10
+        },
+        "value278": {
+            "value": "[url:http://www.wikidata.org/entity/Q7800452|tab]Tibicena[/url]",
+            "weight": 10
+        },
+        "value279": {
+            "value": "[url:http://www.wikidata.org/entity/Q7905566|tab]Ušumgallu[/url]",
+            "weight": 10
+        },
+        "value280": {
+            "value": "[url:http://www.wikidata.org/entity/Q7976838|tab]Wayob[/url]",
+            "weight": 10
+        },
+        "value281": {
+            "value": "[url:http://www.wikidata.org/entity/Q8018556|tab]Kudan[/url]",
+            "weight": 10
+        },
+        "value282": {
+            "value": "[url:http://www.wikidata.org/entity/Q8025178|tab]Winged lion[/url]",
+            "weight": 10
+        },
+        "value283": {
+            "value": "[url:http://www.wikidata.org/entity/Q8254552|tab]Caboclo d'água[/url]",
+            "weight": 10
+        },
+        "value284": {
+            "value": "[url:http://www.wikidata.org/entity/Q8320871|tab]Q8320871[/url]",
+            "weight": 10
+        },
+        "value285": {
+            "value": "[url:http://www.wikidata.org/entity/Q9016613|tab]Kakuen[/url]",
+            "weight": 10
+        },
+        "value286": {
+            "value": "[url:http://www.wikidata.org/entity/Q9380693|tab]Three Corpses[/url]",
+            "weight": 10
+        },
+        "value287": {
+            "value": "[url:http://www.wikidata.org/entity/Q9382976|tab]Q9382976[/url]",
+            "weight": 10
+        },
+        "value288": {
+            "value": "[url:http://www.wikidata.org/entity/Q9384676|tab]Q9384676[/url]",
+            "weight": 10
+        },
+        "value289": {
+            "value": "[url:http://www.wikidata.org/entity/Q9384719|tab]Q9384719[/url]",
+            "weight": 10
+        },
+        "value290": {
+            "value": "[url:http://www.wikidata.org/entity/Q9384722|tab]The Nine-tailed Turtle[/url]",
+            "weight": 10
+        },
+        "value291": {
+            "value": "[url:http://www.wikidata.org/entity/Q9384741|tab]Q9384741[/url]",
+            "weight": 10
+        },
+        "value292": {
+            "value": "[url:http://www.wikidata.org/entity/Q9387605|tab]Q9387605[/url]",
+            "weight": 10
+        },
+        "value293": {
+            "value": "[url:http://www.wikidata.org/entity/Q9393861|tab]Q9393861[/url]",
+            "weight": 10
+        },
+        "value294": {
+            "value": "[url:http://www.wikidata.org/entity/Q9394149|tab]Chang (creature)[/url]",
+            "weight": 10
+        },
+        "value295": {
+            "value": "[url:http://www.wikidata.org/entity/Q9428574|tab]Q9428574[/url]",
+            "weight": 10
+        },
+        "value296": {
+            "value": "[url:http://www.wikidata.org/entity/Q9433134|tab]Q9433134[/url]",
+            "weight": 10
+        },
+        "value297": {
+            "value": "[url:http://www.wikidata.org/entity/Q9441145|tab]Q9441145[/url]",
+            "weight": 10
+        },
+        "value298": {
+            "value": "[url:http://www.wikidata.org/entity/Q9441475|tab]Q9441475[/url]",
+            "weight": 10
+        },
+        "value299": {
+            "value": "[url:http://www.wikidata.org/entity/Q9526967|tab]Merperson in Southsea[/url]",
+            "weight": 10
+        },
+        "value300": {
+            "value": "[url:http://www.wikidata.org/entity/Q9547028|tab]Q9547028[/url]",
+            "weight": 10
+        },
+        "value301": {
+            "value": "[url:http://www.wikidata.org/entity/Q3827969|tab]Lauru[/url]",
+            "weight": 10
+        },
+        "value302": {
+            "value": "[url:http://www.wikidata.org/entity/Q3830170|tab]Lenghelo[/url]",
+            "weight": 10
+        },
+        "value303": {
+            "value": "[url:http://www.wikidata.org/entity/Q3832570|tab]Linchetto[/url]",
+            "weight": 10
+        },
+        "value304": {
+            "value": "[url:http://www.wikidata.org/entity/Q3836333|tab]Locuste dell'Abisso[/url]",
+            "weight": 10
+        },
+        "value305": {
+            "value": "[url:http://www.wikidata.org/entity/Q3844054|tab]Mama 'e su Sole[/url]",
+            "weight": 10
+        },
+        "value306": {
+            "value": "[url:http://www.wikidata.org/entity/Q3844911|tab]Boitatá[/url]",
+            "weight": 10
+        },
+        "value307": {
+            "value": "[url:http://www.wikidata.org/entity/Q3845257|tab]Marabbecca[/url]",
+            "weight": 10
+        },
+        "value308": {
+            "value": "[url:http://www.wikidata.org/entity/Q3847470|tab]Headless Mule[/url]",
+            "weight": 10
+        },
+        "value309": {
+            "value": "[url:http://www.wikidata.org/entity/Q3849833|tab]Marranghino[/url]",
+            "weight": 10
+        },
+        "value310": {
+            "value": "[url:http://www.wikidata.org/entity/Q3849845|tab]Marroca[/url]",
+            "weight": 10
+        },
+        "value311": {
+            "value": "[url:http://www.wikidata.org/entity/Q3853215|tab]Mazapégul[/url]",
+            "weight": 10
+        },
+        "value312": {
+            "value": "[url:http://www.wikidata.org/entity/Q3860346|tab]Mommotti[/url]",
+            "weight": 10
+        },
+        "value313": {
+            "value": "[url:http://www.wikidata.org/entity/Q3860382|tab]Monachicchio[/url]",
+            "weight": 10
+        },
+        "value314": {
+            "value": "[url:http://www.wikidata.org/entity/Q3860914|tab]Monocerus[/url]",
+            "weight": 10
+        },
+        "value315": {
+            "value": "[url:http://www.wikidata.org/entity/Q3882733|tab]Onocoete[/url]",
+            "weight": 10
+        },
+        "value316": {
+            "value": "[url:http://www.wikidata.org/entity/Q3884325|tab]Orang-bati[/url]",
+            "weight": 10
+        },
+        "value317": {
+            "value": "[url:http://www.wikidata.org/entity/Q3885049|tab]Orcolat[/url]",
+            "weight": 10
+        },
+        "value318": {
+            "value": "[url:http://www.wikidata.org/entity/Q3887813|tab]Ozena[/url]",
+            "weight": 10
+        },
+        "value319": {
+            "value": "[url:http://www.wikidata.org/entity/Q3890554|tab]Scrofa semilanuta[/url]",
+            "weight": 10
+        },
+        "value320": {
+            "value": "[url:http://www.wikidata.org/entity/Q3893119|tab]Pandafeche[/url]",
+            "weight": 10
+        },
+        "value321": {
+            "value": "[url:http://www.wikidata.org/entity/Q3893165|tab]Bestial beast[/url]",
+            "weight": 10
+        },
+        "value322": {
+            "value": "[url:http://www.wikidata.org/entity/Q3901136|tab]Pettenedda[/url]",
+            "weight": 10
+        },
+        "value323": {
+            "value": "[url:http://www.wikidata.org/entity/Q3927873|tab]Quinotaur[/url]",
+            "weight": 10
+        },
+        "value324": {
+            "value": "[url:http://www.wikidata.org/entity/Q3949223|tab]Santa Pupa[/url]",
+            "weight": 10
+        },
+        "value325": {
+            "value": "[url:http://www.wikidata.org/entity/Q3951773|tab]Scazzamurrieddhru[/url]",
+            "weight": 10
+        },
+        "value326": {
+            "value": "[url:http://www.wikidata.org/entity/Q3953182|tab]Scultone[/url]",
+            "weight": 10
+        },
+        "value327": {
+            "value": "[url:http://www.wikidata.org/entity/Q3957936|tab]Serpente regolo[/url]",
+            "weight": 10
+        },
+        "value328": {
+            "value": "[url:http://www.wikidata.org/entity/Q3960002|tab]Apennine Sibyl[/url]",
+            "weight": 10
+        },
+        "value329": {
+            "value": "[url:http://www.wikidata.org/entity/Q3965015|tab]Sorat[/url]",
+            "weight": 10
+        },
+        "value330": {
+            "value": "[url:http://www.wikidata.org/entity/Q3966566|tab]Spettro[/url]",
+            "weight": 10
+        },
+        "value331": {
+            "value": "[url:http://www.wikidata.org/entity/Q3975973|tab]witches of Benevento[/url]",
+            "weight": 10
+        },
+        "value332": {
+            "value": "[url:http://www.wikidata.org/entity/Q3975977|tab]Strego[/url]",
+            "weight": 10
+        },
+        "value333": {
+            "value": "[url:http://www.wikidata.org/entity/Q4006155|tab]Uomo-ragno[/url]",
+            "weight": 10
+        },
+        "value334": {
+            "value": "[url:http://www.wikidata.org/entity/Q4020495|tab]Wirry-cow[/url]",
+            "weight": 10
+        },
+        "value335": {
+            "value": "[url:http://www.wikidata.org/entity/Q4022687|tab]Yenaldooshi[/url]",
+            "weight": 10
+        },
+        "value336": {
+            "value": "[url:http://www.wikidata.org/entity/Q4054720|tab]Abzar İyesi[/url]",
+            "weight": 10
+        },
+        "value337": {
+            "value": "[url:http://www.wikidata.org/entity/Q4179040|tab]Iron Wolf[/url]",
+            "weight": 10
+        },
+        "value338": {
+            "value": "[url:http://www.wikidata.org/entity/Q4228783|tab]Colchian Dragon[/url]",
+            "weight": 10
+        },
+        "value339": {
+            "value": "[url:http://www.wikidata.org/entity/Q4245639|tab]Lidérc[/url]",
+            "weight": 10
+        },
+        "value340": {
+            "value": "[url:http://www.wikidata.org/entity/Q4267689|tab]Q4267689[/url]",
+            "weight": 10
+        },
+        "value341": {
+            "value": "[url:http://www.wikidata.org/entity/Q4280125|tab]Manaia[/url]",
+            "weight": 10
+        },
+        "value342": {
+            "value": "[url:http://www.wikidata.org/entity/Q4291245|tab]Q4291245[/url]",
+            "weight": 10
+        },
+        "value343": {
+            "value": "[url:http://www.wikidata.org/entity/Q4295051|tab]Minoischer Genius[/url]",
+            "weight": 10
+        },
+        "value344": {
+            "value": "[url:http://www.wikidata.org/entity/Q4295304|tab]Minhocão[/url]",
+            "weight": 10
+        },
+        "value345": {
+            "value": "[url:http://www.wikidata.org/entity/Q4300618|tab]Lariosauro[/url]",
+            "weight": 10
+        },
+        "value346": {
+            "value": "[url:http://www.wikidata.org/entity/Q4301649|tab]Q4301649[/url]",
+            "weight": 10
+        },
+        "value347": {
+            "value": "[url:http://www.wikidata.org/entity/Q4410750|tab]Schweinsgesichtige Frauen[/url]",
+            "weight": 10
+        },
+        "value348": {
+            "value": "[url:http://www.wikidata.org/entity/Q4505441|tab]Zouyu[/url]",
+            "weight": 10
+        },
+        "value349": {
+            "value": "[url:http://www.wikidata.org/entity/Q4661578|tab]Aani[/url]",
+            "weight": 10
+        },
+        "value350": {
+            "value": "[url:http://www.wikidata.org/entity/Q4680830|tab]Adaro[/url]",
+            "weight": 10
+        },
+        "value351": {
+            "value": "[url:http://www.wikidata.org/entity/Q4682505|tab]Adhene[/url]",
+            "weight": 10
+        },
+        "value352": {
+            "value": "[url:http://www.wikidata.org/entity/Q4752629|tab]Anchimayen[/url]",
+            "weight": 10
+        },
+        "value353": {
+            "value": "[url:http://www.wikidata.org/entity/Q4770881|tab]Antaboga[/url]",
+            "weight": 10
+        },
+        "value354": {
+            "value": "[url:http://www.wikidata.org/entity/Q4773036|tab]Q4773036[/url]",
+            "weight": 10
+        },
+        "value355": {
+            "value": "[url:http://www.wikidata.org/entity/Q4803544|tab]Q4803544[/url]",
+            "weight": 10
+        },
+        "value356": {
+            "value": "[url:http://www.wikidata.org/entity/Q4816511|tab]Xaya Iccita[/url]",
+            "weight": 10
+        },
+        "value357": {
+            "value": "[url:http://www.wikidata.org/entity/Q4816603|tab]Äbädä[/url]",
+            "weight": 10
+        },
+        "value358": {
+            "value": "[url:http://www.wikidata.org/entity/Q4818242|tab]Şekä[/url]",
+            "weight": 10
+        },
+        "value359": {
+            "value": "[url:http://www.wikidata.org/entity/Q4822797|tab]Q4822797[/url]",
+            "weight": 10
+        },
+        "value360": {
+            "value": "[url:http://www.wikidata.org/entity/Q4832967|tab]Yunak iyesi[/url]",
+            "weight": 10
+        },
+        "value361": {
+            "value": "[url:http://www.wikidata.org/entity/Q4835194|tab]Susulu[/url]",
+            "weight": 10
+        },
+        "value362": {
+            "value": "[url:http://www.wikidata.org/entity/Q4836039|tab]Konrul[/url]",
+            "weight": 10
+        },
+        "value363": {
+            "value": "[url:http://www.wikidata.org/entity/Q4857367|tab]Banyoles monster[/url]",
+            "weight": 10
+        },
+        "value364": {
+            "value": "[url:http://www.wikidata.org/entity/Q4862981|tab]Barong Bali[/url]",
+            "weight": 10
+        },
+        "value365": {
+            "value": "[url:http://www.wikidata.org/entity/Q4903721|tab]Bicorn[/url]",
+            "weight": 10
+        },
+        "value366": {
+            "value": "[url:http://www.wikidata.org/entity/Q4923131|tab]Mae Nak Phra Khanong[/url]",
+            "weight": 10
+        },
+        "value367": {
+            "value": "[url:http://www.wikidata.org/entity/Q5001280|tab]Busaw[/url]",
+            "weight": 10
+        },
+        "value368": {
+            "value": "[url:http://www.wikidata.org/entity/Q5016347|tab]Cadejo[/url]",
+            "weight": 10
+        },
+        "value369": {
+            "value": "[url:http://www.wikidata.org/entity/Q5024901|tab]Camahueto[/url]",
+            "weight": 10
+        },
+        "value370": {
+            "value": "[url:http://www.wikidata.org/entity/Q5116118|tab]Chullachaqui[/url]",
+            "weight": 10
+        },
+        "value371": {
+            "value": "[url:http://www.wikidata.org/entity/Q5196063|tab]Lotan[/url]",
+            "weight": 10
+        },
+        "value372": {
+            "value": "[url:http://www.wikidata.org/entity/Q5305808|tab]Drangue[/url]",
+            "weight": 10
+        },
+        "value373": {
+            "value": "[url:http://www.wikidata.org/entity/Q5360122|tab]Spirit turtle[/url]",
+            "weight": 10
+        },
+        "value374": {
+            "value": "[url:http://www.wikidata.org/entity/Q5367107|tab]Eloko[/url]",
+            "weight": 10
+        },
+        "value375": {
+            "value": "[url:http://www.wikidata.org/entity/Q5414589|tab]Sommeltje[/url]",
+            "weight": 10
+        },
+        "value376": {
+            "value": "[url:http://www.wikidata.org/entity/Q5454638|tab]Fish in Chinese mythology[/url]",
+            "weight": 10
+        },
+        "value377": {
+            "value": "[url:http://www.wikidata.org/entity/Q5509445|tab]Fur-bearing trout[/url]",
+            "weight": 10
+        },
+        "value378": {
+            "value": "[url:http://www.wikidata.org/entity/Q5529055|tab]Gazeka[/url]",
+            "weight": 10
+        },
+        "value379": {
+            "value": "[url:http://www.wikidata.org/entity/Q5765352|tab]Q5765352[/url]",
+            "weight": 10
+        },
+        "value380": {
+            "value": "[url:http://www.wikidata.org/entity/Q5786222|tab]Q5786222[/url]",
+            "weight": 10
+        },
+        "value381": {
+            "value": "[url:http://www.wikidata.org/entity/Q5855508|tab]Q5855508[/url]",
+            "weight": 10
+        },
+        "value382": {
+            "value": "[url:http://www.wikidata.org/entity/Q5928377|tab]Pipa Jing[/url]",
+            "weight": 10
+        },
+        "value383": {
+            "value": "[url:http://www.wikidata.org/entity/Q5958966|tab]Hypnalis[/url]",
+            "weight": 10
+        },
+        "value384": {
+            "value": "[url:http://www.wikidata.org/entity/Q5991262|tab]Q5991262[/url]",
+            "weight": 10
+        },
+        "value385": {
+            "value": "[url:http://www.wikidata.org/entity/Q5996903|tab]Ilabrat[/url]",
+            "weight": 10
+        },
+        "value386": {
+            "value": "[url:http://www.wikidata.org/entity/Q6009295|tab]Q6009295[/url]",
+            "weight": 10
+        },
+        "value387": {
+            "value": "[url:http://www.wikidata.org/entity/Q6011986|tab]Q6011986[/url]",
+            "weight": 10
+        },
+        "value388": {
+            "value": "[url:http://www.wikidata.org/entity/Q6016532|tab]Kharqyt[/url]",
+            "weight": 10
+        },
+        "value389": {
+            "value": "[url:http://www.wikidata.org/entity/Q6020172|tab]Q6020172[/url]",
+            "weight": 10
+        },
+        "value390": {
+            "value": "[url:http://www.wikidata.org/entity/Q6023537|tab]Q6023537[/url]",
+            "weight": 10
+        },
+        "value391": {
+            "value": "[url:http://www.wikidata.org/entity/Q6023637|tab]Q6023637[/url]",
+            "weight": 10
+        },
+        "value392": {
+            "value": "[url:http://www.wikidata.org/entity/Q6026878|tab]Q6026878[/url]",
+            "weight": 10
+        },
+        "value393": {
+            "value": "[url:http://www.wikidata.org/entity/Q6037118|tab]Q6037118[/url]",
+            "weight": 10
+        },
+        "value394": {
+            "value": "[url:http://www.wikidata.org/entity/Q6044582|tab]Q6044582[/url]",
+            "weight": 10
+        },
+        "value395": {
+            "value": "[url:http://www.wikidata.org/entity/Q6057564|tab]Q6057564[/url]",
+            "weight": 10
+        },
+        "value396": {
+            "value": "[url:http://www.wikidata.org/entity/Q6059574|tab]Germakochi[/url]",
+            "weight": 10
+        },
+        "value397": {
+            "value": "[url:http://www.wikidata.org/entity/Q6080006|tab]Q6080006[/url]",
+            "weight": 10
+        },
+        "value398": {
+            "value": "[url:http://www.wikidata.org/entity/Q6092121|tab]Q6092121[/url]",
+            "weight": 10
+        },
+        "value399": {
+            "value": "[url:http://www.wikidata.org/entity/Q6133988|tab]Nine-headed Bird[/url]",
+            "weight": 10
+        },
+        "value400": {
+            "value": "[url:http://www.wikidata.org/entity/Q6134833|tab]Xirang[/url]",
+            "weight": 10
+        },
+        "value401": {
+            "value": "[url:http://www.wikidata.org/entity/Q9547118|tab]Q9547118[/url]",
+            "weight": 10
+        },
+        "value402": {
+            "value": "[url:http://www.wikidata.org/entity/Q9602528|tab]Q9602528[/url]",
+            "weight": 10
+        },
+        "value403": {
+            "value": "[url:http://www.wikidata.org/entity/Q9603864|tab]Q9603864[/url]",
+            "weight": 10
+        },
+        "value404": {
+            "value": "[url:http://www.wikidata.org/entity/Q9604552|tab]Q9604552[/url]",
+            "weight": 10
+        },
+        "value405": {
+            "value": "[url:http://www.wikidata.org/entity/Q9604585|tab]Q9604585[/url]",
+            "weight": 10
+        },
+        "value406": {
+            "value": "[url:http://www.wikidata.org/entity/Q9637240|tab]Q9637240[/url]",
+            "weight": 10
+        },
+        "value407": {
+            "value": "[url:http://www.wikidata.org/entity/Q9644436|tab]Q9644436[/url]",
+            "weight": 10
+        },
+        "value408": {
+            "value": "[url:http://www.wikidata.org/entity/Q9653770|tab]Q9653770[/url]",
+            "weight": 10
+        },
+        "value409": {
+            "value": "[url:http://www.wikidata.org/entity/Q9656928|tab]Q9656928[/url]",
+            "weight": 10
+        },
+        "value410": {
+            "value": "[url:http://www.wikidata.org/entity/Q9660336|tab]Q9660336[/url]",
+            "weight": 10
+        },
+        "value411": {
+            "value": "[url:http://www.wikidata.org/entity/Q9670937|tab]Q9670937[/url]",
+            "weight": 10
+        },
+        "value412": {
+            "value": "[url:http://www.wikidata.org/entity/Q9671431|tab]Q9671431[/url]",
+            "weight": 10
+        },
+        "value413": {
+            "value": "[url:http://www.wikidata.org/entity/Q9697770|tab]Q9697770[/url]",
+            "weight": 10
+        },
+        "value414": {
+            "value": "[url:http://www.wikidata.org/entity/Q10047443|tab]Fuzhu[/url]",
+            "weight": 10
+        },
+        "value415": {
+            "value": "[url:http://www.wikidata.org/entity/Q10266050|tab]Q10266050[/url]",
+            "weight": 10
+        },
+        "value416": {
+            "value": "[url:http://www.wikidata.org/entity/Q10279191|tab]Q10279191[/url]",
+            "weight": 10
+        },
+        "value417": {
+            "value": "[url:http://www.wikidata.org/entity/Q10280218|tab]Farronca[/url]",
+            "weight": 10
+        },
+        "value418": {
+            "value": "[url:http://www.wikidata.org/entity/Q10283145|tab]Q10283145[/url]",
+            "weight": 10
+        },
+        "value419": {
+            "value": "[url:http://www.wikidata.org/entity/Q10284426|tab]Q10284426[/url]",
+            "weight": 10
+        },
+        "value420": {
+            "value": "[url:http://www.wikidata.org/entity/Q10285722|tab]Q10285722[/url]",
+            "weight": 10
+        },
+        "value421": {
+            "value": "[url:http://www.wikidata.org/entity/Q10292359|tab]Q10292359[/url]",
+            "weight": 10
+        },
+        "value422": {
+            "value": "[url:http://www.wikidata.org/entity/Q10297137|tab]Q10297137[/url]",
+            "weight": 10
+        },
+        "value423": {
+            "value": "[url:http://www.wikidata.org/entity/Q10297974|tab]Q10297974[/url]",
+            "weight": 10
+        },
+        "value424": {
+            "value": "[url:http://www.wikidata.org/entity/Q10297983|tab]Q10297983[/url]",
+            "weight": 10
+        },
+        "value425": {
+            "value": "[url:http://www.wikidata.org/entity/Q10297984|tab]Q10297984[/url]",
+            "weight": 10
+        },
+        "value426": {
+            "value": "[url:http://www.wikidata.org/entity/Q10309898|tab]Q10309898[/url]",
+            "weight": 10
+        },
+        "value427": {
+            "value": "[url:http://www.wikidata.org/entity/Q10311105|tab]Q10311105[/url]",
+            "weight": 10
+        },
+        "value428": {
+            "value": "[url:http://www.wikidata.org/entity/Q10311535|tab]Q10311535[/url]",
+            "weight": 10
+        },
+        "value429": {
+            "value": "[url:http://www.wikidata.org/entity/Q10313058|tab]Q10313058[/url]",
+            "weight": 10
+        },
+        "value430": {
+            "value": "[url:http://www.wikidata.org/entity/Q10319562|tab]Q10319562[/url]",
+            "weight": 10
+        },
+        "value431": {
+            "value": "[url:http://www.wikidata.org/entity/Q10323516|tab]Manaul[/url]",
+            "weight": 10
+        },
+        "value432": {
+            "value": "[url:http://www.wikidata.org/entity/Q10325870|tab]Q10325870[/url]",
+            "weight": 10
+        },
+        "value433": {
+            "value": "[url:http://www.wikidata.org/entity/Q10326138|tab]Q10326138[/url]",
+            "weight": 10
+        },
+        "value434": {
+            "value": "[url:http://www.wikidata.org/entity/Q10326139|tab]Q10326139[/url]",
+            "weight": 10
+        },
+        "value435": {
+            "value": "[url:http://www.wikidata.org/entity/Q10328172|tab]Q10328172[/url]",
+            "weight": 10
+        },
+        "value436": {
+            "value": "[url:http://www.wikidata.org/entity/Q10329896|tab]Q10329896[/url]",
+            "weight": 10
+        },
+        "value437": {
+            "value": "[url:http://www.wikidata.org/entity/Q10333083|tab]Q10333083[/url]",
+            "weight": 10
+        },
+        "value438": {
+            "value": "[url:http://www.wikidata.org/entity/Q10335992|tab]Q10335992[/url]",
+            "weight": 10
+        },
+        "value439": {
+            "value": "[url:http://www.wikidata.org/entity/Q10340572|tab]Q10340572[/url]",
+            "weight": 10
+        },
+        "value440": {
+            "value": "[url:http://www.wikidata.org/entity/Q10340576|tab]Q10340576[/url]",
+            "weight": 10
+        },
+        "value441": {
+            "value": "[url:http://www.wikidata.org/entity/Q10343548|tab]Q10343548[/url]",
+            "weight": 10
+        },
+        "value442": {
+            "value": "[url:http://www.wikidata.org/entity/Q10344768|tab]Q10344768[/url]",
+            "weight": 10
+        },
+        "value443": {
+            "value": "[url:http://www.wikidata.org/entity/Q10347914|tab]Peeira (Mythological Creature)[/url]",
+            "weight": 10
+        },
+        "value444": {
+            "value": "[url:http://www.wikidata.org/entity/Q10353732|tab]Q10353732[/url]",
+            "weight": 10
+        },
+        "value445": {
+            "value": "[url:http://www.wikidata.org/entity/Q10363799|tab]Q10363799[/url]",
+            "weight": 10
+        },
+        "value446": {
+            "value": "[url:http://www.wikidata.org/entity/Q10364210|tab]Q10364210[/url]",
+            "weight": 10
+        },
+        "value447": {
+            "value": "[url:http://www.wikidata.org/entity/Q10364619|tab]Q10364619[/url]",
+            "weight": 10
+        },
+        "value448": {
+            "value": "[url:http://www.wikidata.org/entity/Q10364717|tab]Q10364717[/url]",
+            "weight": 10
+        },
+        "value449": {
+            "value": "[url:http://www.wikidata.org/entity/Q10366170|tab]Q10366170[/url]",
+            "weight": 10
+        },
+        "value450": {
+            "value": "[url:http://www.wikidata.org/entity/Q10366937|tab]Q10366937[/url]",
+            "weight": 10
+        },
+        "value451": {
+            "value": "[url:http://www.wikidata.org/entity/Q10369313|tab]Q10369313[/url]",
+            "weight": 10
+        },
+        "value452": {
+            "value": "[url:http://www.wikidata.org/entity/Q10371883|tab]Q10371883[/url]",
+            "weight": 10
+        },
+        "value453": {
+            "value": "[url:http://www.wikidata.org/entity/Q10376404|tab]Q10376404[/url]",
+            "weight": 10
+        },
+        "value454": {
+            "value": "[url:http://www.wikidata.org/entity/Q10378266|tab]Q10378266[/url]",
+            "weight": 10
+        },
+        "value455": {
+            "value": "[url:http://www.wikidata.org/entity/Q10378344|tab]Q10378344[/url]",
+            "weight": 10
+        },
+        "value456": {
+            "value": "[url:http://www.wikidata.org/entity/Q10379114|tab]Q10379114[/url]",
+            "weight": 10
+        },
+        "value457": {
+            "value": "[url:http://www.wikidata.org/entity/Q10380850|tab]Q10380850[/url]",
+            "weight": 10
+        },
+        "value458": {
+            "value": "[url:http://www.wikidata.org/entity/Q10387184|tab]Q10387184[/url]",
+            "weight": 10
+        },
+        "value459": {
+            "value": "[url:http://www.wikidata.org/entity/Q10388176|tab]Q10388176[/url]",
+            "weight": 10
+        },
+        "value460": {
+            "value": "[url:http://www.wikidata.org/entity/Q10389591|tab]Q10389591[/url]",
+            "weight": 10
+        },
+        "value461": {
+            "value": "[url:http://www.wikidata.org/entity/Q10395344|tab]Q10395344[/url]",
+            "weight": 10
+        },
+        "value462": {
+            "value": "[url:http://www.wikidata.org/entity/Q10399855|tab]Q10399855[/url]",
+            "weight": 10
+        },
+        "value463": {
+            "value": "[url:http://www.wikidata.org/entity/Q10408292|tab]Q10408292[/url]",
+            "weight": 10
+        },
+        "value464": {
+            "value": "[url:http://www.wikidata.org/entity/Q10408795|tab]Q10408795[/url]",
+            "weight": 10
+        },
+        "value465": {
+            "value": "[url:http://www.wikidata.org/entity/Q10409490|tab]Q10409490[/url]",
+            "weight": 10
+        },
+        "value466": {
+            "value": "[url:http://www.wikidata.org/entity/Q10410143|tab]Q10410143[/url]",
+            "weight": 10
+        },
+        "value467": {
+            "value": "[url:http://www.wikidata.org/entity/Q10410564|tab]Q10410564[/url]",
+            "weight": 10
+        },
+        "value468": {
+            "value": "[url:http://www.wikidata.org/entity/Q10410984|tab]Q10410984[/url]",
+            "weight": 10
+        },
+        "value469": {
+            "value": "[url:http://www.wikidata.org/entity/Q10411096|tab]Q10411096[/url]",
+            "weight": 10
+        },
+        "value470": {
+            "value": "[url:http://www.wikidata.org/entity/Q10417993|tab]Q10417993[/url]",
+            "weight": 10
+        },
+        "value471": {
+            "value": "[url:http://www.wikidata.org/entity/Q10427163|tab]Bi Fang bird[/url]",
+            "weight": 10
+        },
+        "value472": {
+            "value": "[url:http://www.wikidata.org/entity/Q10441691|tab]Q10441691[/url]",
+            "weight": 10
+        },
+        "value473": {
+            "value": "[url:http://www.wikidata.org/entity/Q10446362|tab]Huodou[/url]",
+            "weight": 10
+        },
+        "value474": {
+            "value": "[url:http://www.wikidata.org/entity/Q10466820|tab]Daramulum[/url]",
+            "weight": 10
+        },
+        "value475": {
+            "value": "[url:http://www.wikidata.org/entity/Q10478981|tab]Q10478981[/url]",
+            "weight": 10
+        },
+        "value476": {
+            "value": "[url:http://www.wikidata.org/entity/Q10499989|tab]Q10499989[/url]",
+            "weight": 10
+        },
+        "value477": {
+            "value": "[url:http://www.wikidata.org/entity/Q10508895|tab]Q10508895[/url]",
+            "weight": 10
+        },
+        "value478": {
+            "value": "[url:http://www.wikidata.org/entity/Q10513763|tab]Q10513763[/url]",
+            "weight": 10
+        },
+        "value479": {
+            "value": "[url:http://www.wikidata.org/entity/Q10514048|tab]Q10514048[/url]",
+            "weight": 10
+        },
+        "value480": {
+            "value": "[url:http://www.wikidata.org/entity/Q10514345|tab]Q10514345[/url]",
+            "weight": 10
+        },
+        "value481": {
+            "value": "[url:http://www.wikidata.org/entity/Q10527263|tab]Diting[/url]",
+            "weight": 10
+        },
+        "value482": {
+            "value": "[url:http://www.wikidata.org/entity/Q10529511|tab]Q10529511[/url]",
+            "weight": 10
+        },
+        "value483": {
+            "value": "[url:http://www.wikidata.org/entity/Q10533615|tab]Q10533615[/url]",
+            "weight": 10
+        },
+        "value484": {
+            "value": "[url:http://www.wikidata.org/entity/Q10542923|tab]Q10542923[/url]",
+            "weight": 10
+        },
+        "value485": {
+            "value": "[url:http://www.wikidata.org/entity/Q10563786|tab]Q10563786[/url]",
+            "weight": 10
+        },
+        "value486": {
+            "value": "[url:http://www.wikidata.org/entity/Q10564290|tab]Tesso[/url]",
+            "weight": 10
+        },
+        "value487": {
+            "value": "[url:http://www.wikidata.org/entity/Q10564448|tab]Q10564448[/url]",
+            "weight": 10
+        },
+        "value488": {
+            "value": "[url:http://www.wikidata.org/entity/Q10564530|tab]Kaimingshou[/url]",
+            "weight": 10
+        },
+        "value489": {
+            "value": "[url:http://www.wikidata.org/entity/Q10565813|tab]Q10565813[/url]",
+            "weight": 10
+        },
+        "value490": {
+            "value": "[url:http://www.wikidata.org/entity/Q10566254|tab]Q10566254[/url]",
+            "weight": 10
+        },
+        "value491": {
+            "value": "[url:http://www.wikidata.org/entity/Q10566523|tab]Q10566523[/url]",
+            "weight": 10
+        },
+        "value492": {
+            "value": "[url:http://www.wikidata.org/entity/Q10566576|tab]Q10566576[/url]",
+            "weight": 10
+        },
+        "value493": {
+            "value": "[url:http://www.wikidata.org/entity/Q10566584|tab]Tenghuang[/url]",
+            "weight": 10
+        },
+        "value494": {
+            "value": "[url:http://www.wikidata.org/entity/Q10567375|tab]Q10567375[/url]",
+            "weight": 10
+        },
+        "value495": {
+            "value": "[url:http://www.wikidata.org/entity/Q10866915|tab]Q10866915[/url]",
+            "weight": 10
+        },
+        "value496": {
+            "value": "[url:http://www.wikidata.org/entity/Q10868990|tab]Q10868990[/url]",
+            "weight": 10
+        },
+        "value497": {
+            "value": "[url:http://www.wikidata.org/entity/Q10877378|tab]Q10877378[/url]",
+            "weight": 10
+        },
+        "value498": {
+            "value": "[url:http://www.wikidata.org/entity/Q10889265|tab]Q10889265[/url]",
+            "weight": 10
+        },
+        "value499": {
+            "value": "[url:http://www.wikidata.org/entity/Q10901834|tab]Q10901834[/url]",
+            "weight": 10
+        },
+        "value500": {
+            "value": "[url:http://www.wikidata.org/entity/Q10908474|tab]Q10908474[/url]",
+            "weight": 10
+        },
+        "value501": {
+            "value": "[url:http://www.wikidata.org/entity/Q18691106|tab]Q18691106[/url]",
+            "weight": 10
+        },
+        "value502": {
+            "value": "[url:http://www.wikidata.org/entity/Q18914691|tab]Caquesseitão[/url]",
+            "weight": 10
+        },
+        "value503": {
+            "value": "[url:http://www.wikidata.org/entity/Q19893506|tab]Mrenh Gongveal[/url]",
+            "weight": 10
+        },
+        "value504": {
+            "value": "[url:http://www.wikidata.org/entity/Q19915916|tab]Q19915916[/url]",
+            "weight": 10
+        },
+        "value505": {
+            "value": "[url:http://www.wikidata.org/entity/Q20043329|tab]Q20043329[/url]",
+            "weight": 10
+        },
+        "value506": {
+            "value": "[url:http://www.wikidata.org/entity/Q20062601|tab]Q20062601[/url]",
+            "weight": 10
+        },
+        "value507": {
+            "value": "[url:http://www.wikidata.org/entity/Q20471248|tab]Q20471248[/url]",
+            "weight": 10
+        },
+        "value508": {
+            "value": "[url:http://www.wikidata.org/entity/Q20851877|tab]Q20851877[/url]",
+            "weight": 10
+        },
+        "value509": {
+            "value": "[url:http://www.wikidata.org/entity/Q21720598|tab]Q21720598[/url]",
+            "weight": 10
+        },
+        "value510": {
+            "value": "[url:http://www.wikidata.org/entity/Q22098758|tab]Q22098758[/url]",
+            "weight": 10
+        },
+        "value511": {
+            "value": "[url:http://www.wikidata.org/entity/Q22098849|tab]Q22098849[/url]",
+            "weight": 10
+        },
+        "value512": {
+            "value": "[url:http://www.wikidata.org/entity/Q22098972|tab]Q22098972[/url]",
+            "weight": 10
+        },
+        "value513": {
+            "value": "[url:http://www.wikidata.org/entity/Q22098988|tab]Q22098988[/url]",
+            "weight": 10
+        },
+        "value514": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099088|tab]Q22099088[/url]",
+            "weight": 10
+        },
+        "value515": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099405|tab]Q22099405[/url]",
+            "weight": 10
+        },
+        "value516": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099495|tab]Q22099495[/url]",
+            "weight": 10
+        },
+        "value517": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099499|tab]Q22099499[/url]",
+            "weight": 10
+        },
+        "value518": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099672|tab]Q22099672[/url]",
+            "weight": 10
+        },
+        "value519": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099914|tab]Q22099914[/url]",
+            "weight": 10
+        },
+        "value520": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099923|tab]Q22099923[/url]",
+            "weight": 10
+        },
+        "value521": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099946|tab]Q22099946[/url]",
+            "weight": 10
+        },
+        "value522": {
+            "value": "[url:http://www.wikidata.org/entity/Q22099953|tab]Q22099953[/url]",
+            "weight": 10
+        },
+        "value523": {
+            "value": "[url:http://www.wikidata.org/entity/Q22100003|tab]Q22100003[/url]",
+            "weight": 10
+        },
+        "value524": {
+            "value": "[url:http://www.wikidata.org/entity/Q22100555|tab]Q22100555[/url]",
+            "weight": 10
+        },
+        "value525": {
+            "value": "[url:http://www.wikidata.org/entity/Q22100560|tab]Q22100560[/url]",
+            "weight": 10
+        },
+        "value526": {
+            "value": "[url:http://www.wikidata.org/entity/Q22100628|tab]Q22100628[/url]",
+            "weight": 10
+        },
+        "value527": {
+            "value": "[url:http://www.wikidata.org/entity/Q22100653|tab]Q22100653[/url]",
+            "weight": 10
+        },
+        "value528": {
+            "value": "[url:http://www.wikidata.org/entity/Q22100741|tab]Q22100741[/url]",
+            "weight": 10
+        },
+        "value529": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101018|tab]Q22101018[/url]",
+            "weight": 10
+        },
+        "value530": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101025|tab]Q22101025[/url]",
+            "weight": 10
+        },
+        "value531": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101134|tab]Q22101134[/url]",
+            "weight": 10
+        },
+        "value532": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101290|tab]Q22101290[/url]",
+            "weight": 10
+        },
+        "value533": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101447|tab]Q22101447[/url]",
+            "weight": 10
+        },
+        "value534": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101507|tab]Q22101507[/url]",
+            "weight": 10
+        },
+        "value535": {
+            "value": "[url:http://www.wikidata.org/entity/Q22101563|tab]Q22101563[/url]",
+            "weight": 10
+        },
+        "value536": {
+            "value": "[url:http://www.wikidata.org/entity/Q22948274|tab]Pinglak[/url]",
+            "weight": 10
+        },
+        "value537": {
+            "value": "[url:http://www.wikidata.org/entity/Q23869950|tab]Q23869950[/url]",
+            "weight": 10
+        },
+        "value538": {
+            "value": "[url:http://www.wikidata.org/entity/Q24192294|tab]Q24192294[/url]",
+            "weight": 10
+        },
+        "value539": {
+            "value": "[url:http://www.wikidata.org/entity/Q24840381|tab]Q24840381[/url]",
+            "weight": 10
+        },
+        "value540": {
+            "value": "[url:http://www.wikidata.org/entity/Q24840448|tab]Q24840448[/url]",
+            "weight": 10
+        },
+        "value541": {
+            "value": "[url:http://www.wikidata.org/entity/Q24840849|tab]Q24840849[/url]",
+            "weight": 10
+        },
+        "value542": {
+            "value": "[url:http://www.wikidata.org/entity/Q24841318|tab]senri[/url]",
+            "weight": 10
+        },
+        "value543": {
+            "value": "[url:http://www.wikidata.org/entity/Q24897159|tab]Q24897159[/url]",
+            "weight": 10
+        },
+        "value544": {
+            "value": "[url:http://www.wikidata.org/entity/Q24913587|tab]Lugat[/url]",
+            "weight": 10
+        },
+        "value545": {
+            "value": "[url:http://www.wikidata.org/entity/Q24938200|tab]Tramontino[/url]",
+            "weight": 10
+        },
+        "value546": {
+            "value": "[url:http://www.wikidata.org/entity/Q25421409|tab]Butoni[/url]",
+            "weight": 10
+        },
+        "value547": {
+            "value": "[url:http://www.wikidata.org/entity/Q25478684|tab]Q25478684[/url]",
+            "weight": 10
+        },
+        "value548": {
+            "value": "[url:http://www.wikidata.org/entity/Q25652601|tab]rihawana[/url]",
+            "weight": 10
+        },
+        "value549": {
+            "value": "[url:http://www.wikidata.org/entity/Q27870160|tab]Q27870160[/url]",
+            "weight": 10
+        },
+        "value550": {
+            "value": "[url:http://www.wikidata.org/entity/Q27870161|tab]Q27870161[/url]",
+            "weight": 10
+        },
+        "value551": {
+            "value": "[url:http://www.wikidata.org/entity/Q27870170|tab]Q27870170[/url]",
+            "weight": 10
+        },
+        "value552": {
+            "value": "[url:http://www.wikidata.org/entity/Q28076531|tab]Q28076531[/url]",
+            "weight": 10
+        },
+        "value553": {
+            "value": "[url:http://www.wikidata.org/entity/Q28130191|tab]Vishap[/url]",
+            "weight": 10
+        },
+        "value554": {
+            "value": "[url:http://www.wikidata.org/entity/Q28136167|tab]Tur[/url]",
+            "weight": 10
+        },
+        "value555": {
+            "value": "[url:http://www.wikidata.org/entity/Q28240858|tab]Q28240858[/url]",
+            "weight": 10
+        },
+        "value556": {
+            "value": "[url:http://www.wikidata.org/entity/Q28415958|tab]Q28415958[/url]",
+            "weight": 10
+        },
+        "value557": {
+            "value": "[url:http://www.wikidata.org/entity/Q28418194|tab]Q28418194[/url]",
+            "weight": 10
+        },
+        "value558": {
+            "value": "[url:http://www.wikidata.org/entity/Q30491044|tab]Q30491044[/url]",
+            "weight": 10
+        },
+        "value559": {
+            "value": "[url:http://www.wikidata.org/entity/Q32361104|tab]Q32361104[/url]",
+            "weight": 10
+        },
+        "value560": {
+            "value": "[url:http://www.wikidata.org/entity/Q33113858|tab]Q33113858[/url]",
+            "weight": 10
+        },
+        "value561": {
+            "value": "[url:http://www.wikidata.org/entity/Q38365294|tab]Theres Indikoi[/url]",
+            "weight": 10
+        },
+        "value562": {
+            "value": "[url:http://www.wikidata.org/entity/Q49394063|tab]Shuzi[/url]",
+            "weight": 10
+        },
+        "value563": {
+            "value": "[url:http://www.wikidata.org/entity/Q53700542|tab]Sakoko (Fabelwesen)[/url]",
+            "weight": 10
+        },
+        "value564": {
+            "value": "[url:http://www.wikidata.org/entity/Q53717274|tab]Hija[/url]",
+            "weight": 10
+        },
+        "value565": {
+            "value": "[url:http://www.wikidata.org/entity/Q55603047|tab]Aana Marutha[/url]",
+            "weight": 10
+        },
+        "value566": {
+            "value": "[url:http://www.wikidata.org/entity/Q55606125|tab]Bull of Heaven[/url]",
+            "weight": 10
+        },
+        "value567": {
+            "value": "[url:http://www.wikidata.org/entity/Q56343347|tab]Cornflower Wraith[/url]",
+            "weight": 10
+        },
+        "value568": {
+            "value": "[url:http://www.wikidata.org/entity/Q56632137|tab]Cancer[/url]",
+            "weight": 10
+        },
+        "value569": {
+            "value": "[url:http://www.wikidata.org/entity/Q60853410|tab]Negoogunogumbar[/url]",
+            "weight": 10
+        },
+        "value570": {
+            "value": "[url:http://www.wikidata.org/entity/Q60992236|tab]klu[/url]",
+            "weight": 10
+        },
+        "value571": {
+            "value": "[url:http://www.wikidata.org/entity/Q61391769|tab]Nightmare[/url]",
+            "weight": 10
+        },
+        "value572": {
+            "value": "[url:http://www.wikidata.org/entity/Q67611306|tab]Q67611306[/url]",
+            "weight": 10
+        },
+        "value573": {
+            "value": "[url:http://www.wikidata.org/entity/Q85031682|tab]Kanagoo[/url]",
+            "weight": 10
+        },
+        "value574": {
+            "value": "[url:http://www.wikidata.org/entity/Q88530841|tab]Chronophage[/url]",
+            "weight": 10
+        },
+        "value575": {
+            "value": "[url:http://www.wikidata.org/entity/Q89656688|tab]Q89656688[/url]",
+            "weight": 10
+        },
+        "value576": {
+            "value": "[url:http://www.wikidata.org/entity/Q89986779|tab]König Puck[/url]",
+            "weight": 10
+        },
+        "value577": {
+            "value": "[url:http://www.wikidata.org/entity/Q96776784|tab]Beast from the Earth[/url]",
+            "weight": 10
+        },
+        "value578": {
+            "value": "[url:http://www.wikidata.org/entity/Q97190288|tab]Cuca de la Mola[/url]",
+            "weight": 10
+        },
+        "value579": {
+            "value": "[url:http://www.wikidata.org/entity/Q98132239|tab]Qallupilluit[/url]",
+            "weight": 10
+        },
+        "value580": {
+            "value": "[url:http://www.wikidata.org/entity/Q98834378|tab]Gallinipper[/url]",
+            "weight": 10
+        },
+        "value581": {
+            "value": "[url:http://www.wikidata.org/entity/Q98929415|tab]Kryptopithecus[/url]",
+            "weight": 10
+        },
+        "value582": {
+            "value": "[url:http://www.wikidata.org/entity/Q101231178|tab]Amikuk[/url]",
+            "weight": 10
+        },
+        "value583": {
+            "value": "[url:http://www.wikidata.org/entity/Q105316467|tab]Watermeisie[/url]",
+            "weight": 10
+        },
+        "value584": {
+            "value": "[url:http://www.wikidata.org/entity/Q106017974|tab]Aderyn y corph[/url]",
+            "weight": 10
+        },
+        "value585": {
+            "value": "[url:http://www.wikidata.org/entity/Q106977856|tab]Hopduvel[/url]",
+            "weight": 10
+        },
+        "value586": {
+            "value": "[url:http://www.wikidata.org/entity/Q10927868|tab]Q10927868[/url]",
+            "weight": 10
+        },
+        "value587": {
+            "value": "[url:http://www.wikidata.org/entity/Q10957152|tab]Q10957152[/url]",
+            "weight": 10
+        },
+        "value588": {
+            "value": "[url:http://www.wikidata.org/entity/Q10975982|tab]Q10975982[/url]",
+            "weight": 10
+        },
+        "value589": {
+            "value": "[url:http://www.wikidata.org/entity/Q10995575|tab]Arat[/url]",
+            "weight": 10
+        },
+        "value590": {
+            "value": "[url:http://www.wikidata.org/entity/Q11003074|tab]Q11003074[/url]",
+            "weight": 10
+        },
+        "value591": {
+            "value": "[url:http://www.wikidata.org/entity/Q11003525|tab]Q11003525[/url]",
+            "weight": 10
+        },
+        "value592": {
+            "value": "[url:http://www.wikidata.org/entity/Q11047879|tab]Q11047879[/url]",
+            "weight": 10
+        },
+        "value593": {
+            "value": "[url:http://www.wikidata.org/entity/Q11060107|tab]Dijiang[/url]",
+            "weight": 10
+        },
+        "value594": {
+            "value": "[url:http://www.wikidata.org/entity/Q11065398|tab]Jianmu[/url]",
+            "weight": 10
+        },
+        "value595": {
+            "value": "[url:http://www.wikidata.org/entity/Q11069488|tab]Q11069488[/url]",
+            "weight": 10
+        },
+        "value596": {
+            "value": "[url:http://www.wikidata.org/entity/Q11070120|tab]Q11070120[/url]",
+            "weight": 10
+        },
+        "value597": {
+            "value": "[url:http://www.wikidata.org/entity/Q11107876|tab]Q11107876[/url]",
+            "weight": 10
+        },
+        "value598": {
+            "value": "[url:http://www.wikidata.org/entity/Q11153606|tab]Demon King of Confusion[/url]",
+            "weight": 10
+        },
+        "value599": {
+            "value": "[url:http://www.wikidata.org/entity/Q11173930|tab]Q11173930[/url]",
+            "weight": 10
+        },
+        "value600": {
+            "value": "[url:http://www.wikidata.org/entity/Q11174183|tab]Q11174183[/url]",
+            "weight": 10
+        },
+        "value601": {
+            "value": "[url:http://www.wikidata.org/entity/Q11179559|tab]Q11179559[/url]",
+            "weight": 10
+        },
+        "value602": {
+            "value": "[url:http://www.wikidata.org/entity/Q11180093|tab]Q11180093[/url]",
+            "weight": 10
+        },
+        "value603": {
+            "value": "[url:http://www.wikidata.org/entity/Q11182043|tab]Q11182043[/url]",
+            "weight": 10
+        },
+        "value604": {
+            "value": "[url:http://www.wikidata.org/entity/Q11267633|tab]Q11267633[/url]",
+            "weight": 10
+        },
+        "value605": {
+            "value": "[url:http://www.wikidata.org/entity/Q11410474|tab]Q11410474[/url]",
+            "weight": 10
+        },
+        "value606": {
+            "value": "[url:http://www.wikidata.org/entity/Q11517906|tab]Kinoko[/url]",
+            "weight": 10
+        },
+        "value607": {
+            "value": "[url:http://www.wikidata.org/entity/Q11571706|tab]Q11571706[/url]",
+            "weight": 10
+        },
+        "value608": {
+            "value": "[url:http://www.wikidata.org/entity/Q11608126|tab]Q11608126[/url]",
+            "weight": 10
+        },
+        "value609": {
+            "value": "[url:http://www.wikidata.org/entity/Q11625301|tab]Q11625301[/url]",
+            "weight": 10
+        },
+        "value610": {
+            "value": "[url:http://www.wikidata.org/entity/Q11644370|tab]Q11644370[/url]",
+            "weight": 10
+        },
+        "value611": {
+            "value": "[url:http://www.wikidata.org/entity/Q11673648|tab]Chimimōryō[/url]",
+            "weight": 10
+        },
+        "value612": {
+            "value": "[url:http://www.wikidata.org/entity/Q11687664|tab]Beithir[/url]",
+            "weight": 10
+        },
+        "value613": {
+            "value": "[url:http://www.wikidata.org/entity/Q11755355|tab]Q11755355[/url]",
+            "weight": 10
+        },
+        "value614": {
+            "value": "[url:http://www.wikidata.org/entity/Q11855913|tab]Q11855913[/url]",
+            "weight": 10
+        },
+        "value615": {
+            "value": "[url:http://www.wikidata.org/entity/Q11865201|tab]Q11865201[/url]",
+            "weight": 10
+        },
+        "value616": {
+            "value": "[url:http://www.wikidata.org/entity/Q11871411|tab]Q11871411[/url]",
+            "weight": 10
+        },
+        "value617": {
+            "value": "[url:http://www.wikidata.org/entity/Q11926023|tab]Q11926023[/url]",
+            "weight": 10
+        },
+        "value618": {
+            "value": "[url:http://www.wikidata.org/entity/Q11939393|tab]Q11939393[/url]",
+            "weight": 10
+        },
+        "value619": {
+            "value": "[url:http://www.wikidata.org/entity/Q12018689|tab]Q12018689[/url]",
+            "weight": 10
+        },
+        "value620": {
+            "value": "[url:http://www.wikidata.org/entity/Q12103313|tab]Q12103313[/url]",
+            "weight": 10
+        },
+        "value621": {
+            "value": "[url:http://www.wikidata.org/entity/Q12349414|tab]Ismenian Dragon[/url]",
+            "weight": 10
+        },
+        "value622": {
+            "value": "[url:http://www.wikidata.org/entity/Q12350459|tab]Q12350459[/url]",
+            "weight": 10
+        },
+        "value623": {
+            "value": "[url:http://www.wikidata.org/entity/Q12808541|tab]Q12808541[/url]",
+            "weight": 10
+        },
+        "value624": {
+            "value": "[url:http://www.wikidata.org/entity/Q12810200|tab]Q12810200[/url]",
+            "weight": 10
+        },
+        "value625": {
+            "value": "[url:http://www.wikidata.org/entity/Q12810344|tab]Q12810344[/url]",
+            "weight": 10
+        },
+        "value626": {
+            "value": "[url:http://www.wikidata.org/entity/Q12971963|tab]Tiyanak[/url]",
+            "weight": 10
+        },
+        "value627": {
+            "value": "[url:http://www.wikidata.org/entity/Q13021218|tab]Q13021218[/url]",
+            "weight": 10
+        },
+        "value628": {
+            "value": "[url:http://www.wikidata.org/entity/Q13129203|tab]Q13129203[/url]",
+            "weight": 10
+        },
+        "value629": {
+            "value": "[url:http://www.wikidata.org/entity/Q13166406|tab]Ayaz Ata[/url]",
+            "weight": 10
+        },
+        "value630": {
+            "value": "[url:http://www.wikidata.org/entity/Q13636732|tab]Q13636732[/url]",
+            "weight": 10
+        },
+        "value631": {
+            "value": "[url:http://www.wikidata.org/entity/Q14285563|tab]Q14285563[/url]",
+            "weight": 10
+        },
+        "value632": {
+            "value": "[url:http://www.wikidata.org/entity/Q14927795|tab]Szelatya[/url]",
+            "weight": 10
+        },
+        "value633": {
+            "value": "[url:http://www.wikidata.org/entity/Q15007922|tab]Huān Dōu[/url]",
+            "weight": 10
+        },
+        "value634": {
+            "value": "[url:http://www.wikidata.org/entity/Q15303576|tab]Alukah[/url]",
+            "weight": 10
+        },
+        "value635": {
+            "value": "[url:http://www.wikidata.org/entity/Q15646499|tab]Pyrausta[/url]",
+            "weight": 10
+        },
+        "value636": {
+            "value": "[url:http://www.wikidata.org/entity/Q15844267|tab]Schentait[/url]",
+            "weight": 10
+        },
+        "value637": {
+            "value": "[url:http://www.wikidata.org/entity/Q15890299|tab]Q15890299[/url]",
+            "weight": 10
+        },
+        "value638": {
+            "value": "[url:http://www.wikidata.org/entity/Q15890876|tab]Q15890876[/url]",
+            "weight": 10
+        },
+        "value639": {
+            "value": "[url:http://www.wikidata.org/entity/Q15892530|tab]Q15892530[/url]",
+            "weight": 10
+        },
+        "value640": {
+            "value": "[url:http://www.wikidata.org/entity/Q15893916|tab]Q15893916[/url]",
+            "weight": 10
+        },
+        "value641": {
+            "value": "[url:http://www.wikidata.org/entity/Q15895052|tab]Q15895052[/url]",
+            "weight": 10
+        },
+        "value642": {
+            "value": "[url:http://www.wikidata.org/entity/Q15897734|tab]Q15897734[/url]",
+            "weight": 10
+        },
+        "value643": {
+            "value": "[url:http://www.wikidata.org/entity/Q15923632|tab]Q15923632[/url]",
+            "weight": 10
+        },
+        "value644": {
+            "value": "[url:http://www.wikidata.org/entity/Q15924702|tab]Q15924702[/url]",
+            "weight": 10
+        },
+        "value645": {
+            "value": "[url:http://www.wikidata.org/entity/Q15925221|tab]Q15925221[/url]",
+            "weight": 10
+        },
+        "value646": {
+            "value": "[url:http://www.wikidata.org/entity/Q15932999|tab]Q15932999[/url]",
+            "weight": 10
+        },
+        "value647": {
+            "value": "[url:http://www.wikidata.org/entity/Q15940964|tab]Q15940964[/url]",
+            "weight": 10
+        },
+        "value648": {
+            "value": "[url:http://www.wikidata.org/entity/Q15955445|tab]Q15955445[/url]",
+            "weight": 10
+        },
+        "value649": {
+            "value": "[url:http://www.wikidata.org/entity/Q16154505|tab]Aziza[/url]",
+            "weight": 10
+        },
+        "value650": {
+            "value": "[url:http://www.wikidata.org/entity/Q16188353|tab]Celedones[/url]",
+            "weight": 10
+        },
+        "value651": {
+            "value": "[url:http://www.wikidata.org/entity/Q16323632|tab]Q16323632[/url]",
+            "weight": 10
+        },
+        "value652": {
+            "value": "[url:http://www.wikidata.org/entity/Q16501657|tab]Q16501657[/url]",
+            "weight": 10
+        },
+        "value653": {
+            "value": "[url:http://www.wikidata.org/entity/Q16534609|tab]Cagrino[/url]",
+            "weight": 10
+        },
+        "value654": {
+            "value": "[url:http://www.wikidata.org/entity/Q16592145|tab]Prestere[/url]",
+            "weight": 10
+        },
+        "value655": {
+            "value": "[url:http://www.wikidata.org/entity/Q16947722|tab]Wechuge[/url]",
+            "weight": 10
+        },
+        "value656": {
+            "value": "[url:http://www.wikidata.org/entity/Q17015307|tab]Q17015307[/url]",
+            "weight": 10
+        },
+        "value657": {
+            "value": "[url:http://www.wikidata.org/entity/Q17024925|tab]Q17024925[/url]",
+            "weight": 10
+        },
+        "value658": {
+            "value": "[url:http://www.wikidata.org/entity/Q17027446|tab]Zână[/url]",
+            "weight": 10
+        },
+        "value659": {
+            "value": "[url:http://www.wikidata.org/entity/Q17030967|tab]Q17030967[/url]",
+            "weight": 10
+        },
+        "value660": {
+            "value": "[url:http://www.wikidata.org/entity/Q17033987|tab]Water bull[/url]",
+            "weight": 10
+        },
+        "value661": {
+            "value": "[url:http://www.wikidata.org/entity/Q17036342|tab]Q17036342[/url]",
+            "weight": 10
+        },
+        "value662": {
+            "value": "[url:http://www.wikidata.org/entity/Q17039989|tab]Q17039989[/url]",
+            "weight": 10
+        },
+        "value663": {
+            "value": "[url:http://www.wikidata.org/entity/Q17040385|tab]Q17040385[/url]",
+            "weight": 10
+        },
+        "value664": {
+            "value": "[url:http://www.wikidata.org/entity/Q17041429|tab]Q17041429[/url]",
+            "weight": 10
+        },
+        "value665": {
+            "value": "[url:http://www.wikidata.org/entity/Q17054272|tab]Nightmarchers[/url]",
+            "weight": 10
+        },
+        "value666": {
+            "value": "[url:http://www.wikidata.org/entity/Q17060549|tab]Q17060549[/url]",
+            "weight": 10
+        },
+        "value667": {
+            "value": "[url:http://www.wikidata.org/entity/Q17060601|tab]Q17060601[/url]",
+            "weight": 10
+        },
+        "value668": {
+            "value": "[url:http://www.wikidata.org/entity/Q17060695|tab]Q17060695[/url]",
+            "weight": 10
+        },
+        "value669": {
+            "value": "[url:http://www.wikidata.org/entity/Q17060952|tab]Q17060952[/url]",
+            "weight": 10
+        },
+        "value670": {
+            "value": "[url:http://www.wikidata.org/entity/Q17065939|tab]Q17065939[/url]",
+            "weight": 10
+        },
+        "value671": {
+            "value": "[url:http://www.wikidata.org/entity/Q17075313|tab]mulo[/url]",
+            "weight": 10
+        },
+        "value672": {
+            "value": "[url:http://www.wikidata.org/entity/Q17152117|tab]Blue men of the Minch[/url]",
+            "weight": 10
+        },
+        "value673": {
+            "value": "[url:http://www.wikidata.org/entity/Q17222252|tab]Qiongqi[/url]",
+            "weight": 10
+        },
+        "value674": {
+            "value": "[url:http://www.wikidata.org/entity/Q18060939|tab]Erawan[/url]",
+            "weight": 10
+        },
+        "value675": {
+            "value": "[url:http://www.wikidata.org/entity/Q18242390|tab]Q18242390[/url]",
+            "weight": 10
+        },
+        "value676": {
+            "value": "[url:http://www.wikidata.org/entity/Q18242882|tab]Q18242882[/url]",
+            "weight": 10
+        },
+        "value677": {
+            "value": "[url:http://www.wikidata.org/entity/Q18242885|tab]Q18242885[/url]",
+            "weight": 10
+        },
+        "value678": {
+            "value": "[url:http://www.wikidata.org/entity/Q18242888|tab]Cavalum[/url]",
+            "weight": 10
+        },
+        "value679": {
+            "value": "[url:http://www.wikidata.org/entity/Q18275249|tab]Galhardo[/url]",
+            "weight": 10
+        },
+        "value680": {
+            "value": "[url:http://www.wikidata.org/entity/Q18276867|tab]Q18276867[/url]",
+            "weight": 10
+        },
+        "value681": {
+            "value": "[url:http://www.wikidata.org/entity/Q18277501|tab]Q18277501[/url]",
+            "weight": 10
+        },
+        "value682": {
+            "value": "[url:http://www.wikidata.org/entity/Q18385547|tab]Zitiron[/url]",
+            "weight": 10
+        },
+        "value683": {
+            "value": "[url:http://www.wikidata.org/entity/Q18407856|tab]Q18407856[/url]",
+            "weight": 10
+        },
+        "value684": {
+            "value": "[url:http://www.wikidata.org/entity/Q18654534|tab]Q18654534[/url]",
+            "weight": 10
+        },
+        "value685": {
+            "value": "[url:http://www.wikidata.org/entity/Q18690522|tab]Q18690522[/url]",
+            "weight": 10
+        }
+    }
+}

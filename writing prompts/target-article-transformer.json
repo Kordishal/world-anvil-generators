@@ -1,0 +1,27 @@
+{
+    "target-article": {
+        "person": "[generator:person-article-28world29-soullink|{}|relation-target-1]",
+        "condition": "[generator:condition-article-28world29-soullink|{}|relation-target-1]",
+        "document": "[generator:document-article-28world29-soullink|{}|relation-target-1]",
+        "ethnicity": "[generator:ethnicity-article-28world29-soullink|{}|relation-target-1]",
+        "formation": "[generator:formation-article-28world29-soullink|{}|relation-target-1]",
+        "item": "[generator:item-article-28world29-soullink|{}|relation-target-1]",
+        "language": "[generator:language-article-28world29-soullink|{}|relation-target-1]",
+        "material": "[generator:material-article-28world29-soullink|{}|relation-target-1]",
+        "military-conflict": "[generator:military-conflict-article-28world29-soullink|{}|relation-target-1]",
+        "myth": "[generator:myth-article-28world29-soullink|{}|relation-target-1]",
+        "landmark": "[generator:landmark-article-28world29-soullink|{}|relation-target-1]",
+        "geography": "[generator:geography-article-28world29-soullink|{}|relation-target-1]",
+        "settlement": "[generator:settlement-article-28world29-soullink|{}|relation-target-1]",
+        "natural-law": "[generator:natural-law-article-28world29-soullink|{}|relation-target-1]",
+        "organization": "[generator:organization-article-28world29-soullink|{}|relation-target-1]",
+        "prose": "[generator:prose-article-28world29-soullink|{}|relation-target-1]",
+        "profession": "[generator:profession-article-28world29-soullink|{}|relation-target-1]",
+        "plot": "[generator:plot-article-28world29-soullink|{}|relation-target-1]",
+        "rank": "[generator:rank-article-28world29-soullink|{}|relation-target-1]",
+        "species": "[generator:species-article-28world29-soullink|{}|relation-target-1]",
+        "technology": "[generator:technology-article-28world29-soullink|{}|relation-target-1]",
+        "ritual": "[generator:ritual-article-28world29-soullink|{}|relation-target-1]",
+        "vehicle": "[generator:vehicle-article-28world29-soullink|{}|relation-target-1]"
+    }
+}

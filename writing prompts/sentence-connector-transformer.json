@@ -1,0 +1,27 @@
+{
+    "sentence-connector": {
+        "person": "who",
+        "condition": "which",
+        "document": "which",
+        "ethnicity": "which",
+        "formation": "which",
+        "item": "which",
+        "language": "which",
+        "material": "which",
+        "military-conflict": "which",
+        "myth": "which",
+        "landmark": "which",
+        "geography": "which",
+        "settlement": "which",
+        "natural-law": "which",
+        "organization": "which",
+        "prose": "which",
+        "profession": "which",
+        "plot": "which",
+        "rank": "which",
+        "species": "which",
+        "technology": "which",
+        "ritual": "which",
+        "vehicle": "which"
+    }
+}

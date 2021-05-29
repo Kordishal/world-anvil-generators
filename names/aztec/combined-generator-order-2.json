@@ -1,0 +1,20 @@
+{
+  "values": {
+    "value1": {
+        "value": "[generator:random-aztec-names-28229-5Bpart-15D-soullink|{}|random-aztec-name]",
+        "weight": 20000
+    },
+    "value2": {
+        "value": "[generator:random-aztec-names-28229-5Bpart-25D-soullink|{}|random-aztec-name]",
+        "weight": 20000
+    },
+    "value3": {
+        "value": "[generator:random-aztec-names-28229-5Bpart-35D-soullink|{}|random-aztec-name]",
+        "weight": 20000
+    },
+    "value4": {
+        "value": "[generator:random-aztec-names-28229-5Bpart-45D-soullink|{}|random-aztec-name]",
+        "weight": 1134
+    }
+  }
+}

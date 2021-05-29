@@ -13,4 +13,4 @@ of the names are adapted from there. While others are taken from historical sour
 ## Metadata
 
 Description: A total of 11729 fantasy names inspired by historical Aztec names.
-Tags: `#aztec,#names,#fantasy,#markov,#order-3`
+Tags: `#aztec,#names,#fantasy,#markov,#order-2`

@@ -1,0 +1,27 @@
+{
+    "prompt-intro": {
+        "person": "Describe a",
+        "condition": "Describe a",
+        "document": "Describe a",
+        "ethnicity": "Describe an",
+        "formation": "Describe a",
+        "item": "Describe an",
+        "language": "Describe a",
+        "material": "Describe a",
+        "military-conflict": "Describe a",
+        "myth": "Describe a",
+        "landmark": "Describe a",
+        "geography": "Describe a",
+        "settlement": "Describe a",
+        "natural-law": "Describe a",
+        "organization": "Describe an",
+        "prose": "Write a piece of",
+        "profession": "Describe a",
+        "plot": "Write a",
+        "rank": "Describe a",
+        "species": "Describe a",
+        "technology": "Describe a",
+        "ritual": "Describe a",
+        "vehicle": "Describe a"
+    }
+}

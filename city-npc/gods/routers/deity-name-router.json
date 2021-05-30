@@ -1,0 +1,23 @@
+{
+    "values": {
+        "arcana": "Placeholder",
+        "civilization": "Asche, God of Cities",
+        "death": "[generator:deity-28death29-soullink|{}|deity]",
+        "grave": "Placeholder",
+        "knowledge": "[generator:deity-28knowledge29-soullink|{}|deity]",
+        "life": "[generator:deity-28life29-soullink|{}|deity]",
+        "light": "[generator:deity-28light29-soullink|{}|deity]",
+        "luck": "[generator:deity-28luck29-soullink|{}|deity]",
+        "nature": "[generator:deity-28nature29-soullink|{}|deity]",
+        "night": "Placeholder",
+        "order": "Placeholder",
+        "peace": "Placeholder",
+        "protection": "[generator:deity-28protection29-soullink|{}|deity]",
+        "technology": "[generator:deity-28technology29-soullink|{}|deity]",
+        "tempest": "[generator:deity-28tempest29-soullink|{}|deity]",
+        "travel": "Placeholder",
+        "trickery": "[generator:deity-28trickery29-soullink|{}|deity]",
+        "twilight": "Placeholder",
+        "war": "[generator:deity-28war29-soullink|{}|deity]"
+    }
+}

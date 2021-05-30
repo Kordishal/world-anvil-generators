@@ -1,0 +1,16 @@
+{
+    "values": {
+        "the-lady": {
+            "value": "The Lady",
+            "weight": 35
+        },
+        "rajek-the-wanderer": {
+            "value": "Rajek the Wanderer",
+            "weight": 35
+        },
+        "the-fifty-three-gods-of-chance": {
+            "value": "The Fifty-Three Gods of Chance",
+            "weight": 30
+        }
+    }
+}

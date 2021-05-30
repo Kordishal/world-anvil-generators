@@ -1,0 +1,80 @@
+{
+    "values": {
+        "arcana": {
+            "value": "Arcana",
+            "weight": 1
+        },
+        "civilization": {
+            "value": "Civilization",
+            "weight": 20
+        },
+        "death": {
+            "value": "Death",
+            "weight": 5
+        },
+        "grave": {
+            "value": "Grave",
+            "weight": 1
+        },
+        "knowledge": {
+            "value": "Knowledge",
+            "weight": 5
+        },
+        "life": {
+            "value": "Life",
+            "weight": 20
+        },
+        "light": {
+            "value": "Light",
+            "weight": 20
+        },
+        "luck": {
+            "value": "Luck",
+            "weight": 20
+        },
+        "nature": {
+            "value": "Nature",
+            "weight": 5
+        },
+        "night": {
+            "value": "Night",
+            "weight": 1
+        },
+        "order": {
+            "value": "Order",
+            "weight": 1
+        },
+        "peace": {
+            "value": "Peace",
+            "weight": 1
+        },
+        "protection": {
+            "value": "Protection",
+            "weight": 20
+        },
+        "technology": {
+            "value": "Technology",
+            "weight": 5
+        },
+        "tempest": {
+            "value": "Tempest",
+            "weight": 10
+        },
+        "travel": {
+            "value": "Travel",
+            "weight": 1
+        },
+        "trickery": {
+            "value": "Trickery",
+            "weight": 5
+        },
+        "twilight": {
+            "value": "Twilight",
+            "weight": 1
+        },
+        "war": {
+            "value": "War",
+            "weight": 20
+        }
+    }
+}

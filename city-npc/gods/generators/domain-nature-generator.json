@@ -1,0 +1,20 @@
+{
+    "values": {
+        "ahaar-lord-of-the-air": {
+            "value": "Ahaar, Lord of the Air",
+            "weight": 30
+        },
+        "harredda-mistress-of-ravens": {
+            "value": "Harredda, Mistress of Ravens",
+            "weight": 30
+        },
+        "melann-goddess-of-farming": {
+            "value": "Melann, Goddess of Farming",
+            "weight": 30
+        },
+        "myliesha-mistress-of-the-wind’s-path": {
+            "value": "Myliesha, Mistress of the Wind’s Path",
+            "weight": 10
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "values": {
+        "gaen-goddess-of-light": {
+            "value": "Gaen, Goddess of Light",
+            "weight": 40
+        },
+        "kharos-god-of-magic": {
+            "value": "Kharos, God of Magic",
+            "weight": 10
+        },
+        "locharit-the-goddess-of-the-written-word": {
+            "value": "Locharit, the Goddess of the Written Word",
+            "weight": 10
+        },
+        "melann-goddess-of-farming": {
+            "value": "Melann, Goddess of Farming",
+            "weight": 10
+        },
+        "navashtrom-god-of-strength-and-harmony": {
+            "value": "Navashtrom, God of Strength and Harmony",
+            "weight": 20
+        },
+        "teun-mother-of-all-machines": {
+            "value": "Teun, Mother of All Machines",
+            "weight": 10
+        }
+    }
+}

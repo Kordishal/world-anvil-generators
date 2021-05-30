@@ -1,0 +1,16 @@
+{
+    "values": {
+        "heiran-sister-of-death": {
+            "value": "Heiran, Sister of Death",
+            "weight": 35
+        },
+        "nareis-sister-of-death": {
+            "value": "Nareis, Sister of Death",
+            "weight": 35
+        },
+        "unnah-mistress-of-the-blades": {
+            "value": "Unnah, Mistress of the Blades",
+            "weight": 30
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "values": {
+        "asche-god-of-cities": {
+            "value": "Asche, God of Cities",
+            "weight": 50
+        },
+        "gaen-goddess-of-light": {
+            "value": "Gaen, Goddess of Light",
+            "weight": 20
+        },
+        "melann-goddess-of-farming": {
+            "value": "Melann, Goddess of Farming",
+            "weight": 10
+        },
+        "engelan-god-of-the-present": {
+            "value": "Engelan, God of the Present",
+            "weight": 10
+        },
+        "tevra-the-clockwork-goddess": {
+            "value": "Tevra, the Clockwork Goddess",
+            "weight": 10
+        }
+    }
+}

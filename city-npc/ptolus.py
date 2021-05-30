@@ -11,10 +11,14 @@ def create_payload_dict(variable: str):
     return router, router[variable]
 
 
-def read_table(items, payload):
+def read_table_generators(items, payload):
     for item in items:
+        key = item[0].value
+        if key is None:
+            continue
         if len(item) == 2:
-            payload[item[0].value.lower().replace(' ', '-').replace('(', '').replace(')', '')] = {
+            key = key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '')
+            payload[key] = {
                 'value': item[0].value,
                 'weight': int(item[1].value)
             }
@@ -25,11 +29,20 @@ def read_table(items, payload):
             }
 
 
+def read_table_routers(items, payload):
+    for item in items:
+        payload[item[0].value] = item[1].value
+
+
 def read_range(sheet_range: str, filename: str, sheet):
+    resource = filename.split('-')[-1] + 's'
     mortal = sheet[sheet_range]
     mortal_generator, mortal_payload = create_payload_dict('values')
-    read_table(mortal, mortal_payload)
-    write_file(mortal_generator, filename, sheet.title.lower(), filename.split('-')[-1] + 's')
+    if resource == 'generators':
+        read_table_generators(mortal, mortal_payload)
+    elif resource == 'routers':
+        read_table_routers(mortal, mortal_payload)
+    write_file(mortal_generator, filename, sheet.title.lower(), resource)
 
 
 def write_file(data: Any, filename: str, folder: str, resource: str):
@@ -85,4 +98,19 @@ if __name__ == '__main__':
     read_range('AA5:AB6', 'primal-class-generator', role)
     read_range('AD5:AE5', 'psi-class-generator', role)
     read_range('AG5:AH95', 'profession-generator', role)
+
+    read_range('J5:K11', 'domain-death-generator', gods)
+    read_range('M5:N11', 'domain-knowledge-generator', gods)
+    read_range('P5:Q11', 'domain-life-generator', gods)
+    read_range('G16:H22', 'domain-light-generator', gods)
+    read_range('J16:K22', 'domain-luck-generator', gods)
+    read_range('M16:N22', 'domain-nature-generator', gods)
+    read_range('P16:Q22', 'domain-protection-generator', gods)
+    read_range('G27:H33', 'domain-technology-generator', gods)
+    read_range('J27:K33', 'domain-tempest-generator', gods)
+    read_range('M27:N33', 'domain-trickery-generator', gods)
+    read_range('P27:Q33', 'domain-war-generator', gods)
+
+    read_range('B4:D22', 'domain-name-generator', gods)
+    read_range('B27:C45', 'deity-name-router', gods)
 

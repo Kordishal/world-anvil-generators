@@ -1,0 +1,16 @@
+{
+    "values": {
+        "inurath-mistress-of-war": {
+            "value": "Inurath, Mistress of War",
+            "weight": 40
+        },
+        "navashtrom-god-of-strength-and-harmony": {
+            "value": "Navashtrom, God of Strength and Harmony",
+            "weight": 40
+        },
+        "unnah-mistress-of-the-blades": {
+            "value": "Unnah, Mistress of the Blades",
+            "weight": 20
+        }
+    }
+}

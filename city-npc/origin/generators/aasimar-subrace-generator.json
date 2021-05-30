@@ -1,0 +1,16 @@
+{
+    "values": {
+        "protector-aasimar": {
+            "value": "Protector Aasimar",
+            "weight": 40
+        },
+        "scourge-aasimar": {
+            "value": "Scourge Aasimar",
+            "weight": 40
+        },
+        "fallen-aasimar": {
+            "value": "Fallen Aasimar",
+            "weight": 20
+        }
+    }
+}

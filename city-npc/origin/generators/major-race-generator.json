@@ -1,0 +1,20 @@
+{
+    "values": {
+        "dwarf": {
+            "value": "[generator:dwarf-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "elf": {
+            "value": "[generator:elf-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "halfling": {
+            "value": "[generator:halfling-origin-soullink|{}|origin]",
+            "weight": 5
+        },
+        "human": {
+            "value": "[generator:human-origin-soullink|{}|origin]",
+            "weight": 75
+        }
+    }
+}

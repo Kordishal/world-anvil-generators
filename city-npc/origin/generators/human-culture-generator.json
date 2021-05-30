@@ -1,0 +1,32 @@
+{
+    "values": {
+        "flannae-flan": {
+            "value": "Flannae (Flan)",
+            "weight": 20
+        },
+        "oeridian-oerid": {
+            "value": "Oeridian (Oerid)",
+            "weight": 20
+        },
+        "suloise-suel": {
+            "value": "Suloise (Suel)",
+            "weight": 20
+        },
+        "baklunish-bakluni": {
+            "value": "Baklunish (Bakluni)",
+            "weight": 10
+        },
+        "rhennee-rhenn-folk": {
+            "value": "Rhennee (Rhenn-folk)",
+            "weight": 10
+        },
+        "olman": {
+            "value": "Olman",
+            "weight": 10
+        },
+        "touv": {
+            "value": "Touv",
+            "weight": 10
+        }
+    }
+}

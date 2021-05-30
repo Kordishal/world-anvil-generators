@@ -1,0 +1,60 @@
+{
+    "values": {
+        "assimar": {
+            "value": "[generator:aasimar-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "centaur": {
+            "value": "Centaur (Aram)",
+            "weight": 5
+        },
+        "changeling": {
+            "value": "Changeling",
+            "weight": 5
+        },
+        "dragonborn": {
+            "value": "[generator:dragonborn-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "firbolg": {
+            "value": "Firbolg",
+            "weight": 5
+        },
+        "genasi": {
+            "value": "[generator:genasi-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "gnome": {
+            "value": "[generator:gnome-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "goliath": {
+            "value": "Goliath",
+            "weight": 5
+        },
+        "Half-orc": {
+            "value": "Half-Orc",
+            "weight": 5
+        },
+        "litorian": {
+            "value": "Litorians",
+            "weight": 10
+        },
+        "lizardfolk": {
+            "value": "Lizardfolk (Assarai)",
+            "weight": 10
+        },
+        "shifter": {
+            "value": "Shifter",
+            "weight": 5
+        },
+        "tiefling": {
+            "value": "[generator:tiefling-origin-soullink|{}|origin]",
+            "weight": 10
+        },
+        "warforged": {
+            "value": "Warforged",
+            "weight": 5
+        }
+    }
+}

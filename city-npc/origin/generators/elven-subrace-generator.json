@@ -1,0 +1,48 @@
+{
+    "values": {
+        "high-elf": {
+            "value": "High Elf",
+            "weight": 0
+        },
+        "wood-elf": {
+            "value": "Wood Elf",
+            "weight": 0
+        },
+        "dark-elf": {
+            "value": "Dark Elf",
+            "weight": 2
+        },
+        "shoal-high-elf-high-elf": {
+            "value": "Shoal High Elf (High Elf)",
+            "weight": 45
+        },
+        "shoal-wood-elf-wood-elf": {
+            "value": "Shoal Wood Elf (Wood Elf)",
+            "weight": 45
+        },
+        "cherubim-elf": {
+            "value": "Cherubim Elf",
+            "weight": 2
+        },
+        "harrow-elf": {
+            "value": "Harrow Elf",
+            "weight": 6
+        },
+        "moon-elf-high-elf": {
+            "value": "Moon Elf (High Elf)",
+            "weight": 0
+        },
+        "sun-elf-high-elf": {
+            "value": "Sun Elf (High Elf)",
+            "weight": 0
+        },
+        "copper-elf-wood-elf": {
+            "value": "Copper Elf (Wood Elf)",
+            "weight": 0
+        },
+        "dark-elf-drow-elf": {
+            "value": "Dark Elf (Drow Elf)",
+            "weight": 0
+        }
+    }
+}

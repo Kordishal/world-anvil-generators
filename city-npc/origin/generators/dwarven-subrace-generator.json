@@ -1,0 +1,40 @@
+{
+    "values": {
+        "hill-dwarf": {
+            "value": "Hill Dwarf",
+            "weight": 0
+        },
+        "mountaun-dwarf": {
+            "value": "Mountaun Dwarf",
+            "weight": 0
+        },
+        "duergar-dwarf": {
+            "value": "Duergar Dwarf",
+            "weight": 0
+        },
+        "grailwarden-dwarf-mountain": {
+            "value": "Grailwarden Dwarf (Mountain)",
+            "weight": 79
+        },
+        "stonelost-dwarf-hill": {
+            "value": "Stonelost Dwarf (Hill)",
+            "weight": 20
+        },
+        "earthsinger-dwarf-hill": {
+            "value": "Earthsinger Dwarf (Hill)",
+            "weight": 1
+        },
+        "shield-dwarf-mountain": {
+            "value": "Shield Dwarf (Mountain)",
+            "weight": 0
+        },
+        "gold-dwarf-hill": {
+            "value": "Gold Dwarf (Hill)",
+            "weight": 0
+        },
+        "gray-dwarf-duergar": {
+            "value": "Gray Dwarf (Duergar)",
+            "weight": 0
+        }
+    }
+}

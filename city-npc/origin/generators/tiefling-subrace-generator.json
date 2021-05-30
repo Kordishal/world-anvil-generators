@@ -1,0 +1,24 @@
+{
+    "values": {
+        "blooded-tiefling": {
+            "value": "Blooded Tiefling",
+            "weight": 60
+        },
+        "feral-tiefling": {
+            "value": "Feral Tiefling",
+            "weight": 10
+        },
+        "devil's-tiefling": {
+            "value": "Devil's Tiefling",
+            "weight": 10
+        },
+        "hellfire-tiefling": {
+            "value": "Hellfire Tiefling",
+            "weight": 10
+        },
+        "winged-tiefling": {
+            "value": "Winged Tiefling",
+            "weight": 10
+        }
+    }
+}

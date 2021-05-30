@@ -1,0 +1,28 @@
+{
+    "values": {
+        "half-elf-human": {
+            "value": "Half-Elf Human",
+            "weight": 30
+        },
+        "half-elf-wood": {
+            "value": "Half-Elf Wood",
+            "weight": 20
+        },
+        "half-elf-moon": {
+            "value": "Half-Elf Moon",
+            "weight": 20
+        },
+        "half-elf-sun": {
+            "value": "Half-Elf Sun",
+            "weight": 20
+        },
+        "half-elf-drow": {
+            "value": "Half-Elf Drow",
+            "weight": 5
+        },
+        "half-elf-aquatic": {
+            "value": "Half-Elf Aquatic",
+            "weight": 5
+        }
+    }
+}

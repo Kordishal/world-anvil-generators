@@ -1,0 +1,12 @@
+{
+    "values": {
+        "druid": {
+            "value": "Druid",
+            "weight": 10
+        },
+        "ranger-primal": {
+            "value": "Ranger (Primal)",
+            "weight": 10
+        }
+    }
+}

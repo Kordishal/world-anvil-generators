@@ -1,0 +1,24 @@
+{
+    "values": {
+        "arcane": {
+            "value": "[generator:arcane-class-soullink|{}|class]",
+            "weight": 10
+        },
+        "divine": {
+            "value": "[generator:divine-class-soullink|{}|class]",
+            "weight": 10
+        },
+        "primal": {
+            "value": "[generator:primal-class-soullink|{}|class]",
+            "weight": 10
+        },
+        "psi": {
+            "value": "Monk (Psi)",
+            "weight": 10
+        },
+        "martial": {
+            "value": "[generator:martial-class-soullink|{}|class]",
+            "weight": 10
+        }
+    }
+}

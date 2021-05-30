@@ -1,0 +1,12 @@
+{
+    "values": {
+        "male": {
+            "value": "Male",
+            "weight": 60
+        },
+        "female": {
+            "value": "Female",
+            "weight": 40
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "values": {
+        "this-world": {
+            "value": "This World",
+            "weight": 90
+        },
+        "another-world": {
+            "value": "Another World",
+            "weight": 5
+        }
+    }
+}

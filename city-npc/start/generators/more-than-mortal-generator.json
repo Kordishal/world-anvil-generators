@@ -1,0 +1,52 @@
+{
+    "values": {
+        "aberation": {
+            "value": "Aberation",
+            "weight": 10
+        },
+        "celestial": {
+            "value": "Celestial",
+            "weight": 10
+        },
+        "constructs": {
+            "value": "Constructs",
+            "weight": 10
+        },
+        "dragon": {
+            "value": "Dragon",
+            "weight": 5
+        },
+        "elemental": {
+            "value": "Elemental",
+            "weight": 5
+        },
+        "fey": {
+            "value": "Fey",
+            "weight": 20
+        },
+        "fiend": {
+            "value": "Fiend",
+            "weight": 20
+        },
+        "giant": {
+            "value": "Giant",
+            "weight": 5
+        },
+        "horror": {
+            "value": "Horror",
+            "weight": 15
+        },
+        "monstrosity-/-magic-beast": {
+            "value": "Monstrosity / Magic Beast",
+            "weight": 5
+        },
+        "shapeshifter": {
+            "value": "Shapeshifter",
+            "weight": 15
+        },
+        "undead": {
+            "value": "Undead",
+            "weight": 15
+        }
+    }
+}

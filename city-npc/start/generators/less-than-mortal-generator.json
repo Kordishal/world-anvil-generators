@@ -1,0 +1,20 @@
+{
+    "values": {
+        "beasts": {
+            "value": "Beasts",
+            "weight": 40
+        },
+        "oozes": {
+            "value": "Oozes",
+            "weight": 10
+        },
+        "plant": {
+            "value": "Plant",
+            "weight": 10
+        },
+        "vermin": {
+            "value": "Vermin",
+            "weight": 40
+        }
+    }
+}

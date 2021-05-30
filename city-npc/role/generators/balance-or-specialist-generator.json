@@ -1,0 +1,12 @@
+{
+    "values": {
+        "balanced": {
+            "value": "Balanced",
+            "weight": 60
+        },
+        "specialist": {
+            "value": "Specialist",
+            "weight": 40
+        }
+    }
+}

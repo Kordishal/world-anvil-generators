@@ -1,0 +1,16 @@
+{
+    "values": {
+        "mortal": {
+            "value": "Mortal",
+            "weight": 80
+        },
+        "more-than-mortal": {
+            "value": "More Than Mortal",
+            "weight": 18
+        },
+        "less-than-mortal": {
+            "value": "Less Than Mortal",
+            "weight": 2
+        }
+    }
+}

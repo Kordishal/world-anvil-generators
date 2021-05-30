@@ -1,0 +1,28 @@
+{
+    "values": {
+        "barbarian": {
+            "value": "Barbarian",
+            "weight": 10
+        },
+        "fighter": {
+            "value": "Fighter",
+            "weight": 40
+        },
+        "monk-martial": {
+            "value": "Monk (Martial)",
+            "weight": 10
+        },
+        "paladin-martial": {
+            "value": "Paladin (Martial)",
+            "weight": 20
+        },
+        "ranger-martial": {
+            "value": "Ranger (Martial)",
+            "weight": 10
+        },
+        "rogue": {
+            "value": "Rogue",
+            "weight": 10
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "values": {
+        "paladin-divine": {
+            "value": "Paladin (Divine)",
+            "weight": 10
+        },
+        "cleric": {
+            "value": "Cleric",
+            "weight": 90
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "values": {
+        "one-role": {
+            "value": "[template:one-role-soullink|{}]",
+            "weight": 85
+        },
+        "two-role": {
+            "value": "[template:two-roles-soullink|{}]",
+            "weight": 5
+        },
+        "three-role": {
+            "value": "[template:three-roles-soullink|{}]",
+            "weight": 5
+        },
+        "four-role": {
+            "value": "[template:four-roles-soullink|{}]",
+            "weight": 5
+        }
+    }
+}

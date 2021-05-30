@@ -1,0 +1,24 @@
+{
+    "values": {
+        "artificer": {
+            "value": "Artificer",
+            "weight": 5
+        },
+        "bard": {
+            "value": "Bard",
+            "weight": 15
+        },
+        "sorcerer": {
+            "value": "Sorcerer",
+            "weight": 20
+        },
+        "warlock": {
+            "value": "Warlock",
+            "weight": 10
+        },
+        "wizard": {
+            "value": "Wizard",
+            "weight": 20
+        }
+    }
+}

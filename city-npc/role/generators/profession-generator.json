@@ -1,0 +1,356 @@
+{
+    "values": {
+        "acolyte": {
+            "value": "Acolyte",
+            "weight": 10
+        },
+        "alchemist": {
+            "value": "Alchemist",
+            "weight": 10
+        },
+        "apothecary": {
+            "value": "Apothecary",
+            "weight": 10
+        },
+        "artist": {
+            "value": "Artist",
+            "weight": 10
+        },
+        "banker": {
+            "value": "Banker",
+            "weight": 10
+        },
+        "barmaid": {
+            "value": "Barmaid",
+            "weight": 10
+        },
+        "beggar": {
+            "value": "Beggar",
+            "weight": 10
+        },
+        "bodyguard": {
+            "value": "Bodyguard",
+            "weight": 10
+        },
+        "bounty-hunter": {
+            "value": "Bounty Hunter",
+            "weight": 10
+        },
+        "butler": {
+            "value": "Butler",
+            "weight": 10
+        },
+        "caravan-specialist": {
+            "value": "Caravan Specialist",
+            "weight": 10
+        },
+        "charlatan": {
+            "value": "Charlatan",
+            "weight": 10
+        },
+        "city-guard": {
+            "value": "City Guard",
+            "weight": 10
+        },
+        "city-watch": {
+            "value": "City Watch",
+            "weight": 10
+        },
+        "city-worker": {
+            "value": "City Worker",
+            "weight": 10
+        },
+        "clan-crafter": {
+            "value": "Clan Crafter",
+            "weight": 10
+        },
+        "cloistered-scholar": {
+            "value": "Cloistered Scholar",
+            "weight": 10
+        },
+        "combat-medic": {
+            "value": "Combat Medic",
+            "weight": 10
+        },
+        "cook": {
+            "value": "Cook",
+            "weight": 10
+        },
+        "courtesan": {
+            "value": "Courtesan",
+            "weight": 10
+        },
+        "courtier": {
+            "value": "Courtier",
+            "weight": 10
+        },
+        "criminal": {
+            "value": "Criminal",
+            "weight": 10
+        },
+        "detective": {
+            "value": "Detective",
+            "weight": 10
+        },
+        "diplomat": {
+            "value": "Diplomat",
+            "weight": 10
+        },
+        "disowned-noble": {
+            "value": "Disowned Noble",
+            "weight": 10
+        },
+        "doctor": {
+            "value": "Doctor",
+            "weight": 10
+        },
+        "drunken-bum": {
+            "value": "Drunken Bum",
+            "weight": 10
+        },
+        "engineer": {
+            "value": "Engineer",
+            "weight": 10
+        },
+        "entertainer": {
+            "value": "Entertainer",
+            "weight": 10
+        },
+        "executioner": {
+            "value": "Executioner",
+            "weight": 10
+        },
+        "explorer": {
+            "value": "Explorer",
+            "weight": 10
+        },
+        "faction-agent": {
+            "value": "Faction Agent",
+            "weight": 10
+        },
+        "falconer": {
+            "value": "Falconer",
+            "weight": 10
+        },
+        "far-traveler": {
+            "value": "Far Traveler",
+            "weight": 10
+        },
+        "farmer": {
+            "value": "Farmer",
+            "weight": 10
+        },
+        "folk-hero": {
+            "value": "Folk Hero",
+            "weight": 10
+        },
+        "gambler": {
+            "value": "Gambler",
+            "weight": 10
+        },
+        "gate-urchin": {
+            "value": "Gate Urchin",
+            "weight": 10
+        },
+        "gladiator": {
+            "value": "Gladiator",
+            "weight": 10
+        },
+        "gravetender": {
+            "value": "Gravetender",
+            "weight": 10
+        },
+        "guild-artisan": {
+            "value": "Guild Artisan",
+            "weight": 10
+        },
+        "guild-merchant": {
+            "value": "Guild Merchant",
+            "weight": 10
+        },
+        "hermit": {
+            "value": "Hermit",
+            "weight": 10
+        },
+        "hunter": {
+            "value": "Hunter",
+            "weight": 10
+        },
+        "initiate": {
+            "value": "Initiate",
+            "weight": 10
+        },
+        "innkeeper": {
+            "value": "Innkeeper",
+            "weight": 10
+        },
+        "inquisitor": {
+            "value": "Inquisitor",
+            "weight": 10
+        },
+        "investigator": {
+            "value": "Investigator",
+            "weight": 10
+        },
+        "janitor": {
+            "value": "Janitor",
+            "weight": 10
+        },
+        "jester": {
+            "value": "Jester",
+            "weight": 10
+        },
+        "knight": {
+            "value": "Knight",
+            "weight": 10
+        },
+        "librarian": {
+            "value": "Librarian",
+            "weight": 10
+        },
+        "lumberjack": {
+            "value": "Lumberjack",
+            "weight": 10
+        },
+        "mercenary": {
+            "value": "Mercenary",
+            "weight": 10
+        },
+        "messenger": {
+            "value": "Messenger",
+            "weight": 10
+        },
+        "militant-assassin": {
+            "value": "Militant Assassin",
+            "weight": 10
+        },
+        "miner": {
+            "value": "Miner",
+            "weight": 10
+        },
+        "monastic": {
+            "value": "Monastic",
+            "weight": 10
+        },
+        "monastic-traveller": {
+            "value": "Monastic Traveller",
+            "weight": 10
+        },
+        "monster-hunter": {
+            "value": "Monster Hunter",
+            "weight": 10
+        },
+        "noble-guard": {
+            "value": "Noble Guard",
+            "weight": 10
+        },
+        "occult-investigator": {
+            "value": "Occult Investigator",
+            "weight": 10
+        },
+        "outlander": {
+            "value": "Outlander",
+            "weight": 10
+        },
+        "pirate": {
+            "value": "Pirate",
+            "weight": 10
+        },
+        "politician": {
+            "value": "Politician",
+            "weight": 10
+        },
+        "princess/prince": {
+            "value": "Princess/Prince",
+            "weight": 10
+        },
+        "professional-assassin": {
+            "value": "Professional Assassin",
+            "weight": 10
+        },
+        "sage": {
+            "value": "Sage",
+            "weight": 10
+        },
+        "sailor": {
+            "value": "Sailor",
+            "weight": 10
+        },
+        "scout": {
+            "value": "Scout",
+            "weight": 10
+        },
+        "sentinel": {
+            "value": "Sentinel",
+            "weight": 10
+        },
+        "shipwright": {
+            "value": "Shipwright",
+            "weight": 10
+        },
+        "simpleton": {
+            "value": "Simpleton",
+            "weight": 10
+        },
+        "slayer": {
+            "value": "Slayer",
+            "weight": 10
+        },
+        "smuggler": {
+            "value": "Smuggler",
+            "weight": 10
+        },
+        "soldier": {
+            "value": "Soldier",
+            "weight": 10
+        },
+        "spirit-medium": {
+            "value": "Spirit Medium",
+            "weight": 10
+        },
+        "spy": {
+            "value": "Spy",
+            "weight": 10
+        },
+        "squire": {
+            "value": "Squire",
+            "weight": 10
+        },
+        "tailor": {
+            "value": "Tailor",
+            "weight": 10
+        },
+        "temple-guardian": {
+            "value": "Temple Guardian",
+            "weight": 10
+        },
+        "tribe-member": {
+            "value": "Tribe Member",
+            "weight": 10
+        },
+        "urban-bounty-hunter": {
+            "value": "Urban Bounty Hunter",
+            "weight": 10
+        },
+        "urchin": {
+            "value": "Urchin",
+            "weight": 10
+        },
+        "wandering-mercenary": {
+            "value": "Wandering Mercenary",
+            "weight": 10
+        },
+        "woodcutter": {
+            "value": "Woodcutter",
+            "weight": 10
+        },
+        "writer": {
+            "value": "Writer",
+            "weight": 10
+        },
+        "zealot": {
+            "value": "Zealot",
+            "weight": 10
+        }
+    }
+}

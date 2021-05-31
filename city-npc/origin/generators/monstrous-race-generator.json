@@ -1,3 +1,96 @@
 {
-    "values": {}
+    "values": {
+        "aarakocra": {
+            "value": "Aarakocra",
+            "weight": 5
+        },
+        "bugbear": {
+            "value": "Bugbear",
+            "weight": 10
+        },
+        "bullywug": {
+            "value": "Bullywug",
+            "weight": 5
+        },
+        "gith": {
+            "value": "Gith",
+            "weight": 20
+        },
+        "gnoll": {
+            "value": "Gnoll",
+            "weight": 5
+        },
+        "goblin": {
+            "value": "Goblin",
+            "weight": 10
+        },
+        "grimlock": {
+            "value": "Grimlock",
+            "weight": 5
+        },
+        "half-dragon": {
+            "value": "Half-Dragon",
+            "weight": 10
+        },
+        "hobgoblin": {
+            "value": "Hobgoblin",
+            "weight": 10
+        },
+        "jackalwere": {
+            "value": "Jackalwere",
+            "weight": 10
+        },
+        "kenku": {
+            "value": "Kenku",
+            "weight": 5
+        },
+        "kobold": {
+            "value": "Kobold",
+            "weight": 10
+        },
+        "kuo-toa": {
+            "value": "Kuo-Toa",
+            "weight": 5
+        },
+        "lycanthrope": {
+            "value": "Lycanthrope",
+            "weight": 10
+        },
+        "merfolk": {
+            "value": "Merfolk",
+            "weight": 5
+        },
+        "minotaur": {
+            "value": "Minotaur",
+            "weight": 5
+        },
+        "orc": {
+            "value": "Orc",
+            "weight": 20
+        },
+        "ratmen": {
+            "value": "Ratmen",
+            "weight": 10
+        },
+        "quaggoth": {
+            "value": "Quaggoth",
+            "weight": 5
+        },
+        "sahuagin": {
+            "value": "Sahuagin",
+            "weight": 5
+        },
+        "thri-kreen": {
+            "value": "Thri-Kreen",
+            "weight": 5
+        },
+        "troglodyte": {
+            "value": "Troglodyte",
+            "weight": 5
+        },
+        "yuan-ti": {
+            "value": "Yuan-Ti",
+            "weight": 20
+        }
+    }
 }

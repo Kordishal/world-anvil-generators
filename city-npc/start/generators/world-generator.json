@@ -7,6 +7,10 @@
         "another-world": {
             "value": "Another World",
             "weight": 5
+        },
+        "beyond": {
+            "value": "Beyond",
+            "weight": 5
         }
     }
 }

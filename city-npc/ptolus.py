@@ -4,6 +4,7 @@ from typing import Any
 import openpyxl
 from openpyxl.worksheet.worksheet import Worksheet
 
+origin_keys = list()
 
 def create_payload_dict(variable: str):
     router = dict()
@@ -17,7 +18,7 @@ def read_table_generators(items, payload):
         if key is None:
             continue
         if len(item) == 2:
-            key = key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '')
+            key = key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace("'", '')
             payload[key] = {
                 'value': item[0].value,
                 'weight': int(item[1].value)
@@ -61,15 +62,16 @@ if __name__ == '__main__':
 
     read_range('A5:B7', 'mortal-generator', start)
     read_range('D5:E16', 'more-than-mortal-generator', start)
-    read_range('D22:E25', 'less-than-mortal-generator', start)
-    read_range('G5:H6', 'world-generator', start)
-    read_range('J5:K6', 'gender-generator', start)
+    read_range('G5:H8', 'less-than-mortal-generator', start)
+    read_range('J5:K7', 'mortality-router', start)
+    read_range('M5:N7', 'world-generator', start)
+    read_range('P5:Q6', 'gender-generator', start)
 
     read_range('B5:D7', 'city-demographics-generator', origin)
     read_range('B11:D13', 'down-shadow-demographics-generator', origin)
     read_range('F5:H8', 'major-race-generator', origin)
     read_range('F14:H27', 'minor-race-generator', origin)
-    read_range('F36:H58', 'monstrous-race-generator', origin)
+    read_range('G36:H58', 'monstrous-race-generator', origin)
     read_range('J5:K7', 'aasimar-subrace-generator', origin)
     read_range('J11:K26', 'dragonborn-subrace-generator', origin)
     read_range('J30:K33', 'genasi-subrace-generator', origin)

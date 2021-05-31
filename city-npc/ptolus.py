@@ -6,28 +6,36 @@ from openpyxl.worksheet.worksheet import Worksheet
 
 origin_keys = list()
 
+
 def create_payload_dict(variable: str):
     router = dict()
     router[variable] = dict()
     return router, router[variable]
 
 
-def read_table_generators(items, payload):
+def read_table_generators(items, payload, is_origin):
     for item in items:
         key = item[0].value
         if key is None:
             continue
         if len(item) == 2:
             key = key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace("'", '')
+            value = item[0].value
             payload[key] = {
-                'value': item[0].value,
+                'value': value,
                 'weight': int(item[1].value)
             }
+            if is_origin and not value.startswith('['):
+                origin_keys.append(key)
         elif len(item) == 3:
-            payload[item[0].value] = {
-                'value': item[1].value,
+            key = item[0].value
+            value = item[1].value
+            payload[key] = {
+                'value': value,
                 'weight': int(item[2].value)
             }
+            if is_origin and not value.startswith('['):
+                origin_keys.append(key)
 
 
 def read_table_routers(items, payload):
@@ -40,7 +48,7 @@ def read_range(sheet_range: str, filename: str, sheet):
     mortal = sheet[sheet_range]
     mortal_generator, mortal_payload = create_payload_dict('values')
     if resource == 'generators':
-        read_table_generators(mortal, mortal_payload)
+        read_table_generators(mortal, mortal_payload, sheet.title == 'ORIGIN')
     elif resource == 'routers':
         read_table_routers(mortal, mortal_payload)
     write_file(mortal_generator, filename, sheet.title.lower(), resource)
@@ -83,6 +91,13 @@ if __name__ == '__main__':
     read_range('J85:K89', 'tiefling-subrace-generator', origin)
     read_range('M5:N11', 'human-culture-generator', origin)
 
+    print(origin_keys)
+    with open('origin/origin-keys.csv', 'w') as ok:
+        for key in sorted(origin_keys):
+            ok.write(key + '\n')
+
+    read_range('P4:Q103', 'origin-template-router', origin)
+
     read_range('A5:C8', 'role-generator', role)
     read_range('E5:F6', 'balance-or-specialist-generator', role)
     read_range('H5:I6', 'active-role-one-generator', role)
@@ -112,7 +127,5 @@ if __name__ == '__main__':
     read_range('J27:K33', 'domain-tempest-generator', gods)
     read_range('M27:N33', 'domain-trickery-generator', gods)
     read_range('P27:Q33', 'domain-war-generator', gods)
-
     read_range('B4:D22', 'domain-name-generator', gods)
     read_range('B27:C45', 'deity-name-router', gods)
-

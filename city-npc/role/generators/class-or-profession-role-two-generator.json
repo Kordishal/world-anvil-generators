@@ -1,11 +1,11 @@
 {
     "values": {
         "profession": {
-            "value": "[generator:city-profession-soullink|{}|professsion]",
+            "value": "[generator:city-profession-soullink|{}|profession]",
             "weight": 75
         },
         "hero": {
-            "value": "[generator:hero-power-source-28role-129-soullink|{}|hero]",
+            "value": "[generator:hero-power-source-28role-229-soullink|{}|hero]",
             "weight": 25
         }
     }

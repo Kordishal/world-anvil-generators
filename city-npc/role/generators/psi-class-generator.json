@@ -2,7 +2,15 @@
     "values": {
         "monk-psi": {
             "value": "Monk (Psi)",
-            "weight": 100
+            "weight": 80
+        },
+        "psion": {
+            "value": "Psion",
+            "weight": 20
+        },
+        "psi-warrior": {
+            "value": "Psi Warrior",
+            "weight": 20
         }
     }
 }

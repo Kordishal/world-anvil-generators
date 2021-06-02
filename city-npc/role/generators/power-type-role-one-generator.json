@@ -13,12 +13,12 @@
             "weight": 10
         },
         "psi": {
-            "value": "Monk (Psi)",
+            "value": "[generator:psi-class-soullink|{}|class]",
             "weight": 10
         },
         "martial": {
             "value": "[generator:martial-class-soullink|{}|class]",
-            "weight": 10
+            "weight": 60
         }
     }
 }

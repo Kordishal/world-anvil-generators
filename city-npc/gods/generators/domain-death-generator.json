@@ -1,16 +1,36 @@
 {
     "values": {
-        "heiran-sister-of-death": {
-            "value": "Heiran, Sister of Death",
-            "weight": 35
+        "baalhazor-demon-god-of-technology-ce": {
+            "value": "Baalhazor, Demon God of Technology (CE)",
+            "weight": 10
         },
-        "nareis-sister-of-death": {
-            "value": "Nareis, Sister of Death",
-            "weight": 35
+        "danace-master-of-the-thousand-pains-le": {
+            "value": "Danace, Master of the Thousand Pains (LE)",
+            "weight": 20
         },
-        "unnah-mistress-of-the-blades": {
-            "value": "Unnah, Mistress of the Blades",
-            "weight": 30
+        "father-claw-the-serpentine-lord-ce": {
+            "value": "Father Claw, the Serpentine Lord (CE)",
+            "weight": 10
+        },
+        "gorgoth-lol-dark-elves-ce": {
+            "value": "Gorgoth-Lol, Dark Elves (CE)",
+            "weight": 10
+        },
+        "heiran-the-sisters-of-death-le": {
+            "value": "Heiran, the Sisters of Death (LE)",
+            "weight": 20
+        },
+        "maleskari-god-of-shades-ne": {
+            "value": "Maleskari, God of Shades (NE)",
+            "weight": 20
+        },
+        "nareis-the-sisters-of-death-ce": {
+            "value": "Nareis, the Sisters of Death (CE)",
+            "weight": 10
+        },
+        "ravvan-the-beast-god-ce": {
+            "value": "Ravvan the Beast God (CE)",
+            "weight": 10
         }
     }
 }

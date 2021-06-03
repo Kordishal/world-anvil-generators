@@ -6,11 +6,15 @@
         },
         "civilization": {
             "value": "Civilization",
-            "weight": 20
+            "weight": 30
         },
         "death": {
             "value": "Death",
-            "weight": 5
+            "weight": 20
+        },
+        "future": {
+            "value": "Future",
+            "weight": 20
         },
         "grave": {
             "value": "Grave",
@@ -18,23 +22,23 @@
         },
         "knowledge": {
             "value": "Knowledge",
-            "weight": 5
+            "weight": 30
         },
         "life": {
             "value": "Life",
-            "weight": 20
+            "weight": 40
         },
         "light": {
             "value": "Light",
-            "weight": 20
+            "weight": 40
         },
         "luck": {
             "value": "Luck",
-            "weight": 20
+            "weight": 1
         },
         "nature": {
             "value": "Nature",
-            "weight": 5
+            "weight": 20
         },
         "night": {
             "value": "Night",
@@ -50,15 +54,23 @@
         },
         "protection": {
             "value": "Protection",
+            "weight": 1
+        },
+        "radiance": {
+            "value": "Radiance",
+            "weight": 20
+        },
+        "sleep": {
+            "value": "Sleep",
             "weight": 20
         },
         "technology": {
             "value": "Technology",
-            "weight": 5
+            "weight": 30
         },
         "tempest": {
             "value": "Tempest",
-            "weight": 10
+            "weight": 20
         },
         "travel": {
             "value": "Travel",
@@ -66,7 +78,7 @@
         },
         "trickery": {
             "value": "Trickery",
-            "weight": 5
+            "weight": 20
         },
         "twilight": {
             "value": "Twilight",
@@ -74,7 +86,7 @@
         },
         "war": {
             "value": "War",
-            "weight": 20
+            "weight": 30
         }
     }
 }

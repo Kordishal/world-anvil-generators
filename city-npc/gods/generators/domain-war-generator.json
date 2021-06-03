@@ -1,15 +1,23 @@
 {
     "values": {
-        "inurath-mistress-of-war": {
-            "value": "Inurath, Mistress of War",
+        "inurath-mistress-of-war-cn": {
+            "value": "Inurath, Mistress of War (CN)",
+            "weight": 80
+        },
+        "charlathan-divine-of-retribution-&-reward-cn": {
+            "value": "Charlathan, Divine of Retribution & Reward (CN)",
+            "weight": 10
+        },
+        "thamus-ng": {
+            "value": "Thamus (NG)",
             "weight": 40
         },
-        "navashtrom-god-of-strength-and-harmony": {
-            "value": "Navashtrom, God of Strength and Harmony",
-            "weight": 40
+        "torskal-lg": {
+            "value": "Torskal (LG)",
+            "weight": 20
         },
-        "unnah-mistress-of-the-blades": {
-            "value": "Unnah, Mistress of the Blades",
+        "unnah-mistress-of-the-blades-ln": {
+            "value": "Unnah, Mistress of the Blades (LN)",
             "weight": 20
         }
     }

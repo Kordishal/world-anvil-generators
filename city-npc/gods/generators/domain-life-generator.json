@@ -1,23 +1,63 @@
 {
     "values": {
-        "asche-god-of-cities": {
-            "value": "Asche, God of Cities",
-            "weight": 50
+        "lothian": {
+            "value": "Lothian",
+            "weight": 40
         },
-        "gaen-goddess-of-light": {
-            "value": "Gaen, Goddess of Light",
-            "weight": 20
-        },
-        "melann-goddess-of-farming": {
-            "value": "Melann, Goddess of Farming",
+        "asche-god-of-cities-n": {
+            "value": "Asche, God of Cities (N)",
             "weight": 10
         },
-        "engelan-god-of-the-present": {
-            "value": "Engelan, God of the Present",
+        "navashtrom-god-of-strength-and-harmony-ng": {
+            "value": "Navashtrom, God of Strength and Harmony (NG)",
             "weight": 10
         },
-        "tevra-the-clockwork-goddess": {
-            "value": "Tevra, the Clockwork Goddess",
+        "castain-lg": {
+            "value": "Castain (LG)",
+            "weight": 10
+        },
+        "celestan-lord-of-the-silver-moon-ng": {
+            "value": "Celestan, Lord of the Silver Moon (NG)",
+            "weight": 10
+        },
+        "engelan-god-of-the-present-n": {
+            "value": "Engelan, God of the Present (N)",
+            "weight": 10
+        },
+        "hannan-lord-of-the-sun-ng": {
+            "value": "Hannan, Lord of the Sun (NG)",
+            "weight": 10
+        },
+        "herkan-goddess-of-the-stones-cg": {
+            "value": "Herkan, Goddess of the Stones (CG)",
+            "weight": 10
+        },
+        "mirresh-goddess-of-laughter-ng": {
+            "value": "Mirresh, Goddess of Laughter (NG)",
+            "weight": 10
+        },
+        "raddashin’s-eye-god-of-rain-cg": {
+            "value": "Raddashin’s Eye, God of Rain (CG)",
+            "weight": 10
+        },
+        "rajek-the-wanderer-n": {
+            "value": "Rajek the Wanderer (N)",
+            "weight": 10
+        },
+        "tevra-the-clockwork-goddess-ln": {
+            "value": "Tevra, the Clockwork Goddess (LN)",
+            "weight": 10
+        },
+        "thamus-ng": {
+            "value": "Thamus (NG)",
+            "weight": 10
+        },
+        "unnom-lord-of-caverns-n": {
+            "value": "Unnom, Lord of Caverns (N)",
+            "weight": 10
+        },
+        "yurabbos-goddess-of-supreme-devotion-ln": {
+            "value": "Yurabbos, Goddess of Supreme Devotion (LN)",
             "weight": 10
         }
     }

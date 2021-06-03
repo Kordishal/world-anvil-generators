@@ -1,20 +1,12 @@
 {
     "values": {
-        "ahaar-lord-of-the-air": {
-            "value": "Ahaar, Lord of the Air",
-            "weight": 20
-        },
-        "harredda-mistress-of-ravens": {
-            "value": "Harredda, Mistress of Ravens",
-            "weight": 20
-        },
-        "inurath-mistress-of-war": {
-            "value": "Inurath, Mistress of War",
+        "ahaar-lord-of-the-air-cg": {
+            "value": "Ahaar, Lord of the Air (CG)",
             "weight": 40
         },
-        "myliesha-mistress-of-the-wind’s-path": {
-            "value": "Myliesha, Mistress of the Wind’s Path",
-            "weight": 20
+        "juranis-god-of-the-open-sea-cn": {
+            "value": "Juranis, God of the Open Sea (CN)",
+            "weight": 60
         }
     }
 }

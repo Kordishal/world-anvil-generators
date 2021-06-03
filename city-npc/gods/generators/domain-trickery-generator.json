@@ -1,16 +1,32 @@
 {
     "values": {
-        "the-lady": {
-            "value": "The Lady",
-            "weight": 35
+        "charlathan-divine-of-retribution-&-reward-cn": {
+            "value": "Charlathan, Divine of Retribution & Reward (CN)",
+            "weight": 20
         },
-        "rajek-the-wanderer": {
-            "value": "Rajek the Wanderer",
-            "weight": 35
+        "danace-master-of-the-thousand-pains-le": {
+            "value": "Danace, Master of the Thousand Pains (LE)",
+            "weight": 10
         },
-        "the-fifty-three-gods-of-chance": {
-            "value": "The Fifty-Three Gods of Chance",
-            "weight": 30
+        "destor-god-of-cruel-fate-ce": {
+            "value": "Destor, God of Cruel Fate (CE)",
+            "weight": 10
+        },
+        "the-fifty-three-gods-of-chance-cn": {
+            "value": "The Fifty-Three Gods of Chance (CN)",
+            "weight": 20
+        },
+        "the-lady-n": {
+            "value": "The Lady (N)",
+            "weight": 20
+        },
+        "mirresh-goddess-of-laughter-ng": {
+            "value": "Mirresh, Goddess of Laughter (NG)",
+            "weight": 20
+        },
+        "the-old-man-ln": {
+            "value": "The Old Man (LN)",
+            "weight": 20
         }
     }
 }

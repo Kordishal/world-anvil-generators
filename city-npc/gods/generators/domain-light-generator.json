@@ -1,28 +1,36 @@
 {
     "values": {
-        "gaen-goddess-of-light": {
-            "value": "Gaen, Goddess of Light",
-            "weight": 40
-        },
-        "kharos-god-of-magic": {
-            "value": "Kharos, God of Magic",
-            "weight": 10
-        },
-        "locharit-the-goddess-of-the-written-word": {
-            "value": "Locharit, the Goddess of the Written Word",
-            "weight": 10
-        },
-        "melann-goddess-of-farming": {
-            "value": "Melann, Goddess of Farming",
-            "weight": 10
-        },
-        "navashtrom-god-of-strength-and-harmony": {
-            "value": "Navashtrom, God of Strength and Harmony",
+        "lothian": {
+            "value": "Lothian",
             "weight": 20
         },
-        "teun-mother-of-all-machines": {
-            "value": "Teun, Mother of All Machines",
-            "weight": 10
+        "gaen-goddess-of-light-lg": {
+            "value": "Gaen, Goddess of Light (LG)",
+            "weight": 40
+        },
+        "aldinach-goddess-of-the-moons-ng": {
+            "value": "Aldinach, Goddess of the Moons (NG)",
+            "weight": 20
+        },
+        "blurrah-goddess-of-comfort-in-sadness-cg": {
+            "value": "Blurrah, Goddess of Comfort in Sadness (CG)",
+            "weight": 20
+        },
+        "castain-lg": {
+            "value": "Castain (LG)",
+            "weight": 20
+        },
+        "celestan-lord-of-the-silver-moon-ng": {
+            "value": "Celestan, Lord of the Silver Moon (NG)",
+            "weight": 20
+        },
+        "hannan-lord-of-the-sun-ng": {
+            "value": "Hannan, Lord of the Sun (NG)",
+            "weight": 20
+        },
+        "jode-guardian-of-song-cg": {
+            "value": "Jode, Guardian of Song (CG)",
+            "weight": 20
         }
     }
 }

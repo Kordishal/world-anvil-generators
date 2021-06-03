@@ -1,16 +1,20 @@
 {
     "values": {
-        "mocharum-god-of-dwarves": {
-            "value": "Mocharum, God of Dwarves",
-            "weight": 25
+        "teun-mother-of-all-machines-ln": {
+            "value": "Teun, Mother of All Machines (LN)",
+            "weight": 40
         },
-        "teun-mother-of-all-machines": {
-            "value": "Teun, Mother of All Machines",
-            "weight": 50
+        "baalhazor-demon-god-of-technology-ce": {
+            "value": "Baalhazor, Demon God of Technology (CE)",
+            "weight": 10
         },
-        "tevra-the-clockwork-goddess": {
-            "value": "Tevra, the Clockwork Goddess",
-            "weight": 25
+        "the-iron-god-le": {
+            "value": "The Iron God (LE)",
+            "weight": 10
+        },
+        "tevra-the-clockwork-goddess-ln": {
+            "value": "Tevra, the Clockwork Goddess (LN)",
+            "weight": 40
         }
     }
 }

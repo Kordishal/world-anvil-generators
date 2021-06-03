@@ -1,0 +1,16 @@
+{
+    "values": {
+        "aldinach-goddess-of-the-moons-ng": {
+            "value": "Aldinach, Goddess of the Moons (NG)",
+            "weight": 40
+        },
+        "niveral-god-of-secrets-n": {
+            "value": "Niveral, God of Secrets (N)",
+            "weight": 20
+        },
+        "watcher-of-the-skies-n": {
+            "value": "Watcher of the Skies (N)",
+            "weight": 40
+        }
+    }
+}

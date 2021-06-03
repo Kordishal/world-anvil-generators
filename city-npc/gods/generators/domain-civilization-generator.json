@@ -1,0 +1,16 @@
+{
+    "values": {
+        "asche-god-of-cities-n": {
+            "value": "Asche, God of Cities (N)",
+            "weight": 50
+        },
+        "teun-mother-of-all-machines-ln": {
+            "value": "Teun, Mother of All Machines (LN)",
+            "weight": 30
+        },
+        "ollom-god-of-the-keg-cn": {
+            "value": "Ollom, God of the Keg (CN)",
+            "weight": 20
+        }
+    }
+}

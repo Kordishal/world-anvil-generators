@@ -1,20 +1,52 @@
 {
     "values": {
-        "ahaar-lord-of-the-air": {
-            "value": "Ahaar, Lord of the Air",
-            "weight": 30
+        "ahaar-lord-of-the-air-cg": {
+            "value": "Ahaar, Lord of the Air (CG)",
+            "weight": 40
         },
-        "harredda-mistress-of-ravens": {
-            "value": "Harredda, Mistress of Ravens",
-            "weight": 30
+        "frega-watcher-of-animals-lg": {
+            "value": "Frega, Watcher of Animals (LG)",
+            "weight": 20
         },
-        "melann-goddess-of-farming": {
-            "value": "Melann, Goddess of Farming",
-            "weight": 30
+        "harredda-mistress-of-ravens-n": {
+            "value": "Harredda, Mistress of Ravens (N)",
+            "weight": 40
         },
-        "myliesha-mistress-of-the-wind’s-path": {
-            "value": "Myliesha, Mistress of the Wind’s Path",
+        "juranis-god-of-the-open-sea-cn": {
+            "value": "Juranis, God of the Open Sea (CN)",
+            "weight": 40
+        },
+        "melann-goddess-of-farming-ng": {
+            "value": "Melann, Goddess of Farming (NG)",
+            "weight": 40
+        },
+        "mocharum-god-of-dwarves-lg": {
+            "value": "Mocharum, God of Dwarves (LG)",
+            "weight": 20
+        },
+        "myliesha-mistress-of-the-wind’s-path-cg": {
+            "value": "Myliesha, Mistress of the Wind’s Path (CG)",
+            "weight": 20
+        },
+        "raddashin’s-eye-god-of-rain-cg": {
+            "value": "Raddashin’s Eye, God of Rain (CG)",
+            "weight": 40
+        },
+        "ravvan-the-beast-god-ce": {
+            "value": "Ravvan the Beast God (CE)",
             "weight": 10
+        },
+        "sylvanae-the-woodland-shaper-n": {
+            "value": "Sylvanae, the Woodland Shaper (N)",
+            "weight": 20
+        },
+        "taeshandra-elvish-god-of-travel-ng": {
+            "value": "Taeshandra, Elvish God of Travel (NG)",
+            "weight": 20
+        },
+        "unnom-lord-of-caverns-n": {
+            "value": "Unnom, Lord of Caverns (N)",
+            "weight": 20
         }
     }
 }

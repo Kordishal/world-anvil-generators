@@ -19,6 +19,14 @@
         "unnah-mistress-of-the-blades-ln": {
             "value": "Unnah, Mistress of the Blades (LN)",
             "weight": 20
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
+        },
+        "the-demon-gods-ce": {
+            "value": "The Demon Gods (CE)",
+            "weight": 10
         }
     }
 }

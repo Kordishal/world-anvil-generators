@@ -47,6 +47,10 @@
         "unnom-lord-of-caverns-n": {
             "value": "Unnom, Lord of Caverns (N)",
             "weight": 20
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
         }
     }
 }

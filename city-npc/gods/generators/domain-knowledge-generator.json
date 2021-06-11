@@ -51,6 +51,14 @@
         "ynchabolos-god-of-numbers-ln": {
             "value": "Ynchabolos, God of Numbers (LN)",
             "weight": 20
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
+        },
+        "the-demon-gods-ce": {
+            "value": "The Demon Gods (CE)",
+            "weight": 10
         }
     }
 }

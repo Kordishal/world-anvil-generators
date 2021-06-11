@@ -1,8 +1,10 @@
 {
     "values": {
+        "Key": "Value",
         "arcana": "No piety",
-        "civilization": "Asche, God of Cities",
+        "civilization": "[generator:deity-28civilization29-soullink|{}|deity]",
         "death": "[generator:deity-28death29-soullink|{}|deity]",
+        "forge": "No piety",
         "future": "[generator:deity-28future29-soullink|{}|deity]",
         "grave": "No piety",
         "knowledge": "[generator:deity-28knowledge29-soullink|{}|deity]",
@@ -14,13 +16,11 @@
         "order": "No piety",
         "peace": "No piety",
         "protection": "No piety",
-        "radiance": "Gaen, Goddess of Light (LG)",
-        "sleep": "Phoeboul, God of Dreams (CN)",
+        "radiance": "[generator:deity-28radiance29-soullink|{}|deity]",
+        "sleep": "[generator:deity-28sleep29-soullink|{}|deity]",
         "technology": "[generator:deity-28technology29-soullink|{}|deity]",
         "tempest": "[generator:deity-28tempest29-soullink|{}|deity]",
         "travel": "No piety",
-        "trickery": "[generator:deity-28trickery29-soullink|{}|deity]",
-        "twilight": "No piety",
-        "war": "[generator:deity-28war29-soullink|{}|deity]"
+        "trickery": "[generator:deity-28trickery29-soullink|{}|deity]"
     }
 }

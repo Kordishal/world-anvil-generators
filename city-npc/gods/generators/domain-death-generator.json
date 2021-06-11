@@ -31,6 +31,14 @@
         "ravvan-the-beast-god-ce": {
             "value": "Ravvan the Beast God (CE)",
             "weight": 10
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
+        },
+        "the-demon-gods-ce": {
+            "value": "The Demon Gods (CE)",
+            "weight": 10
         }
     }
 }

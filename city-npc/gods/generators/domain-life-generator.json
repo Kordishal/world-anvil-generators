@@ -59,6 +59,10 @@
         "yurabbos-goddess-of-supreme-devotion-ln": {
             "value": "Yurabbos, Goddess of Supreme Devotion (LN)",
             "weight": 10
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
         }
     }
 }

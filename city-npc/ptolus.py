@@ -1,4 +1,5 @@
 import json
+import re
 from typing import Any
 
 import openpyxl
@@ -15,27 +16,30 @@ def create_payload_dict(variable: str):
 
 def read_table_generators(items, payload, is_origin):
     for item in items:
-        key = item[0].value
-        if key is None:
+        local_key = item[0].value
+        if local_key is None:
+            continue
+        local_key = local_key.strip()
+        if local_key == '':
             continue
         if len(item) == 2:
-            key = key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace("'", '')
+            local_key = local_key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace("'", '')
             value = item[0].value
-            payload[key] = {
+            payload[local_key] = {
                 'value': value,
                 'weight': int(item[1].value)
             }
             if is_origin and not value.startswith('['):
-                origin_keys.append(key)
+                origin_keys.append(local_key)
         elif len(item) == 3:
-            key = item[0].value
+            local_key = item[0].value
             value = item[1].value
-            payload[key] = {
+            payload[local_key] = {
                 'value': value,
                 'weight': int(item[2].value)
             }
             if is_origin and not value.startswith('['):
-                origin_keys.append(key)
+                origin_keys.append(local_key)
 
 
 def read_table_routers(items, payload):
@@ -128,6 +132,8 @@ if __name__ == '__main__':
     read_range('S5:T20', 'domain-life-generator', gods)
     read_range('V5:W20', 'domain-light-generator', gods)
     read_range('AB5:AC20', 'domain-nature-generator', gods)
+    read_range('AH5:AI20', 'domain-radiance-generator', gods)
+    read_range('AK5:AL20', 'domain-sleep-generator', gods)
     read_range('AN5:AO20', 'domain-technology-generator', gods)
     read_range('AQ5:AR20', 'domain-tempest-generator', gods)
     read_range('AT5:AU20', 'domain-trickery-generator', gods)

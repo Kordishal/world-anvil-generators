@@ -12,6 +12,10 @@
             "value": "Death",
             "weight": 20
         },
+        "forge": {
+            "value": "Forge",
+            "weight": 1
+        },
         "future": {
             "value": "Future",
             "weight": 20
@@ -83,10 +87,6 @@
         "twilight": {
             "value": "Twilight",
             "weight": 1
-        },
-        "war": {
-            "value": "War",
-            "weight": 30
         }
     }
 }

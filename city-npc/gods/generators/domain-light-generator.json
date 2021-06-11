@@ -31,6 +31,10 @@
         "jode-guardian-of-song-cg": {
             "value": "Jode, Guardian of Song (CG)",
             "weight": 20
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "values": {
+        "gaen-goddess-of-light-lg": {
+            "value": "Gaen, Goddess of Light (LG)",
+            "weight": 90
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
+        }
+    }
+}

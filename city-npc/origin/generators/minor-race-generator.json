@@ -9,7 +9,7 @@
             "weight": 5
         },
         "changeling": {
-            "value": "Changeling[gensetvar:{\"origin\": \"Changeling\"}]",
+            "value": "Changeling[gensetvar:{\"has-cover\": \"cover\"}][gensetvar:{\"origin\": \"Changeling\"}]",
             "weight": 5
         },
         "dragonborn": {

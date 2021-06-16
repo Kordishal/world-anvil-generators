@@ -1,7 +1,7 @@
 {
     "values": {
-        "mortal": "[template:mortal-soullink|{}]",
-        "more-than-mortal": "[template:more-than-mortal-soullink|{}]",
-        "less-than-mortal": "[template:less-than-mortal-soullink|{}]"
+        "mortal": "[template:mortal-soullink|{}|mortal-result]",
+        "more-than-mortal": "[template:more-than-mortal-soullink|{}|more-than-mortal-result]",
+        "less-than-mortal": "[template:less-than-mortal-soullink|{}|less-than-mortal-result]"
     }
 }

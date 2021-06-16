@@ -8,7 +8,7 @@
             "value": "[generator:minor-origin-soullink|{}|selected-origin]",
             "weight": 5
         },
-        "monstrious": {
+        "monstrous": {
             "value": "[generator:monstrous-origin-soullink|{}|selected-origin]",
             "weight": 5
         }

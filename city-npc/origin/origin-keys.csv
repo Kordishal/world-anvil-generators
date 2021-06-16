@@ -57,7 +57,7 @@ hill
 hobgoblin
 human
 istoma-city-plains-of-panish
-jackalwere
+jackalwere[gensetvar:{"has-cover":-"cover"}]
 kem
 kenku
 kobold
@@ -65,7 +65,7 @@ kuo-toa
 lightfoot
 litorians
 lizardfolk (assarai)
-lycanthrope
+lycanthrope[gensetvar:{"has-cover":-"cover"}]
 merfolk
 minotaur
 moon
@@ -122,4 +122,4 @@ white
 winged
 wood
 wood
-yuan-ti
+yuan-ti[gensetvar:{"has-cover":-"cover"}]

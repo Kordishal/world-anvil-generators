@@ -73,7 +73,7 @@ if __name__ == '__main__':
     wb = openpyxl.open('Ptolus_City_NPC_Encounter.xlsx')
     start: Worksheet = wb['START']
     origin = wb['ORIGIN']
-    trait = wb['TRAITS']
+    trait = wb['HUMAN_TRAITS']
     role = wb['ROLE']
     gods = wb['GODS']
     build = wb['BUILD']
@@ -89,7 +89,7 @@ if __name__ == '__main__':
     read_range('B11:D13', 'down-shadow-demographics-generator', origin)
     read_range('F5:H8', 'major-race-generator', origin, enable_gensetvar='origin')
     read_range('F14:H27', 'minor-race-generator', origin, enable_gensetvar='origin')
-    read_range('G36:H58', 'monstrous-race-generator', origin)
+    read_range('G36:H58', 'monstrous-race-generator', origin, enable_gensetvar='origin')
 
     read_range('J5:K13', 'dwarven-subspecies-generator', origin)
     read_range('J17:K27', 'elven-subspecies-generator', origin)
@@ -148,7 +148,7 @@ if __name__ == '__main__':
     read_range('AT5:AU20', 'domain-trickery-generator', gods)
     read_range('AW5:AX20', 'domain-war-generator', gods)
 
-    read_range('B30:C51', 'domain-name-router', gods)
+    read_range('B31:C53', 'domain-name-router', gods)
 
     read_range('B5:C30', 'height-generator', build)
     read_range('E5:F30', 'build-generator', build)

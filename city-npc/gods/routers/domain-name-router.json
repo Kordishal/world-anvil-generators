@@ -1,6 +1,5 @@
 {
     "values": {
-        "Key": "Value",
         "arcana": "No piety",
         "civilization": "[generator:deity-28civilization29-soullink|{}|deity]",
         "death": "[generator:deity-28death29-soullink|{}|deity]",
@@ -21,6 +20,8 @@
         "technology": "[generator:deity-28technology29-soullink|{}|deity]",
         "tempest": "[generator:deity-28tempest29-soullink|{}|deity]",
         "travel": "No piety",
-        "trickery": "[generator:deity-28trickery29-soullink|{}|deity]"
+        "trickery": "[generator:deity-28trickery29-soullink|{}|deity]",
+        "twilight": "No piety",
+        "war": "[generator:deity-28war29-soullink|{}|deity]"
     }
 }

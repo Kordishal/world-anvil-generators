@@ -1,95 +1,95 @@
 {
     "values": {
         "aarakocra": {
-            "value": "Aarakocra",
+            "value": "Aarakocra[gensetvar:{\"origin\": \"Aarakocra\"}]",
             "weight": 5
         },
         "bugbear": {
-            "value": "Bugbear",
+            "value": "Bugbear[gensetvar:{\"origin\": \"Bugbear\"}]",
             "weight": 10
         },
         "bullywug": {
-            "value": "Bullywug",
+            "value": "Bullywug[gensetvar:{\"origin\": \"Bullywug\"}]",
             "weight": 5
         },
         "gith": {
-            "value": "Gith",
+            "value": "Gith[gensetvar:{\"origin\": \"Gith\"}]",
             "weight": 20
         },
         "gnoll": {
-            "value": "Gnoll",
+            "value": "Gnoll[gensetvar:{\"origin\": \"Gnoll\"}]",
             "weight": 5
         },
         "goblin": {
-            "value": "Goblin",
+            "value": "Goblin[gensetvar:{\"origin\": \"Goblin\"}]",
             "weight": 10
         },
         "grimlock": {
-            "value": "Grimlock",
+            "value": "Grimlock[gensetvar:{\"origin\": \"Grimlock\"}]",
             "weight": 5
         },
         "half-dragon": {
-            "value": "Half-Dragon",
+            "value": "Half-Dragon[gensetvar:{\"origin\": \"Half-Dragon\"}]",
             "weight": 10
         },
         "hobgoblin": {
-            "value": "Hobgoblin",
+            "value": "Hobgoblin[gensetvar:{\"origin\": \"Hobgoblin\"}]",
             "weight": 10
         },
-        "jackalwere": {
-            "value": "Jackalwere",
+        "jackalwere[gensetvar:{\"has-cover\":-\"cover\"}]": {
+            "value": "Jackalwere[gensetvar:{\"has-cover\": \"cover\"}][gensetvar:{\"origin\": \"Jackalwere[gensetvar:{\"has-cover\": \"cover\"}]\"}]",
             "weight": 10
         },
         "kenku": {
-            "value": "Kenku",
+            "value": "Kenku[gensetvar:{\"origin\": \"Kenku\"}]",
             "weight": 5
         },
         "kobold": {
-            "value": "Kobold",
+            "value": "Kobold[gensetvar:{\"origin\": \"Kobold\"}]",
             "weight": 10
         },
         "kuo-toa": {
-            "value": "Kuo-Toa",
+            "value": "Kuo-Toa[gensetvar:{\"origin\": \"Kuo-Toa\"}]",
             "weight": 5
         },
-        "lycanthrope": {
-            "value": "Lycanthrope",
+        "lycanthrope[gensetvar:{\"has-cover\":-\"cover\"}]": {
+            "value": "Lycanthrope[gensetvar:{\"has-cover\": \"cover\"}][gensetvar:{\"origin\": \"Lycanthrope[gensetvar:{\"has-cover\": \"cover\"}]\"}]",
             "weight": 10
         },
         "merfolk": {
-            "value": "Merfolk",
+            "value": "Merfolk[gensetvar:{\"origin\": \"Merfolk\"}]",
             "weight": 5
         },
         "minotaur": {
-            "value": "Minotaur",
+            "value": "Minotaur[gensetvar:{\"origin\": \"Minotaur\"}]",
             "weight": 5
         },
         "orc": {
-            "value": "Orc",
+            "value": "Orc[gensetvar:{\"origin\": \"Orc\"}]",
             "weight": 20
         },
         "ratmen": {
-            "value": "Ratmen",
+            "value": "Ratmen[gensetvar:{\"origin\": \"Ratmen\"}]",
             "weight": 10
         },
         "quaggoth": {
-            "value": "Quaggoth",
+            "value": "Quaggoth[gensetvar:{\"origin\": \"Quaggoth\"}]",
             "weight": 5
         },
         "sahuagin": {
-            "value": "Sahuagin",
+            "value": "Sahuagin[gensetvar:{\"origin\": \"Sahuagin\"}]",
             "weight": 5
         },
         "thri-kreen": {
-            "value": "Thri-Kreen",
+            "value": "Thri-Kreen[gensetvar:{\"origin\": \"Thri-Kreen\"}]",
             "weight": 5
         },
         "troglodyte": {
-            "value": "Troglodyte",
+            "value": "Troglodyte[gensetvar:{\"origin\": \"Troglodyte\"}]",
             "weight": 5
         },
-        "yuan-ti": {
-            "value": "Yuan-Ti",
+        "yuan-ti[gensetvar:{\"has-cover\":-\"cover\"}]": {
+            "value": "Yuan-Ti[gensetvar:{\"has-cover\": \"cover\"}][gensetvar:{\"origin\": \"Yuan-Ti[gensetvar:{\"has-cover\": \"cover\"}]\"}]",
             "weight": 20
         }
     }

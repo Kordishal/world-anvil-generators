@@ -1,75 +1,75 @@
 {
     "values": {
         "medium": {
-            "value": "Medium",
+            "value": "medium",
             "weight": 83
         },
         "plump": {
-            "value": "Plump",
+            "value": "plump",
             "weight": 1
         },
         "stocky": {
-            "value": "Stocky",
+            "value": "stocky",
             "weight": 1
         },
         "overweight": {
-            "value": "Overweight",
+            "value": "overweight",
             "weight": 1
         },
         "fat": {
-            "value": "Fat",
+            "value": "fat",
             "weight": 1
         },
         "pudgy": {
-            "value": "Pudgy",
+            "value": "pudgy",
             "weight": 1
         },
         "athletic": {
-            "value": "Athletic",
+            "value": "athletic",
             "weight": 1
         },
         "slender": {
-            "value": "Slender",
+            "value": "slender",
             "weight": 1
         },
         "lanky": {
-            "value": "Lanky",
+            "value": "lanky",
             "weight": 1
         },
         "fit": {
-            "value": "Fit",
+            "value": "fit",
             "weight": 1
         },
         "slim": {
-            "value": "Slim",
+            "value": "slim",
             "weight": 1
         },
         "trim": {
-            "value": "Trim",
+            "value": "trim",
             "weight": 1
         },
         "skinny": {
-            "value": "Skinny",
+            "value": "skinny",
             "weight": 1
         },
         "buff": {
-            "value": "Buff",
+            "value": "buff",
             "weight": 1
         },
         "muscular": {
-            "value": "Muscular",
+            "value": "muscular",
             "weight": 1
         },
         "ripped": {
-            "value": "Ripped",
+            "value": "ripped",
             "weight": 1
         },
         "well-built": {
-            "value": "Well built",
+            "value": "well built",
             "weight": 1
         },
         "sturdy": {
-            "value": "Sturdy",
+            "value": "sturdy",
             "weight": 1
         }
     }

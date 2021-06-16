@@ -1,9 +1,5 @@
 {
     "values": {
-        "active": {
-            "value": "Active",
-            "weight": 90
-        },
         "retired": {
             "value": "Retired",
             "weight": 10

@@ -1,0 +1,20 @@
+{
+    "values": {
+        "air": {
+            "value": "Air",
+            "weight": 25
+        },
+        "earth": {
+            "value": "Earth",
+            "weight": 25
+        },
+        "fire": {
+            "value": "Fire",
+            "weight": 25
+        },
+        "water": {
+            "value": "Water",
+            "weight": 25
+        }
+    }
+}

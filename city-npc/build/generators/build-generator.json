@@ -1,0 +1,76 @@
+{
+    "values": {
+        "medium": {
+            "value": "Medium",
+            "weight": 83
+        },
+        "plump": {
+            "value": "Plump",
+            "weight": 1
+        },
+        "stocky": {
+            "value": "Stocky",
+            "weight": 1
+        },
+        "overweight": {
+            "value": "Overweight",
+            "weight": 1
+        },
+        "fat": {
+            "value": "Fat",
+            "weight": 1
+        },
+        "pudgy": {
+            "value": "Pudgy",
+            "weight": 1
+        },
+        "athletic": {
+            "value": "Athletic",
+            "weight": 1
+        },
+        "slender": {
+            "value": "Slender",
+            "weight": 1
+        },
+        "lanky": {
+            "value": "Lanky",
+            "weight": 1
+        },
+        "fit": {
+            "value": "Fit",
+            "weight": 1
+        },
+        "slim": {
+            "value": "Slim",
+            "weight": 1
+        },
+        "trim": {
+            "value": "Trim",
+            "weight": 1
+        },
+        "skinny": {
+            "value": "Skinny",
+            "weight": 1
+        },
+        "buff": {
+            "value": "Buff",
+            "weight": 1
+        },
+        "muscular": {
+            "value": "Muscular",
+            "weight": 1
+        },
+        "ripped": {
+            "value": "Ripped",
+            "weight": 1
+        },
+        "well-built": {
+            "value": "Well built",
+            "weight": 1
+        },
+        "sturdy": {
+            "value": "Sturdy",
+            "weight": 1
+        }
+    }
+}

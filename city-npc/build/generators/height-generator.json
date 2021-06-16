@@ -1,0 +1,28 @@
+{
+    "values": {
+        "average": {
+            "value": "Average",
+            "weight": 70
+        },
+        "short": {
+            "value": "Short",
+            "weight": 10
+        },
+        "tall": {
+            "value": "Tall",
+            "weight": 10
+        },
+        "petite": {
+            "value": "Petite",
+            "weight": 5
+        },
+        "gigantic": {
+            "value": "Gigantic",
+            "weight": 3
+        },
+        "towering": {
+            "value": "Towering",
+            "weight": 2
+        }
+    }
+}

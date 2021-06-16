@@ -1,0 +1,40 @@
+{
+    "values": {
+        "hill": {
+            "value": "Hill",
+            "weight": 1
+        },
+        "mountain": {
+            "value": "Mountain",
+            "weight": 1
+        },
+        "duergar": {
+            "value": "Duergar",
+            "weight": 1
+        },
+        "grailwarden-mountain": {
+            "value": "Grailwarden (Mountain)",
+            "weight": 790
+        },
+        "stonelost-hill": {
+            "value": "Stonelost (Hill)",
+            "weight": 200
+        },
+        "earthsinger-hill": {
+            "value": "Earthsinger (Hill)",
+            "weight": 1
+        },
+        "shield-mountain": {
+            "value": "Shield (Mountain)",
+            "weight": 1
+        },
+        "gold-hill": {
+            "value": "Gold (Hill)",
+            "weight": 1
+        },
+        "gray-duergar": {
+            "value": "Gray (Duergar)",
+            "weight": 1
+        }
+    }
+}

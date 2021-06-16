@@ -1,19 +1,19 @@
 {
     "values": {
         "dwarf": {
-            "value": "[generator:dwarf-origin-soullink|{}|origin]",
+            "value": "[generator:dwarf-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Dwarf\"}]",
             "weight": 10
         },
         "elf": {
-            "value": "[generator:elf-origin-soullink|{}|origin]",
+            "value": "[generator:elven-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Elf\"}]",
             "weight": 10
         },
         "halfling": {
-            "value": "[generator:halfling-origin-soullink|{}|origin]",
+            "value": "[generator:halfling-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Halfling\"}]",
             "weight": 5
         },
         "human": {
-            "value": "[generator:human-origin-soullink|{}|origin]",
+            "value": "[generator:human-culture-soullink|{}|culture][gensetvar:{\"origin\": \"Human\"}]",
             "weight": 75
         }
     }

@@ -1,0 +1,60 @@
+{
+    "values": {
+        "blended": {
+            "value": "Blended",
+            "weight": 20
+        },
+        "black": {
+            "value": "Black",
+            "weight": 7
+        },
+        "blue": {
+            "value": "Blue",
+            "weight": 7
+        },
+        "green": {
+            "value": "Green",
+            "weight": 7
+        },
+        "red": {
+            "value": "Red",
+            "weight": 7
+        },
+        "white": {
+            "value": "White",
+            "weight": 7
+        },
+        "brass": {
+            "value": "Brass",
+            "weight": 7
+        },
+        "bronze": {
+            "value": "Bronze",
+            "weight": 7
+        },
+        "copper": {
+            "value": "Copper",
+            "weight": 7
+        },
+        "gold": {
+            "value": "Gold",
+            "weight": 7
+        },
+        "platinum": {
+            "value": "Platinum",
+            "weight": 7
+        },
+        "amethyst": {
+            "value": "Amethyst",
+            "weight": 2
+        },
+        "crystal": {
+            "value": "Crystal",
+            "weight": 2
+        },
+        "emerald": {
+            "value": "Emerald",
+            "weight": 2
+        }
+    }
+}

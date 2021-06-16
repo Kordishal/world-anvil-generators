@@ -1,0 +1,48 @@
+{
+    "values": {
+        "high": {
+            "value": "High",
+            "weight": 0
+        },
+        "wood": {
+            "value": "Wood",
+            "weight": 0
+        },
+        "dark": {
+            "value": "Dark",
+            "weight": 2
+        },
+        "shoal-high": {
+            "value": "Shoal High",
+            "weight": 45
+        },
+        "shoal-wood": {
+            "value": "Shoal Wood",
+            "weight": 45
+        },
+        "cherubim": {
+            "value": "Cherubim",
+            "weight": 2
+        },
+        "harrow": {
+            "value": "Harrow",
+            "weight": 6
+        },
+        "moon-high": {
+            "value": "Moon (High)",
+            "weight": 0
+        },
+        "sun-high": {
+            "value": "Sun (High)",
+            "weight": 0
+        },
+        "copper-wood": {
+            "value": "Copper (Wood)",
+            "weight": 0
+        },
+        "dark-elf-drow-elf": {
+            "value": "Dark Elf (Drow Elf)",
+            "weight": 0
+        }
+    }
+}

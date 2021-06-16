@@ -14,7 +14,7 @@ def create_payload_dict(variable: str):
     return router, router[variable]
 
 
-def read_table_generators(items, payload, is_origin):
+def read_table_generators(items, payload, is_origin, **kwargs):
     for item in items:
         local_key = item[0].value
         if local_key is None:
@@ -23,8 +23,10 @@ def read_table_generators(items, payload, is_origin):
         if local_key == '':
             continue
         if len(item) == 2:
-            local_key = local_key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace("'", '')
             value = item[0].value
+            if 'enable_gensetvar' in kwargs:
+                value += '[gensetvar:{"origin": "' + local_key + '"}]'
+            local_key = local_key.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace("'", '')
             payload[local_key] = {
                 'value': value,
                 'weight': int(item[1].value)
@@ -34,6 +36,9 @@ def read_table_generators(items, payload, is_origin):
         elif len(item) == 3:
             local_key = item[0].value
             value = item[1].value
+            if 'enable_gensetvar' in kwargs:
+                value += '[gensetvar:{"origin": "' + local_key + '"}]'
+            local_key = local_key.lower()
             payload[local_key] = {
                 'value': value,
                 'weight': int(item[2].value)
@@ -47,12 +52,12 @@ def read_table_routers(items, payload):
         payload[item[0].value] = item[1].value
 
 
-def read_range(sheet_range: str, filename: str, sheet):
+def read_range(sheet_range: str, filename: str, sheet, **kwargs):
     resource = filename.split('-')[-1] + 's'
     mortal = sheet[sheet_range]
     mortal_generator, mortal_payload = create_payload_dict('values')
     if resource == 'generators':
-        read_table_generators(mortal, mortal_payload, sheet.title == 'ORIGIN')
+        read_table_generators(mortal, mortal_payload, sheet.title == 'ORIGIN', **kwargs)
     elif resource == 'routers':
         read_table_routers(mortal, mortal_payload)
     write_file(mortal_generator, filename, sheet.title.lower(), resource)
@@ -71,6 +76,7 @@ if __name__ == '__main__':
     trait = wb['TRAITS']
     role = wb['ROLE']
     gods = wb['GODS']
+    build = wb['BUILD']
 
     read_range('A5:B7', 'mortal-generator', start)
     read_range('D5:E16', 'more-than-mortal-generator', start)
@@ -81,19 +87,22 @@ if __name__ == '__main__':
 
     read_range('B5:D7', 'city-demographics-generator', origin)
     read_range('B11:D13', 'down-shadow-demographics-generator', origin)
-    read_range('F5:H8', 'major-race-generator', origin)
-    read_range('F14:H27', 'minor-race-generator', origin)
+    read_range('F5:H8', 'major-race-generator', origin, enable_gensetvar='origin')
+    read_range('F14:H27', 'minor-race-generator', origin, enable_gensetvar='origin')
     read_range('G36:H58', 'monstrous-race-generator', origin)
-    read_range('J5:K7', 'aasimar-subrace-generator', origin)
-    read_range('J11:K26', 'dragonborn-subrace-generator', origin)
-    read_range('J30:K33', 'genasi-subrace-generator', origin)
-    read_range('J37:K45', 'dwarven-subrace-generator', origin)
-    read_range('J49:K59', 'elven-subrace-generator', origin)
-    read_range('J63:K65', 'gnome-subrace-generator', origin)
-    read_range('J69:K72', 'halfling-subrace-generator', origin)
-    read_range('J76:K81', 'half-elf-subrace-generator', origin)
-    read_range('J85:K89', 'tiefling-subrace-generator', origin)
-    read_range('M5:N11', 'human-culture-generator', origin)
+
+    read_range('J5:K13', 'dwarven-subspecies-generator', origin)
+    read_range('J17:K27', 'elven-subspecies-generator', origin)
+    read_range('J30:K33', 'halfling-subspecies-generator', origin)
+
+    read_range('J38:K40', 'aasimar-subspecies-generator', origin)
+    read_range('J44:K57', 'dragonborn-subspecies-generator', origin)
+    read_range('J63:K66', 'genasi-subspecies-generator', origin)
+    read_range('J71:K73', 'gnome-subspecies-generator', origin)
+    read_range('J77:K82', 'half-elf-subspecies-generator', origin)
+    read_range('J86:K90', 'tiefling-subspecies-generator', origin)
+
+    read_range('M5:N50', 'human-culture-generator', origin)
 
     print(origin_keys)
     with open('origin/origin-keys.csv', 'w') as ok:
@@ -140,3 +149,6 @@ if __name__ == '__main__':
     read_range('AW5:AX20', 'domain-war-generator', gods)
 
     read_range('B30:C51', 'domain-name-router', gods)
+
+    read_range('B5:C30', 'height-generator', build)
+    read_range('E5:F30', 'build-generator', build)

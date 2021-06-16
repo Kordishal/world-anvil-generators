@@ -1,0 +1,28 @@
+{
+    "values": {
+        "human": {
+            "value": "Human",
+            "weight": 30
+        },
+        "wood": {
+            "value": "Wood",
+            "weight": 20
+        },
+        "moon": {
+            "value": "Moon",
+            "weight": 20
+        },
+        "sun": {
+            "value": "Sun",
+            "weight": 20
+        },
+        "drow": {
+            "value": "Drow",
+            "weight": 5
+        },
+        "aquatic": {
+            "value": "Aquatic",
+            "weight": 5
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "values": {
+        "protector": {
+            "value": "Protector",
+            "weight": 40
+        },
+        "scourge": {
+            "value": "Scourge",
+            "weight": 40
+        },
+        "fallen": {
+            "value": "Fallen",
+            "weight": 20
+        }
+    }
+}

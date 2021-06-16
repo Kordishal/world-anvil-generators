@@ -1,59 +1,59 @@
 {
     "values": {
         "assimar": {
-            "value": "[generator:aasimar-origin-soullink|{}|origin]",
+            "value": "[generator:aasimar-subspecies-soullink|{}|subspecies][gensetvar:{“origin”:”Assimar”}][gensetvar:{\"origin\": \"Assimar\"}]",
             "weight": 10
         },
-        "centaur": {
-            "value": "Centaur (Aram)",
+        "centaur (aram)": {
+            "value": "Centaur (Aram)[gensetvar:{\"origin\": \"Centaur (Aram)\"}]",
             "weight": 5
         },
         "changeling": {
-            "value": "Changeling",
+            "value": "Changeling[gensetvar:{\"origin\": \"Changeling\"}]",
             "weight": 5
         },
         "dragonborn": {
-            "value": "[generator:dragonborn-origin-soullink|{}|origin]",
+            "value": "[generator:dragonborn-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Dragonborn\"}]",
             "weight": 10
         },
         "firbolg": {
-            "value": "Firbolg",
+            "value": "Firbolg[gensetvar:{\"origin\": \"Firbolg\"}]",
             "weight": 5
         },
         "genasi": {
-            "value": "[generator:genasi-origin-soullink|{}|origin]",
+            "value": "[generator:genasi-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Genasi\"}]",
             "weight": 10
         },
         "gnome": {
-            "value": "[generator:gnome-origin-soullink|{}|origin]",
+            "value": "[generator:gnome-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Gnome\"}]",
             "weight": 10
         },
         "goliath": {
-            "value": "Goliath",
+            "value": "Goliath[gensetvar:{\"origin\": \"Goliath\"}]",
             "weight": 5
         },
         "half-orc": {
-            "value": "Half-Orc",
+            "value": "Half-Orc[gensetvar:{\"origin\": \"Half-orc\"}]",
             "weight": 5
         },
-        "litorian": {
-            "value": "Litorians",
+        "litorians": {
+            "value": "Litorians[gensetvar:{\"origin\": \"Litorians\"}]",
             "weight": 10
         },
-        "lizardfolk": {
-            "value": "Lizardfolk (Assarai)",
+        "lizardfolk (assarai)": {
+            "value": "Lizardfolk (Assarai)[gensetvar:{\"origin\": \"Lizardfolk (Assarai)\"}]",
             "weight": 10
         },
         "shifter": {
-            "value": "Shifter",
+            "value": "Shifter[gensetvar:{\"origin\": \"Shifter\"}]",
             "weight": 5
         },
         "tiefling": {
-            "value": "[generator:tiefling-origin-soullink|{}|origin]",
+            "value": "[generator:tiefling-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Tiefling\"}]",
             "weight": 10
         },
         "warforged": {
-            "value": "Warforged",
+            "value": "Warforged[gensetvar:{\"origin\": \"Warforged\"}]",
             "weight": 5
         }
     }

@@ -1,0 +1,24 @@
+{
+    "values": {
+        "blooded": {
+            "value": "Blooded",
+            "weight": 60
+        },
+        "feral": {
+            "value": "Feral",
+            "weight": 10
+        },
+        "devils": {
+            "value": "Devil's",
+            "weight": 10
+        },
+        "hellfire": {
+            "value": "Hellfire",
+            "weight": 10
+        },
+        "winged": {
+            "value": "Winged",
+            "weight": 10
+        }
+    }
+}

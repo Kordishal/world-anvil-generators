@@ -1,15 +1,15 @@
 {
     "values": {
         "major": {
-            "value": "[generator:major-origin-soullink|{}|origin]",
+            "value": "[generator:major-origin-soullink|{}|selected-origin]",
             "weight": 90
         },
         "minor": {
-            "value": "[generator:minor-origin-soullink|{}|origin]",
+            "value": "[generator:minor-origin-soullink|{}|selected-origin]",
             "weight": 5
         },
         "monstrious": {
-            "value": "[generator:monstrous-origin-soullink|{}|origin]",
+            "value": "[generator:monstrous-origin-soullink|{}|selected-origin]",
             "weight": 5
         }
     }

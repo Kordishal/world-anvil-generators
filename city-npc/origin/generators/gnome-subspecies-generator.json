@@ -1,0 +1,16 @@
+{
+    "values": {
+        "forest": {
+            "value": "Forest",
+            "weight": 49
+        },
+        "rock": {
+            "value": "Rock",
+            "weight": 49
+        },
+        "deep": {
+            "value": "Deep",
+            "weight": 2
+        }
+    }
+}

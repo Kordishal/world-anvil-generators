@@ -1,7 +1,7 @@
 {
     "values": {
         "assimar": {
-            "value": "[generator:aasimar-subspecies-soullink|{}|subspecies][gensetvar:{“origin”:”Assimar”}][gensetvar:{\"origin\": \"Assimar\"}]",
+            "value": "[generator:aasimar-subspecies-soullink|{}|subspecies][gensetvar:{\"origin\": \"Assimar\"}]",
             "weight": 10
         },
         "centaur (aram)": {

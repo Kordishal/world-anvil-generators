@@ -1,4 +1,4 @@
-Dwarf,[generator:dwarf-subspecies-soullink|{}|subspecies],10
-Elf,[generator:elven-subspecies-soullink|{}|subspecies],10
-Halfling,[generator:halfling-subspecies-soullink|{}|subspecies],5
-Human,[generator:human-culture-soullink|{}|culture],75
+dwarf,"[generator:dwarf-subspecies-soullink|{}|subspecies][gensetvar:{""origin"": ""Dwarf""}]",10
+elf,"[generator:elven-subspecies-soullink|{}|subspecies][gensetvar:{""origin"": ""Elf""}]",10
+halfling,"[generator:halfling-subspecies-soullink|{}|subspecies][gensetvar:{""origin"": ""Halfling""}]",5
+human,"[generator:human-culture-soullink|{}|culture][gensetvar:{""origin"": ""Human""}]",75

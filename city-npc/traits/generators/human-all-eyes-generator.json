@@ -1,0 +1,64 @@
+{
+    "values": {
+        "ice-blue": {
+            "value": "Ice Blue",
+            "weight": 10
+        },
+        "blue": {
+            "value": "Blue",
+            "weight": 10
+        },
+        "light-brown": {
+            "value": "Light brown",
+            "weight": 10
+        },
+        "olive": {
+            "value": "Olive",
+            "weight": 10
+        },
+        "black": {
+            "value": "Black",
+            "weight": 10
+        },
+        "dark-brown": {
+            "value": "Dark brown",
+            "weight": 10
+        },
+        "amber": {
+            "value": "Amber",
+            "weight": 10
+        },
+        "brown": {
+            "value": "Brown",
+            "weight": 10
+        },
+        "green": {
+            "value": "Green",
+            "weight": 10
+        },
+        "hazel": {
+            "value": "Hazel",
+            "weight": 10
+        },
+        "grey": {
+            "value": "Grey",
+            "weight": 10
+        },
+        "light-blue": {
+            "value": "Light blue",
+            "weight": 10
+        },
+        "dark-blue": {
+            "value": "Dark blue",
+            "weight": 10
+        },
+        "light-black": {
+            "value": "Light Black",
+            "weight": 10
+        },
+        "dark-black": {
+            "value": "Dark Black",
+            "weight": 10
+        }
+    }
+}

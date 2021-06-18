@@ -55,6 +55,14 @@
         "emerald": {
             "value": "Emerald",
             "weight": 2
+        },
+        "sapphire": {
+            "value": "Sapphire",
+            "weight": 2
+        },
+        "topaz": {
+            "value": "Topaz",
+            "weight": 2
         }
     }
 }

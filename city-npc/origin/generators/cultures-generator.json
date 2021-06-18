@@ -1,58 +1,58 @@
 {
     "values": {
-        "the-endless-sea-of-ice": {
+        "endless": {
             "value": "the Endless Sea of Ice",
             "weight": 10
         },
-        "the-whitewind-sea": {
+        "whitewind": {
             "value": "the Whitewind Sea",
             "weight": 20
         },
-        "nall-nomadic-north": {
+        "nall": {
             "value": "Nall (Nomadic North)",
             "weight": 40
         },
-        "the-black-angel-forest-nall": {
+        "black-angel": {
             "value": "the Black Angel Forest (Nall)",
             "weight": 20
         },
-        "the-great-northern-woods-nall": {
+        "northern-woods": {
             "value": "the Great Northern Woods (Nall)",
             "weight": 20
         },
-        "devost-nall": {
+        "devost": {
             "value": "Devost (Nall)",
             "weight": 20
         },
-        "cherubar-remote-west": {
+        "cherubar": {
             "value": "Cherubar (Remote West)",
             "weight": 10
         },
-        "the-cherubar-mountains": {
+        "cherubar-mountains": {
             "value": "the Cherubar Mountains",
             "weight": 10
         },
-        "palastan-rolling-hills-&-fields": {
+        "palastan": {
             "value": "Palastan (Rolling Hills & Fields)",
             "weight": 80
         },
-        "the-moonsilver-forest-palastan": {
+        "moonsilver-forest": {
             "value": "the Moonsilver Forest (Palastan)",
             "weight": 20
         },
-        "trolone-palastan-capital": {
+        "trolone": {
             "value": "Trolone (Palastan Capital)",
             "weight": 80
         },
-        "carpers-bay-palastan": {
+        "carpers-bay": {
             "value": "Carper's Bay (Palastan)",
             "weight": 40
         },
-        "the-plains-of-rhoth": {
+        "plains-of-rhoth": {
             "value": "the Plains of Rhoth",
             "weight": 80
         },
-        "the-cold-desert": {
+        "cold-desert": {
             "value": "the Cold Desert",
             "weight": 10
         },
@@ -60,43 +60,43 @@
             "value": "Ren Tehoth",
             "weight": 10
         },
-        "ptolus-city": {
+        "ptolus": {
             "value": "Ptolus City",
             "weight": 1000
         },
-        "tarsis-city": {
+        "trasis": {
             "value": "Tarsis City",
             "weight": 10
         },
-        "the-sea-kingdoms": {
+        "sea-kingdom": {
             "value": "the Sea Kingdoms",
             "weight": 80
         },
-        "dohrinthas-the-golden-city": {
+        "golden-city": {
             "value": "Dohrinthas, the Golden City",
             "weight": 40
         },
-        "dimmerk-city": {
+        "dimmerk": {
             "value": "Dimmerk City",
             "weight": 40
         },
-        "the-plains-of-panish": {
+        "plain-of-panish": {
             "value": "the Plains of Panish",
             "weight": 80
         },
-        "istoma-city-plains-of-panish": {
+        "istoma-city": {
             "value": "Istoma City (Plains of Panish)",
             "weight": 40
         },
-        "the-prustan-peninsula": {
+        "prustan-peninusla": {
             "value": "the Prustan Peninsula",
             "weight": 80
         },
-        "dwarven-grail-keep-prustan-peninsula": {
+        "dwarven-grail": {
             "value": "Dwarven Grail Keep (Prustan Peninsula)",
             "weight": 20
         },
-        "vidor-prustan-peninsula": {
+        "vidor": {
             "value": "Vidor (Prustan Peninsula)",
             "weight": 40
         },
@@ -104,35 +104,35 @@
             "value": "Kem",
             "weight": 40
         },
-        "erish-aga-city-kem": {
+        "erish-age-city": {
             "value": "Erish-aga City (Kem)",
             "weight": 20
         },
-        "the-eastern-hordes": {
+        "eastern-hordes": {
             "value": "the Eastern Hordes",
             "weight": 20
         },
-        "the-southern-sea": {
+        "southern-sea": {
             "value": "the Southern Sea",
             "weight": 20
         },
-        "uraq-dessert-kingdom": {
+        "uraq": {
             "value": "Uraq (Dessert Kingdom)",
             "weight": 20
         },
-        "the-distant-south": {
+        "distant-south": {
             "value": "the Distant South",
             "weight": 10
         },
-        "the-panogolan-savanna-kingdom-distant-south": {
+        "panogolan": {
             "value": "the Panogolan Savanna Kingdom (Distant South)",
             "weight": 10
         },
-        "the-buneir-jungle-kingdom-distant-south": {
+        "buneir": {
             "value": "the Buneir Jungle Kingdom (Distant South)",
             "weight": 10
         },
-        "the-kellisan-empire-distant-south": {
+        "kellisan": {
             "value": "the Kellisan Empire (Distant South)",
             "weight": 10
         }

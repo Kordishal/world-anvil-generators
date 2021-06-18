@@ -1,0 +1,132 @@
+{
+    "values": {
+        "silver": {
+            "value": "Silver",
+            "weight": 10
+        },
+        "black": {
+            "value": "Black",
+            "weight": 10
+        },
+        "blond": {
+            "value": "Blond",
+            "weight": 10
+        },
+        "light-brown": {
+            "value": "Light Brown",
+            "weight": 10
+        },
+        "honey-blond": {
+            "value": "Honey-Blond",
+            "weight": 10
+        },
+        "red": {
+            "value": "Red",
+            "weight": 10
+        },
+        "raven-black-curly-hair": {
+            "value": "Raven black curly hair",
+            "weight": 10
+        },
+        "raven-black-straight-hair": {
+            "value": "Raven black straight hair",
+            "weight": 10
+        },
+        "raven-black-short-hair": {
+            "value": "Raven black short hair",
+            "weight": 10
+        },
+        "bald": {
+            "value": "Bald",
+            "weight": 10
+        },
+        "raven-black-curly-hair-and-beard": {
+            "value": "Raven black curly hair and beard",
+            "weight": 10
+        },
+        "raven-black-straight-hair-and-beard": {
+            "value": "Raven black straight hair and beard",
+            "weight": 10
+        },
+        "raven-black-short-hair-and-beard": {
+            "value": "Raven black short hair and beard",
+            "weight": 10
+        },
+        "bald-and-raven-black-beard": {
+            "value": "Bald and raven black beard",
+            "weight": 10
+        },
+        "brown": {
+            "value": "Brown",
+            "weight": 10
+        },
+        "dark-gold": {
+            "value": "Dark Gold",
+            "weight": 10
+        },
+        "black-in-a-ponytail": {
+            "value": "Black in a ponytail",
+            "weight": 10
+        },
+        "brown-in-a-pony-tail": {
+            "value": "Brown in a pony tail",
+            "weight": 10
+        },
+        "dark-gold-in-a-pony-tail": {
+            "value": "Dark Gold in a pony tail",
+            "weight": 10
+        },
+        "black-in-a-ponytail-and-beard": {
+            "value": "Black in a ponytail and beard",
+            "weight": 10
+        },
+        "brown-in-a-pony-tail-and-beard": {
+            "value": "Brown in a pony tail and beard",
+            "weight": 10
+        },
+        "dark-gold-in-a-pony-tail-and-beard": {
+            "value": "Dark Gold in a pony tail and beard",
+            "weight": 10
+        },
+        "shaved-top-with-black-sides": {
+            "value": "Shaved top with black sides",
+            "weight": 10
+        },
+        "shaved-top-with-black-sides-and-ponytail": {
+            "value": "Shaved top with black sides and ponytail",
+            "weight": 10
+        },
+        "shaved-top-with-black-sides-and-braids": {
+            "value": "Shaved top with black sides and braids",
+            "weight": 10
+        },
+        "long-black": {
+            "value": "Long black",
+            "weight": 10
+        },
+        "long-black-wth-neat-close-beard": {
+            "value": "Long black wth neat close beard",
+            "weight": 10
+        },
+        "long-brown-with-neat-close-beard": {
+            "value": "Long brown with neat close beard",
+            "weight": 10
+        },
+        "short-black": {
+            "value": "Short black",
+            "weight": 10
+        },
+        "short-brown": {
+            "value": "Short brown",
+            "weight": 10
+        },
+        "short-black-wth-neat-close-beard": {
+            "value": "Short black wth neat close beard",
+            "weight": 10
+        },
+        "short-brown-with-neat-close-beard": {
+            "value": "Short brown with neat close beard",
+            "weight": 10
+        }
+    }
+}

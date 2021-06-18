@@ -1,0 +1,72 @@
+{
+    "values": {
+        "snow-white": {
+            "value": "Snow White",
+            "weight": 10
+        },
+        "dark-tan": {
+            "value": "Dark Tan",
+            "weight": 10
+        },
+        "tan": {
+            "value": "Tan",
+            "weight": 10
+        },
+        "softy-tan": {
+            "value": "Softy Tan",
+            "weight": 10
+        },
+        "light-tan": {
+            "value": "Light Tan",
+            "weight": 10
+        },
+        "pale-tan": {
+            "value": "Pale-Tan",
+            "weight": 10
+        },
+        "umber-dark-brown": {
+            "value": "Umber dark brown",
+            "weight": 10
+        },
+        "caramel-brown": {
+            "value": "Caramel brown",
+            "weight": 10
+        },
+        "tawny-light-brown": {
+            "value": "Tawny light brown",
+            "weight": 10
+        },
+        "golden": {
+            "value": "Golden",
+            "weight": 10
+        },
+        "dark-brown": {
+            "value": "Dark Brown",
+            "weight": 10
+        },
+        "light-brown": {
+            "value": "Light Brown",
+            "weight": 10
+        },
+        "coppery": {
+            "value": "Coppery",
+            "weight": 10
+        },
+        "yellowish-bronze": {
+            "value": "Yellowish-bronze",
+            "weight": 10
+        },
+        "dusky-brown": {
+            "value": "Dusky brown",
+            "weight": 10
+        },
+        "brown": {
+            "value": "Brown",
+            "weight": 10
+        },
+        "black": {
+            "value": "Black",
+            "weight": 10
+        }
+    }
+}

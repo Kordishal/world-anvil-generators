@@ -1,15 +1,15 @@
-Assimar,[generator:aasimar-subspecies-soullink|{}|subspecies],10
-Centaur (Aram),Centaur (Aram),5
-Changeling,Changeling[gensetvar:{"has-cover": "cover"}],5
-Dragonborn,[generator:dragonborn-subspecies-soullink|{}|subspecies],10
-Firbolg,Firbolg,5
-Genasi,[generator:genasi-subspecies-soullink|{}|subspecies],10
-Gnome,[generator:gnome-subspecies-soullink|{}|subspecies],10
-Goliath,Goliath,5
-Half-orc,Half-Orc,5
-Litorians,Litorians,10
-Lizardfolk (Assarai),Lizardfolk (Assarai),10
-Shifter,Shifter,5
-Tiefling,[generator:tiefling-subspecies-soullink|{}|subspecies],10
-Warforged,Warforged,5
-Half-elf,[generator:half-elf-subspecies-soullink|{}|subspecies],10
+assimar,"[gensetvar:{""origin"": ""Aasimar""}][generator:aasimar-subspecies-soullink|{}|subspecies]",10
+centaur-aram,Centaur (Aram),5
+changeling,"[gensetvar:{""origin"": ""Changeling""}][gensetvar:{""has-cover"": ""cover""}]",5
+dragonborn,"[gensetvar:{""origin"": ""Dragonborn""}][generator:dragonborn-subspecies-soullink|{}|subspecies]",10
+firbolg,Firbolg,5
+genasi,"[gensetvar:{""origin"": ""Genasi""}][generator:genasi-subspecies-soullink|{}|subspecies]",10
+gnome,[generator:gnome-subspecies-soullink|{}|subspecies],10
+goliath,Goliath,5
+half-orc,Half-Orc,5
+litorians,Litorians,10
+lizardfolk-assarai,Lizardfolk (Assarai),10
+shifter,Shifter,5
+tiefling,"[gensetvar:{""origin"": ""Tiefling""}][generator:tiefling-subspecies-soullink|{}|subspecies]",10
+warforged,Warforged,5
+half-elf,"[gensetvar:{""origin"": ""Half-elf""}][generator:half-elf-subspecies-soullink|{}|subspecies]",10

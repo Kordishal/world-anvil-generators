@@ -1,0 +1,148 @@
+{
+    "values": {
+        "imperial-common-nallish": {
+            "value": "Imperial Common, Nallish",
+            "weight": 100
+        },
+        "imperial-common-nallish-palastani": {
+            "value": "Imperial Common, Nallish, Palastani",
+            "weight": 10
+        },
+        "imperial-common-nallish-horde-tongue": {
+            "value": "Imperial Common, Nallish, Horde Tongue",
+            "weight": 10
+        },
+        "imperial-common-nallish-old-prustan": {
+            "value": "Imperial Common, Nallish, Old Prustan",
+            "weight": 10
+        },
+        "imperial-common-nallish-westron": {
+            "value": "Imperial Common, Nallish, Westron",
+            "weight": 10
+        },
+        "imperial-common-nallish-draconic": {
+            "value": "Imperial Common, Nallish, Draconic",
+            "weight": 10
+        },
+        "imperial-common-nallish-elven": {
+            "value": "Imperial Common, Nallish, Elven",
+            "weight": 10
+        },
+        "imperial-common-nallish-dwarven": {
+            "value": "Imperial Common, Nallish, Dwarven",
+            "weight": 10
+        },
+        "imperial-common-nallish-gnome": {
+            "value": "Imperial Common, Nallish, Gnome",
+            "weight": 10
+        },
+        "imperial-common-nallish-halfling": {
+            "value": "Imperial Common, Nallish, Halfling",
+            "weight": 10
+        },
+        "imperial-common-nallish-litorian": {
+            "value": "Imperial Common, Nallish, Litorian",
+            "weight": 10
+        },
+        "imperial-common-nallish-orc": {
+            "value": "Imperial Common, Nallish, Orc",
+            "weight": 10
+        },
+        "imperial-common-palastani": {
+            "value": "Imperial Common, Palastani",
+            "weight": 500
+        },
+        "imperial-common-palastani-nallish": {
+            "value": "Imperial Common, Palastani, Nallish",
+            "weight": 50
+        },
+        "imperial-common-palastani-horde-tongue": {
+            "value": "Imperial Common, Palastani, Horde Tongue",
+            "weight": 50
+        },
+        "imperial-common-palastani-old-prustan": {
+            "value": "Imperial Common, Palastani, Old Prustan",
+            "weight": 50
+        },
+        "imperial-common-palastani-westron": {
+            "value": "Imperial Common, Palastani, Westron",
+            "weight": 50
+        },
+        "imperial-common-palastani-draconic": {
+            "value": "Imperial Common, Palastani, Draconic",
+            "weight": 50
+        },
+        "imperial-common-palastani-elven": {
+            "value": "Imperial Common, Palastani, Elven",
+            "weight": 50
+        },
+        "imperial-common-palastani-dwarven": {
+            "value": "Imperial Common, Palastani, Dwarven",
+            "weight": 50
+        },
+        "imperial-common-palastani-gnome": {
+            "value": "Imperial Common, Palastani, Gnome",
+            "weight": 50
+        },
+        "imperial-common-palastani-halfling": {
+            "value": "Imperial Common, Palastani, Halfling",
+            "weight": 50
+        },
+        "imperial-common-palastani-litorian": {
+            "value": "Imperial Common, Palastani, Litorian",
+            "weight": 50
+        },
+        "imperial-common-palastani-orc": {
+            "value": "Imperial Common, Palastani, Orc",
+            "weight": 50
+        },
+        "imperial-common-uraqi": {
+            "value": "Imperial Common, Uraqi",
+            "weight": 100
+        },
+        "imperial-common-uraqi-palastani": {
+            "value": "Imperial Common, Uraqi, Palastani",
+            "weight": 10
+        },
+        "imperial-common-uraqi-nallish": {
+            "value": "Imperial Common, Uraqi, Nallish",
+            "weight": 10
+        },
+        "imperial-common-uraqi-old-prustan": {
+            "value": "Imperial Common, Uraqi, Old Prustan",
+            "weight": 10
+        },
+        "imperial-common-uraqi-westron": {
+            "value": "Imperial Common, Uraqi, Westron",
+            "weight": 10
+        },
+        "imperial-common-uraqi-draconic": {
+            "value": "Imperial Common, Uraqi, Draconic",
+            "weight": 10
+        },
+        "imperial-common-uraqi-elven": {
+            "value": "Imperial Common, Uraqi, Elven",
+            "weight": 10
+        },
+        "imperial-common-uraqi-dwarven": {
+            "value": "Imperial Common, Uraqi, Dwarven",
+            "weight": 10
+        },
+        "imperial-common-uraqi-gnome": {
+            "value": "Imperial Common, Uraqi, Gnome",
+            "weight": 10
+        },
+        "imperial-common-uraqi-halfling": {
+            "value": "Imperial Common, Uraqi, Halfling",
+            "weight": 10
+        },
+        "imperial-common-uraqi-litorian": {
+            "value": "Imperial Common, Uraqi, Litorian",
+            "weight": 10
+        },
+        "imperial-common-uraqi-orc": {
+            "value": "Imperial Common, Uraqi, Orc",
+            "weight": 10
+        }
+    }
+}

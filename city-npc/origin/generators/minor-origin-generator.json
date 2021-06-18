@@ -1,0 +1,64 @@
+{
+    "values": {
+        "assimar": {
+            "value": "[gensetvar:{\"origin\": \"Aasimar\"}][generator:aasimar-subspecies-soullink|{}|subspecies]",
+            "weight": 10
+        },
+        "centaur-aram": {
+            "value": "Centaur (Aram)",
+            "weight": 5
+        },
+        "changeling": {
+            "value": "[gensetvar:{\"origin\": \"Changeling\"}][gensetvar:{\"has-cover\": \"cover\"}]",
+            "weight": 5
+        },
+        "dragonborn": {
+            "value": "[gensetvar:{\"origin\": \"Dragonborn\"}][generator:dragonborn-subspecies-soullink|{}|subspecies]",
+            "weight": 10
+        },
+        "firbolg": {
+            "value": "Firbolg",
+            "weight": 5
+        },
+        "genasi": {
+            "value": "[gensetvar:{\"origin\": \"Genasi\"}][generator:genasi-subspecies-soullink|{}|subspecies]",
+            "weight": 10
+        },
+        "gnome": {
+            "value": "[generator:gnome-subspecies-soullink|{}|subspecies]",
+            "weight": 10
+        },
+        "goliath": {
+            "value": "Goliath",
+            "weight": 5
+        },
+        "half-orc": {
+            "value": "Half-Orc",
+            "weight": 5
+        },
+        "litorians": {
+            "value": "Litorians",
+            "weight": 10
+        },
+        "lizardfolk-assarai": {
+            "value": "Lizardfolk (Assarai)",
+            "weight": 10
+        },
+        "shifter": {
+            "value": "Shifter",
+            "weight": 5
+        },
+        "tiefling": {
+            "value": "[gensetvar:{\"origin\": \"Tiefling\"}][generator:tiefling-subspecies-soullink|{}|subspecies]",
+            "weight": 10
+        },
+        "warforged": {
+            "value": "Warforged",
+            "weight": 5
+        },
+        "half-elf": {
+            "value": "[gensetvar:{\"origin\": \"Half-elf\"}][generator:half-elf-subspecies-soullink|{}|subspecies]",
+            "weight": 10
+        }
+    }
+}

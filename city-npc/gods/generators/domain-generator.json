@@ -87,6 +87,10 @@
         "twilight": {
             "value": "Twilight",
             "weight": 1
+        },
+        "war": {
+            "value": "War",
+            "weight": 30
         }
     }
 }

@@ -1,20 +1,16 @@
 {
     "values": {
-        "air": {
-            "value": "Air",
-            "weight": 25
+        "forest": {
+            "value": "Forest",
+            "weight": 49
         },
-        "earth": {
-            "value": "Earth",
-            "weight": 25
+        "rock": {
+            "value": "Rock",
+            "weight": 49
         },
-        "fire": {
-            "value": "Fire",
-            "weight": 25
-        },
-        "water": {
-            "value": "Water",
-            "weight": 25
+        "deep": {
+            "value": "Deep",
+            "weight": 2
         }
     }
 }

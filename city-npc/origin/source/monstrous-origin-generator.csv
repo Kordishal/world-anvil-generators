@@ -1,23 +1,23 @@
-Aarakocra,Aarakocra,5
-Bugbear,Bugbear,10
-Bullywug,Bullywug,5
-Gith,Gith,20
-Gnoll,Gnoll,5
-Goblin,Goblin,10
-Grimlock,Grimlock,5
-Half-Dragon,Half-Dragon,10
-Hobgoblin,Hobgoblin,10
-Jackalwere,Jackalwere[gensetvar:{"has-cover": "cover"}],10
-Kenku,Kenku,5
-Kobold,Kobold,10
-Kuo-Toa,Kuo-Toa,5
-Lycanthrope,Lycanthrope[gensetvar:{"has-cover": "cover"}],10
-Merfolk,Merfolk,5
-Minotaur,Minotaur,5
-Orc,Orc,20
-Ratmen,Ratmen,10
-Quaggoth,Quaggoth,5
-Sahuagin,Sahuagin,5
-Thri-Kreen,Thri-Kreen,5
-Troglodyte,Troglodyte,5
-Yuan-Ti,Yuan-Ti[gensetvar:{"has-cover": "cover"}],20
+aarakocra,Aarakocra,5
+bugbear,Bugbear,10
+bullywug,Bullywug,5
+gith,Gith,20
+gnoll,Gnoll,5
+goblin,Goblin,10
+grimlock,Grimlock,5
+half-dragon,Half-Dragon,10
+hobgoblin,Hobgoblin,10
+jackalwere,"[gensetvar:{""origin"": ""Jackalwere""}][gensetvar:{""has-cover"": ""cover""}]",10
+kenku,Kenku,5
+kobold,Kobold,10
+huo-toa,Kuo-Toa,5
+lycanthrope,"[gensetvar:{""origin"": ""Lycanthrope""}][gensetvar:{""has-cover"": ""cover""}]",10
+merfolk,Merfolk,5
+minotaur,Minotaur,5
+orc,Orc,20
+ratmen,Ratmen,10
+quaggoth,Quaggoth,5
+sahuagin,Sahuagin,5
+thri-kreen,Thri-Kreen,5
+troglodyte,Troglodyte,5
+yuan-ti,"[gensetvar:{""origin"": ""Yuan-Ti""}][gensetvar:{""has-cover"": ""cover""}]",20

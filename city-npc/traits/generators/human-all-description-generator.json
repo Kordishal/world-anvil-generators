@@ -1,0 +1,28 @@
+{
+    "values": {
+        "slender-cloaks-pelts": {
+            "value": "Slender, cloaks, pelts",
+            "weight": 10
+        },
+        "tall-hardy-thick-furs-and-hides": {
+            "value": "Tall, hardy, thick furs and hides",
+            "weight": 10
+        },
+        "slight-of-build-an-athletic": {
+            "value": "Slight of build an athletic",
+            "weight": 10
+        },
+        "rugged": {
+            "value": "Rugged",
+            "weight": 10
+        },
+        "stout-broad-and-flat-features-with-slight-epicanthic-eye-folds": {
+            "value": "Stout, broad and flat features, with Slight epicanthic eye folds",
+            "weight": 10
+        },
+        "short-and-slight-with-lean-sharp-features.": {
+            "value": "Short and slight with lean sharp features.",
+            "weight": 10
+        }
+    }
+}

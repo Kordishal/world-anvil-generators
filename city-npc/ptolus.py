@@ -15,6 +15,7 @@ def create_payload_dict(variable: str):
 
 
 def read_table_generators(items, payload, is_origin, **kwargs):
+    csv_output = list()
     for item in items:
         local_key = item[0].value
         if local_key is None:

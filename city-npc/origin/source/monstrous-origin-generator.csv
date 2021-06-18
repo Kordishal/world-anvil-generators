@@ -1,0 +1,23 @@
+Aarakocra,Aarakocra,5
+Bugbear,Bugbear,10
+Bullywug,Bullywug,5
+Gith,Gith,20
+Gnoll,Gnoll,5
+Goblin,Goblin,10
+Grimlock,Grimlock,5
+Half-Dragon,Half-Dragon,10
+Hobgoblin,Hobgoblin,10
+Jackalwere,Jackalwere[gensetvar:{"has-cover": "cover"}],10
+Kenku,Kenku,5
+Kobold,Kobold,10
+Kuo-Toa,Kuo-Toa,5
+Lycanthrope,Lycanthrope[gensetvar:{"has-cover": "cover"}],10
+Merfolk,Merfolk,5
+Minotaur,Minotaur,5
+Orc,Orc,20
+Ratmen,Ratmen,10
+Quaggoth,Quaggoth,5
+Sahuagin,Sahuagin,5
+Thri-Kreen,Thri-Kreen,5
+Troglodyte,Troglodyte,5
+Yuan-Ti,Yuan-Ti[gensetvar:{"has-cover": "cover"}],20

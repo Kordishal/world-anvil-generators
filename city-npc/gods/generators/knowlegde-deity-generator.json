@@ -4,6 +4,10 @@
             "value": "Asche, God of Cities (N)",
             "weight": 40
         },
+        "demon-gods-ce": {
+            "value": "Demon Gods (CE)",
+            "weight": 10
+        },
         "kharos-god-of-magic-n": {
             "value": "Kharos, God of Magic (N)",
             "weight": 20
@@ -16,8 +20,8 @@
             "value": "Locharit, the Goddess of the Written Word (LG)",
             "weight": 20
         },
-        "mocharum-god-of-dwarves-ln": {
-            "value": "Mocharum, God of Dwarves (LN)",
+        "mocharum-god-of-the-forge-ln": {
+            "value": "Mocharum, God of the Forge (LN)",
             "weight": 20
         },
         "myliesha-mistress-of-the-wind’s-path-cg": {
@@ -32,10 +36,6 @@
             "value": "Niveral, God of Secrets (N)",
             "weight": 20
         },
-        "the-old-man-ln": {
-            "value": "The Old Man (LN)",
-            "weight": 20
-        },
         "phoeboul-god-of-dreams-cn": {
             "value": "Phoeboul, God of Dreams (CN)",
             "weight": 20
@@ -44,6 +44,14 @@
             "value": "Tardeshou, Goddess of Truth (LG)",
             "weight": 20
         },
+        "the-old-man-ln": {
+            "value": "The Old Man (LN)",
+            "weight": 20
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
+            "weight": 10
+        },
         "watcher-of-the-skies-n": {
             "value": "Watcher of the Skies (N)",
             "weight": 20
@@ -51,14 +59,6 @@
         "ynchabolos-god-of-numbers-ln": {
             "value": "Ynchabolos, God of Numbers (LN)",
             "weight": 20
-        },
-        "twenty-four-gods-of-the-hours": {
-            "value": "Twenty-Four Gods of the Hours",
-            "weight": 10
-        },
-        "the-demon-gods-ce": {
-            "value": "The Demon Gods (CE)",
-            "weight": 10
         }
     }
 }

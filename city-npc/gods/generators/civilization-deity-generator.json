@@ -2,11 +2,15 @@
     "values": {
         "asche-god-of-cities-n": {
             "value": "Asche, God of Cities (N)",
-            "weight": 50
+            "weight": 160
         },
         "teun-mother-of-all-machines-ln": {
             "value": "Teun, Mother of All Machines (LN)",
-            "weight": 30
+            "weight": 80
+        },
+        "mocharum-god-of-dwarves-lg": {
+            "value": "Mocharum, God of Dwarves (LG)",
+            "weight": 40
         },
         "ollom-god-of-the-keg-cn": {
             "value": "Ollom, God of the Keg (CN)",

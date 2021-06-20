@@ -1,12 +1,16 @@
 {
     "values": {
+        "aldinach-goddess-of-the-moons-ng": {
+            "value": "Aldinach, Goddess of the Moons (NG)",
+            "weight": 5
+        },
         "phoeboul-god-of-dreams-cn": {
             "value": "Phoeboul, God of Dreams (CN)",
-            "weight": 90
+            "weight": 75
         },
         "twenty-four-gods-of-the-hours": {
             "value": "Twenty-Four Gods of the Hours",
-            "weight": 10
+            "weight": 20
         }
     }
 }

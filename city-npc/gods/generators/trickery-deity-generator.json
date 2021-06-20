@@ -2,10 +2,14 @@
     "values": {
         "charlathan-divine-of-retribution-&-reward-cn": {
             "value": "Charlathan, Divine of Retribution & Reward (CN)",
-            "weight": 20
+            "weight": 10
         },
         "danace-master-of-the-thousand-pains-le": {
             "value": "Danace, Master of the Thousand Pains (LE)",
+            "weight": 10
+        },
+        "demon-gods-ce": {
+            "value": "Demon Gods (CE)",
             "weight": 10
         },
         "destor-god-of-cruel-fate-ce": {
@@ -14,27 +18,23 @@
         },
         "the-fifty-three-gods-of-chance-cn": {
             "value": "The Fifty-Three Gods of Chance (CN)",
-            "weight": 20
+            "weight": 120
         },
-        "the-lady-n": {
-            "value": "The Lady (N)",
-            "weight": 20
+        "the-lady-goddess-of-fate-&-luck-n": {
+            "value": "The Lady, Goddess of Fate & Luck (N)",
+            "weight": 360
         },
         "mirresh-goddess-of-laughter-ng": {
             "value": "Mirresh, Goddess of Laughter (NG)",
-            "weight": 20
+            "weight": 120
         },
         "the-old-man-ln": {
             "value": "The Old Man (LN)",
-            "weight": 20
+            "weight": 40
         },
         "twenty-four-gods-of-the-hours": {
             "value": "Twenty-Four Gods of the Hours",
-            "weight": 10
-        },
-        "the-demon-gods-ce": {
-            "value": "The Demon Gods (CE)",
-            "weight": 10
+            "weight": 40
         }
     }
 }

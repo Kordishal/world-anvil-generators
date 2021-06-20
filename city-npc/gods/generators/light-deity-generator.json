@@ -1,7 +1,7 @@
 {
     "values": {
-        "lothian": {
-            "value": "Lothian",
+        "lothian-god-of-justice-&-purity": {
+            "value": "Lothian, God of Justice & Purity",
             "weight": 20
         },
         "gaen-goddess-of-light-lg": {
@@ -10,15 +10,15 @@
         },
         "aldinach-goddess-of-the-moons-ng": {
             "value": "Aldinach, Goddess of the Moons (NG)",
-            "weight": 20
+            "weight": 5
         },
         "blurrah-goddess-of-comfort-in-sadness-cg": {
             "value": "Blurrah, Goddess of Comfort in Sadness (CG)",
             "weight": 20
         },
-        "castain-lg": {
-            "value": "Castain (LG)",
-            "weight": 20
+        "castain-god-of-life-lg": {
+            "value": "Castain, God of Life (LG)",
+            "weight": 5
         },
         "celestan-lord-of-the-silver-moon-ng": {
             "value": "Celestan, Lord of the Silver Moon (NG)",
@@ -26,10 +26,6 @@
         },
         "hannan-lord-of-the-sun-ng": {
             "value": "Hannan, Lord of the Sun (NG)",
-            "weight": 20
-        },
-        "jode-guardian-of-song-cg": {
-            "value": "Jode, Guardian of Song (CG)",
             "weight": 20
         },
         "twenty-four-gods-of-the-hours": {

@@ -20,10 +20,6 @@
             "value": "Melann, Goddess of Farming (NG)",
             "weight": 40
         },
-        "mocharum-god-of-dwarves-lg": {
-            "value": "Mocharum, God of Dwarves (LG)",
-            "weight": 20
-        },
         "myliesha-mistress-of-the-wind’s-path-cg": {
             "value": "Myliesha, Mistress of the Wind’s Path (CG)",
             "weight": 20
@@ -44,13 +40,13 @@
             "value": "Taeshandra, Elvish God of Travel (NG)",
             "weight": 20
         },
-        "unnom-lord-of-caverns-n": {
-            "value": "Unnom, Lord of Caverns (N)",
-            "weight": 20
-        },
         "twenty-four-gods-of-the-hours": {
             "value": "Twenty-Four Gods of the Hours",
             "weight": 10
+        },
+        "unnom-lord-of-caverns-n": {
+            "value": "Unnom, Lord of Caverns (N)",
+            "weight": 20
         }
     }
 }

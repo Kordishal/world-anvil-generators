@@ -1,7 +1,7 @@
 {
     "values": {
-        "lothian": {
-            "value": "Lothian",
+        "lothian-god-of-justice-&-purity": {
+            "value": "Lothian, God of Justice & Purity",
             "weight": 40
         },
         "asche-god-of-cities-n": {
@@ -12,9 +12,9 @@
             "value": "Navashtrom, God of Strength and Harmony (NG)",
             "weight": 10
         },
-        "castain-lg": {
-            "value": "Castain (LG)",
-            "weight": 10
+        "castain-god-of-life-lg": {
+            "value": "Castain, God of Life (LG)",
+            "weight": 5
         },
         "celestan-lord-of-the-silver-moon-ng": {
             "value": "Celestan, Lord of the Silver Moon (NG)",
@@ -32,6 +32,10 @@
             "value": "Herkan, Goddess of the Stones (CG)",
             "weight": 10
         },
+        "jode-guardian-of-song-cg": {
+            "value": "Jode, Guardian of Song (CG)",
+            "weight": 20
+        },
         "mirresh-goddess-of-laughter-ng": {
             "value": "Mirresh, Goddess of Laughter (NG)",
             "weight": 10
@@ -48,8 +52,12 @@
             "value": "Tevra, the Clockwork Goddess (LN)",
             "weight": 10
         },
-        "thamus-ng": {
-            "value": "Thamus (NG)",
+        "thamus-god-of-protection-&-defense-ng": {
+            "value": "Thamus, God of Protection & Defense (NG)",
+            "weight": 10
+        },
+        "twenty-four-gods-of-the-hours": {
+            "value": "Twenty-Four Gods of the Hours",
             "weight": 10
         },
         "unnom-lord-of-caverns-n": {
@@ -58,10 +66,6 @@
         },
         "yurabbos-goddess-of-supreme-devotion-ln": {
             "value": "Yurabbos, Goddess of Supreme Devotion (LN)",
-            "weight": 10
-        },
-        "twenty-four-gods-of-the-hours": {
-            "value": "Twenty-Four Gods of the Hours",
             "weight": 10
         }
     }

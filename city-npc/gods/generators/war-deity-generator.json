@@ -2,31 +2,31 @@
     "values": {
         "inurath-mistress-of-war-cn": {
             "value": "Inurath, Mistress of War (CN)",
-            "weight": 80
+            "weight": 240
         },
         "charlathan-divine-of-retribution-&-reward-cn": {
             "value": "Charlathan, Divine of Retribution & Reward (CN)",
             "weight": 10
         },
-        "thamus-ng": {
-            "value": "Thamus (NG)",
-            "weight": 40
+        "demon-gods-ce": {
+            "value": "Demon Gods (CE)",
+            "weight": 10
         },
-        "torskal-lg": {
-            "value": "Torskal (LG)",
-            "weight": 20
+        "thamus-god-of-protection-&-defense-ng": {
+            "value": "Thamus, God of Protection & Defense (NG)",
+            "weight": 80
         },
-        "unnah-mistress-of-the-blades-ln": {
-            "value": "Unnah, Mistress of the Blades (LN)",
+        "torskal-aram-god-of-vengense-lg": {
+            "value": "Torskal, Aram God of Vengense (LG)",
             "weight": 20
         },
         "twenty-four-gods-of-the-hours": {
             "value": "Twenty-Four Gods of the Hours",
-            "weight": 10
+            "weight": 40
         },
-        "the-demon-gods-ce": {
-            "value": "The Demon Gods (CE)",
-            "weight": 10
+        "unnah-mistress-of-the-blades-ln": {
+            "value": "Unnah, Mistress of the Blades (LN)",
+            "weight": 80
         }
     }
 }

@@ -4,16 +4,16 @@
             "value": "Ahaar, Lord of the Air (CG)",
             "weight": 40
         },
+        "demon-gods-ce": {
+            "value": "Demon Gods (CE)",
+            "weight": 10
+        },
         "juranis-god-of-the-open-sea-cn": {
             "value": "Juranis, God of the Open Sea (CN)",
             "weight": 60
         },
         "twenty-four-gods-of-the-hours": {
             "value": "Twenty-Four Gods of the Hours",
-            "weight": 10
-        },
-        "the-demon-gods-ce": {
-            "value": "The Demon Gods (CE)",
             "weight": 10
         }
     }

@@ -8,6 +8,10 @@
             "value": "Danace, Master of the Thousand Pains (LE)",
             "weight": 20
         },
+        "demon-gods-ce": {
+            "value": "Demon Gods (CE)",
+            "weight": 10
+        },
         "father-claw-the-serpentine-lord-ce": {
             "value": "Father Claw, the Serpentine Lord (CE)",
             "weight": 10
@@ -34,10 +38,6 @@
         },
         "twenty-four-gods-of-the-hours": {
             "value": "Twenty-Four Gods of the Hours",
-            "weight": 10
-        },
-        "the-demon-gods-ce": {
-            "value": "The Demon Gods (CE)",
             "weight": 10
         }
     }

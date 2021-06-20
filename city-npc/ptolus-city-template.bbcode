@@ -1,0 +1,21 @@
+[generator:inhabitant-mortality-soullink|{}|mortal]
+[generator:ptolus-world-soullink|{}|world]
+[generator:ptolus-gender-soullink|{}|gender]
+[generator:city-origin-soullink|{}|city-origin]
+[generator:ptolus-build-soullink|{}|build]
+[generator:ptolus-height-soullink|{}|height]
+[generator:domain-selector-soullink|{}|domain]
+[router:domain-to-deity-soullink|{"values":"domain"}|deity]
+[generator:human-culture-soullink|{}|culture]
+[generator:less-than-mortal-soullink|{}|less-than-mortal]
+[generator:more-than-mortal-soullink|{}|more-than-mortal]
+----
+[b][Name Placeholder][/b] [br]
+[b]Origin[/b][br]
+[genvar:gender] [check:exists|subspecies][genvar:subspecies][/check] [genvar:origin] of [genvar:culture][br]
+[genvar:height] height and [genvar:build] build for a [genvar:origin][br]
+[check:exists|has-cover][br][template:cover-origin-soullink|{}|cover-origin-result][/check]
+[router:mortality-template-soullink|{"values": "mortal"}|mortality-template-result]
+--Role::[generator:role-template-selector-soullink|{}|roles]--
+
+--Possible Religion::Domain: [genvar:domain][br]God: [genvar:deity]--

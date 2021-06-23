@@ -8,8 +8,8 @@ if __name__ == '__main__':
         value = 'value'
         count = 1
         for line in fp:
-            name = line.strip()
-            values['values'][f'value{count}'] = name
+            names = line.strip()
+            values['values'][names.lower()] = names
             #values['values'][f'{value}{count}'] = {
             #    "value": name,
             #    "weight": 10

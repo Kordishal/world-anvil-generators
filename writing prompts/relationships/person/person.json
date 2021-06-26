@@ -1,0 +1,14 @@
+{
+    "values": {
+        "is-related-to": "is related to",
+        "is-a-grandparent-of": "is a grandparent of",
+        "is-a-parent-of": "is a parent of",
+        "is-a-child-of": "is a child of",
+        "is-a-sibling-of": "is a sibling of",
+        "is-a-cousin-of": "is a cousin of",
+        "is-the-spouse-of": "is the spouse of",
+        "was-in-a-romantic-relationship-with": "was in a romantic relationship with",
+        "is-in-a-romantic-relationship-with": "is in a romantic relationship with",
+        "is-a-friend-of": "is a friend of"
+    }
+}

@@ -1,5 +1,16 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "participated-in": "participated in",
+        "was-a-leader-on-the-losing-side-in": "was a leader on the losing side in",
+        "was-a-leader-on-the-winning-side-in": "was a leader on the winning side in",
+        "died-in": "died in",
+        "was-killed-in": "was killed in",
+        "was-wounded-in": "was wounded in",
+        "was-born-during": "was born during",
+        "fought-in": "fought in",
+        "was-engaged-in": "was engaged in",
+        "studied": "studied",
+        "teaches-about": "teaches about"
     }
 }

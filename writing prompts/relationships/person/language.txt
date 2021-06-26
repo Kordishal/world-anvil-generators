@@ -1,1 +1,8 @@
 is related to
+speaks
+understands
+is learning
+does not speak
+can write in
+is fluent in
+is a beginner in

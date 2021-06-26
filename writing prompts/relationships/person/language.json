@@ -1,5 +1,12 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "speaks": "speaks",
+        "understands": "understands",
+        "is-learning": "is learning",
+        "does-not-speak": "does not speak",
+        "can-write-in": "can write in",
+        "is-fluent-in": "is fluent in",
+        "is-a-beginner-in": "is a beginner in"
     }
 }

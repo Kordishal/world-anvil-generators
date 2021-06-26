@@ -1,5 +1,9 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-mentioned-in": "is mentioned in",
+        "is-important-in": "is important in",
+        "is-crucial-for": "is crucial for",
+        "is-a-side-character-in": "is a side character in"
     }
 }

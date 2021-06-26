@@ -1,5 +1,11 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-a-member-of": "is a member of",
+        "is-a-part-of": "is a part of",
+        "is-a-notable-member-of-the": "is a notable member of the",
+        "is-an-important-figure-of-the": "is an important figure of the",
+        "is-a-historical-figure-of-the": "is a historical figure of the",
+        "has-studied-the": "has studied the"
     }
 }

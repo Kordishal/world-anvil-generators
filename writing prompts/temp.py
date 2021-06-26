@@ -16,7 +16,6 @@ if __name__ == '__main__':
                 'connector': item[4]
             }
 
-
     master = dict()
     master['values'] = dict()
     inner = master['values']
@@ -46,9 +45,12 @@ if __name__ == '__main__':
 
             value = f'{source_items["intro"]} [url:{source_items["link"]}|tab]{source_items["name"]}[/url], ' \
                     f'{source_items["connector"]} [generator:prompt-relationships-{relation_key}-soullink|{braces}|relation] ' \
-                    f'[router:target-article-transformer-soullink|{target}|target].'
+                    f'[generator:{line[1]}-article-28world29-soullink|{braces}|target].'
 
-            inner[key] = value
+            inner[key] = {
+                'value': value,
+                'weight': line[3]
+            }
 
     with open('master-generator.json', 'w') as file_master:
         json.dump(master, file_master, ensure_ascii=False, indent='    ')

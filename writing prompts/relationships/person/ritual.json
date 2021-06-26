@@ -1,5 +1,10 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "takes-part-in": "takes part in",
+        "leads": "leads",
+        "observes": "observes",
+        "observed": "observed",
+        "wants-to-observe": "wants to observe"
     }
 }

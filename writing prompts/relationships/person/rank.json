@@ -1,5 +1,17 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "has-acquired": "has acquired",
+        "was-awarded": "was awarded",
+        "was-promoted-to": "was promoted to",
+        "wishes-to-be-promoted-to": "wishes to be promoted to",
+        "failed-to-be-promoted-to": "failed to be promoted to",
+        "was-demoted-from": "was demoted from",
+        "has-lost-the": "has lost the",
+        "can-bestow": "can bestow",
+        "can-promote-others-to": "can promote others to",
+        "is-a-notable-holder-of": "is a notable holder of",
+        "is-a-holder-of": "is a holder of",
+        "is-the-first-holder-of": "is the first holder of"
     }
 }

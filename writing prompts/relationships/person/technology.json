@@ -1,5 +1,10 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "has-discovered": "has discovered",
+        "has-invented": "has invented",
+        "uses": "uses",
+        "applies": "applies",
+        "teaches-classes-on": "teaches classes on"
     }
 }

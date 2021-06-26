@@ -7,8 +7,19 @@
         "is-a-sibling-of": "is a sibling of",
         "is-a-cousin-of": "is a cousin of",
         "is-the-spouse-of": "is the spouse of",
+        "is-a-spouse-of": "is a spouse of",
         "was-in-a-romantic-relationship-with": "was in a romantic relationship with",
         "is-in-a-romantic-relationship-with": "is in a romantic relationship with",
-        "is-a-friend-of": "is a friend of"
+        "is-dating": "is dating",
+        "is-a-friend-of": "is a friend of",
+        "is-the-nemesis-of": "is the nemesis of",
+        "is-hated-by": "is hated by",
+        "hates": "hates",
+        "is-in-love-with": "is in love with",
+        "is-loved-by": "is loved by",
+        "is-attracted-to": "is attracted to",
+        "works-with": "works with",
+        "works-under": "works under",
+        "works-for": "works for"
     }
 }

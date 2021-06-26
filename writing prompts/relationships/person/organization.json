@@ -1,5 +1,17 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-a-member-of": "is a member of",
+        "is-a-part-of": "is a part of",
+        "is-a-notable-member-of-the": "is a notable member of the",
+        "is-a-former-member-of": "is a former member of",
+        "is-an-important-member-of": "is an important member of",
+        "is-the-leader-of": "is the leader of",
+        "is-a-former-leader-of": "is a former leader of",
+        "is-the-founder-of": "is the founder of",
+        "is-one-of-the-founders-of": "is one of the founders of",
+        "is-hostile-towards": "is hostile towards",
+        "is-friendly-towards": "is friendly towards",
+        "has-a-good-reputation-within": "has a good reputation within"
     }
 }

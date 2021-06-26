@@ -1,5 +1,9 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "works-with": "works with",
+        "discovered": "discovered",
+        "likes": "likes",
+        "hates": "hates"
     }
 }

@@ -1,5 +1,11 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "owns-a": "owns a",
+        "loves-their": "loves their",
+        "can-operate-a": "can operate a",
+        "has-a-permit-to-operate-a": "has a permit to operate a",
+        "is-proficient-in-operating-a": "is proficient in operating a",
+        "is-terrible-at-operating-a": "is terrible at operating a"
     }
 }

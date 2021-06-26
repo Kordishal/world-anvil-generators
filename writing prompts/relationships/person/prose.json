@@ -1,5 +1,10 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "has-written": "has written",
+        "has-created": "has created",
+        "is-mentioned-in": "is mentioned in",
+        "is-the-main-protagonist-of": "is the main protagonist of",
+        "is-a-side-character-in": "is a side character in"
     }
 }

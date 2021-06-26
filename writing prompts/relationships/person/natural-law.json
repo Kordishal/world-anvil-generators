@@ -1,5 +1,9 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "studies": "studies",
+        "studied": "studied",
+        "is-an-expert-of": "is an expert of",
+        "can-use": "can use"
     }
 }

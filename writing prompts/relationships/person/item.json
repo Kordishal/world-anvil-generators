@@ -1,5 +1,21 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "owns": "owns",
+        "owned": "owned",
+        "lost": "lost",
+        "created": "created",
+        "creates": "creates",
+        "produced": "produced",
+        "produces": "produces",
+        "crafted": "crafted",
+        "crafts": "crafts",
+        "built": "built",
+        "builds": "builds",
+        "manufactures": "manufactures",
+        "manufactured": "manufactured",
+        "invented": "invented",
+        "sells": "sells",
+        "trades-with": "trades with"
     }
 }

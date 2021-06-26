@@ -1,5 +1,10 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-mentioned-in": "is mentioned in",
+        "lived-during": "lived during",
+        "knows-about": "knows about",
+        "tells-the-story-of": "tells the story of",
+        "is-afraid-of": "is afraid of"
     }
 }

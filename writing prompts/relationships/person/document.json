@@ -1,5 +1,16 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "has-written": "has written",
+        "is-an-author-of": "is an author of",
+        "is-the-owner-of": "is the owner of",
+        "has-a-copy-of": "has a copy of",
+        "is-looking-for-a-copy-of": "is looking for a copy of",
+        "is-mentioned-in": "is mentioned in",
+        "has-read": "has read",
+        "was-inspired-by": "was inspired by",
+        "has-translated": "has translated",
+        "wants-to-destroy-all-copies-of": "wants to destroy all copies of",
+        "is-burning-copies-of": "is burning copies of"
     }
 }

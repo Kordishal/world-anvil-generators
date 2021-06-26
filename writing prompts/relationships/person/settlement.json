@@ -1,5 +1,16 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "lives-in": "lives in",
+        "comes-from": "comes from",
+        "was-born-in": "was born in",
+        "would-like-to-move-to": "would like to move to",
+        "has-died-in": "has died in",
+        "has-lived-in": "has lived in",
+        "is-currently-in": "is currently in",
+        "visited-once": "visited once",
+        "would-like-to-visit": "would like to visit",
+        "owns-a-property-in": "owns a property in",
+        "is-an-important-person-in": "is an important person in"
     }
 }

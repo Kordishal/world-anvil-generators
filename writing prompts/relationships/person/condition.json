@@ -1,5 +1,15 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-affected-by": "is affected by",
+        "was-affected-by": "was affected by",
+        "is-treated-for": "is treated for",
+        "was-treated-for": "was treated for",
+        "had": "had",
+        "is-researching": "is researching",
+        "can-treat": "can treat",
+        "can-cause": "can cause",
+        "is-spreading": "is spreading",
+        "has-created": "has created"
     }
 }

@@ -1,5 +1,14 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-a": "is a",
+        "works-for-a": "works for a",
+        "is-a-master": "is a master",
+        "is-a-grandmaster": "is a grandmaster",
+        "is-trained-as-a": "is trained as a",
+        "is-an-expert": "is an expert",
+        "is-training-to-be-a": "is training to be a",
+        "used-to-be-a": "used to be a",
+        "is-a-notable": "is a notable"
     }
 }

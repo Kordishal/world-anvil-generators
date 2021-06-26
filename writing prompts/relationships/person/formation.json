@@ -1,5 +1,11 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "fought-as-part-of": "fought as part of",
+        "fought-in": "fought in",
+        "created": "created",
+        "leads": "leads",
+        "served-in": "served in",
+        "serves-in": "serves in"
     }
 }

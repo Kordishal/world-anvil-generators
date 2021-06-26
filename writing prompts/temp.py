@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
             value = f'{source_items["intro"]} [url:{source_items["link"]}|tab]{source_items["name"]}[/url], ' \
                     f'{source_items["connector"]} [generator:prompt-relationships-{relation_key}-soullink|{braces}|relation] ' \
-                    f'[generator:{line[1]}-article-28world29-soullink|{braces}|target].'
+                    f'[generator:{line[1]}-article-28world29-soullink|{braces}|target] ({line[1]}).'
 
             inner[key] = {
                 'value': value,

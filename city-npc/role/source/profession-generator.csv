@@ -2,14 +2,26 @@ Acolyte,10
 Alchemist,10
 Apothecary,10
 Artist,10
+Baker,10
 Banker,10
+Barber,10
 Barmaid,10
+Bather,10
+Beer-Seller,10
 Beggar,10
+Blacksmith,10
 Bodyguard,10
+Bookbinder,10
+Bookseller,10
 Bounty Hunter,10
+Buckle Maker,10
+Butcher,10
 Butler,10
 Caravan Specialist,10
+Carpenter,10
+Chandler,10
 Charlatan,10
+Chicken Butcher,10
 City Guard,10
 City Watch,10
 City Worker,10
@@ -17,9 +29,12 @@ Clan Crafter,10
 Cloistered Scholar,10
 Combat Medic,10
 Cook,10
+Cooper,10
+Copy Scribe,10
 Courtesan,10
 Courtier,10
 Criminal,10
+Cutler,10
 Detective,10
 Diplomat,10
 Disowned Noble,10
@@ -33,25 +48,36 @@ Faction Agent,10
 Falconer,10
 Far Traveler,10
 Farmer,10
+Fishmonger,10
 Folk Hero,10
+Furriers,10
 Gambler,10
 Gate Urchin,10
 Gladiator,10
+Glovemaker,10
 Gravetender,10
 Guild Artisan,10
 Guild Merchant,10
+Hatmaker,10
+Hay Merchants,10
 Hermit,10
 Hunter,10
+Illuminator,10
 Initiate,10
-Innkeeper,10
+Innkeep,10
 Inquisitor,10
 Investigator,10
 Janitor,10
 Jester,10
+Jeweler,10
 Knight,10
 Librarian,10
+Locksmith,10
 Lumberjack,10
+Maidservant,10
+Mason,10
 Mercenary,10
+Mercer,10
 Messenger,10
 Militant Assassin,10
 Miner,10
@@ -61,31 +87,48 @@ Monster Hunter,10
 Noble Guard,10
 Occult Investigator,10
 Outlander,10
+Painter,10
+Pastrycook,10
 Pirate,10
+Plasterer,10
 Politician,10
 Princess/Prince,10
 Professional Assassin,10
+Pursemakers,10
+Restaurantuer,10
+Roofer,10
+Ropemaker,10
+Rugmaker,10
+Saddler,10
 Sage,10
 Sailor,10
+Scabbardmaker,10
 Scout,10
+Sculpter,10
 Sentinel,10
 Shipwright,10
+Shoemaker,10
 Simpleton,10
 Slayer,10
 Smuggler,10
 Soldier,10
+Spice Merchant,10
 Spirit Medium,10
-Spirit Medium,10
-Spy,10
 Spy,10
 Squire,10
 Squire,10
 Tailor,10
+Tanner,10
+Tavernkeep,10
 Temple Guardian,10
 Tribe Member,10
 Urban Bounty Hunter,10
 Urchin,10
 Wandering Mercenary,10
+Weaver,10
+Wine-Seller,10
+Wood Carver,10
 Woodcutter,10
+Woodseller,10
 Writer,10
 Zealot,10

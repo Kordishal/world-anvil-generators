@@ -16,24 +16,60 @@
             "value": "Artist",
             "weight": 10
         },
+        "baker": {
+            "value": "Baker",
+            "weight": 10
+        },
         "banker": {
             "value": "Banker",
+            "weight": 10
+        },
+        "barber": {
+            "value": "Barber",
             "weight": 10
         },
         "barmaid": {
             "value": "Barmaid",
             "weight": 10
         },
+        "bather": {
+            "value": "Bather",
+            "weight": 10
+        },
+        "beer-seller": {
+            "value": "Beer-Seller",
+            "weight": 10
+        },
         "beggar": {
             "value": "Beggar",
+            "weight": 10
+        },
+        "blacksmith": {
+            "value": "Blacksmith",
             "weight": 10
         },
         "bodyguard": {
             "value": "Bodyguard",
             "weight": 10
         },
+        "bookbinder": {
+            "value": "Bookbinder",
+            "weight": 10
+        },
+        "bookseller": {
+            "value": "Bookseller",
+            "weight": 10
+        },
         "bounty-hunter": {
             "value": "Bounty Hunter",
+            "weight": 10
+        },
+        "buckle-maker": {
+            "value": "Buckle Maker",
+            "weight": 10
+        },
+        "butcher": {
+            "value": "Butcher",
             "weight": 10
         },
         "butler": {
@@ -44,8 +80,20 @@
             "value": "Caravan Specialist",
             "weight": 10
         },
+        "carpenter": {
+            "value": "Carpenter",
+            "weight": 10
+        },
+        "chandler": {
+            "value": "Chandler",
+            "weight": 10
+        },
         "charlatan": {
             "value": "Charlatan",
+            "weight": 10
+        },
+        "chicken-butcher": {
+            "value": "Chicken Butcher",
             "weight": 10
         },
         "city-guard": {
@@ -76,6 +124,14 @@
             "value": "Cook",
             "weight": 10
         },
+        "cooper": {
+            "value": "Cooper",
+            "weight": 10
+        },
+        "copy-scribe": {
+            "value": "Copy Scribe",
+            "weight": 10
+        },
         "courtesan": {
             "value": "Courtesan",
             "weight": 10
@@ -86,6 +142,10 @@
         },
         "criminal": {
             "value": "Criminal",
+            "weight": 10
+        },
+        "cutler": {
+            "value": "Cutler",
             "weight": 10
         },
         "detective": {
@@ -140,8 +200,16 @@
             "value": "Farmer",
             "weight": 10
         },
+        "fishmonger": {
+            "value": "Fishmonger",
+            "weight": 10
+        },
         "folk-hero": {
             "value": "Folk Hero",
+            "weight": 10
+        },
+        "furriers": {
+            "value": "Furriers",
             "weight": 10
         },
         "gambler": {
@@ -156,6 +224,10 @@
             "value": "Gladiator",
             "weight": 10
         },
+        "glovemaker": {
+            "value": "Glovemaker",
+            "weight": 10
+        },
         "gravetender": {
             "value": "Gravetender",
             "weight": 10
@@ -168,6 +240,14 @@
             "value": "Guild Merchant",
             "weight": 10
         },
+        "hatmaker": {
+            "value": "Hatmaker",
+            "weight": 10
+        },
+        "hay-merchants": {
+            "value": "Hay Merchants",
+            "weight": 10
+        },
         "hermit": {
             "value": "Hermit",
             "weight": 10
@@ -176,12 +256,16 @@
             "value": "Hunter",
             "weight": 10
         },
+        "illuminator": {
+            "value": "Illuminator",
+            "weight": 10
+        },
         "initiate": {
             "value": "Initiate",
             "weight": 10
         },
-        "innkeeper": {
-            "value": "Innkeeper",
+        "innkeep": {
+            "value": "Innkeep",
             "weight": 10
         },
         "inquisitor": {
@@ -200,6 +284,10 @@
             "value": "Jester",
             "weight": 10
         },
+        "jeweler": {
+            "value": "Jeweler",
+            "weight": 10
+        },
         "knight": {
             "value": "Knight",
             "weight": 10
@@ -208,12 +296,28 @@
             "value": "Librarian",
             "weight": 10
         },
+        "locksmith": {
+            "value": "Locksmith",
+            "weight": 10
+        },
         "lumberjack": {
             "value": "Lumberjack",
             "weight": 10
         },
+        "maidservant": {
+            "value": "Maidservant",
+            "weight": 10
+        },
+        "mason": {
+            "value": "Mason",
+            "weight": 10
+        },
         "mercenary": {
             "value": "Mercenary",
+            "weight": 10
+        },
+        "mercer": {
+            "value": "Mercer",
             "weight": 10
         },
         "messenger": {
@@ -252,8 +356,20 @@
             "value": "Outlander",
             "weight": 10
         },
+        "painter": {
+            "value": "Painter",
+            "weight": 10
+        },
+        "pastrycook": {
+            "value": "Pastrycook",
+            "weight": 10
+        },
         "pirate": {
             "value": "Pirate",
+            "weight": 10
+        },
+        "plasterer": {
+            "value": "Plasterer",
             "weight": 10
         },
         "politician": {
@@ -268,6 +384,30 @@
             "value": "Professional Assassin",
             "weight": 10
         },
+        "pursemakers": {
+            "value": "Pursemakers",
+            "weight": 10
+        },
+        "restaurantuer": {
+            "value": "Restaurantuer",
+            "weight": 10
+        },
+        "roofer": {
+            "value": "Roofer",
+            "weight": 10
+        },
+        "ropemaker": {
+            "value": "Ropemaker",
+            "weight": 10
+        },
+        "rugmaker": {
+            "value": "Rugmaker",
+            "weight": 10
+        },
+        "saddler": {
+            "value": "Saddler",
+            "weight": 10
+        },
         "sage": {
             "value": "Sage",
             "weight": 10
@@ -276,8 +416,16 @@
             "value": "Sailor",
             "weight": 10
         },
+        "scabbardmaker": {
+            "value": "Scabbardmaker",
+            "weight": 10
+        },
         "scout": {
             "value": "Scout",
+            "weight": 10
+        },
+        "sculpter": {
+            "value": "Sculpter",
             "weight": 10
         },
         "sentinel": {
@@ -286,6 +434,10 @@
         },
         "shipwright": {
             "value": "Shipwright",
+            "weight": 10
+        },
+        "shoemaker": {
+            "value": "Shoemaker",
             "weight": 10
         },
         "simpleton": {
@@ -304,6 +456,10 @@
             "value": "Soldier",
             "weight": 10
         },
+        "spice-merchant": {
+            "value": "Spice Merchant",
+            "weight": 10
+        },
         "spirit-medium": {
             "value": "Spirit Medium",
             "weight": 10
@@ -318,6 +474,14 @@
         },
         "tailor": {
             "value": "Tailor",
+            "weight": 10
+        },
+        "tanner": {
+            "value": "Tanner",
+            "weight": 10
+        },
+        "tavernkeep": {
+            "value": "Tavernkeep",
             "weight": 10
         },
         "temple-guardian": {
@@ -340,8 +504,24 @@
             "value": "Wandering Mercenary",
             "weight": 10
         },
+        "weaver": {
+            "value": "Weaver",
+            "weight": 10
+        },
+        "wine-seller": {
+            "value": "Wine-Seller",
+            "weight": 10
+        },
+        "wood-carver": {
+            "value": "Wood Carver",
+            "weight": 10
+        },
         "woodcutter": {
             "value": "Woodcutter",
+            "weight": 10
+        },
+        "woodseller": {
+            "value": "Woodseller",
             "weight": 10
         },
         "writer": {

@@ -2,187 +2,187 @@
     "values": {
         "person-person": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-person-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-condition": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-condition-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-document": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-document-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-ethnicity": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-ethnicity-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-formation": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-formation-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-item": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-item-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-language": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-language-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-material": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-material-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-military-conflict": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-military-conflict-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-myth": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-myth-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-landmark": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-landmark-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-geography": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-geography-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-settlement": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-settlement-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-natural-law": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-natural-law-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-organization": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-organization-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-prose": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-prose-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-profession": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-profession-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-plot": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-plot-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-rank": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-rank-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-species": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-species-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-technology": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-technology-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-ritual": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-ritual-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
-            "weight": "10000"
+            "weight": "10"
         },
         "person-vehicle": {
             "value": "Describe a [url:https://www.worldanvil.com/world/person/new|tab]Character[/url], who [generator:prompt-relationships-person-vehicle-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
-            "weight": "10000"
+            "weight": "10"
         },
         "condition-person": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-person-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10000"
         },
         "condition-condition": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-condition-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10000"
         },
         "condition-document": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-document-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10000"
         },
         "condition-ethnicity": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-ethnicity-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10000"
         },
         "condition-formation": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-formation-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10000"
         },
         "condition-item": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-item-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10000"
         },
         "condition-language": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-language-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10000"
         },
         "condition-material": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-material-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10000"
         },
         "condition-military-conflict": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-military-conflict-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10000"
         },
         "condition-myth": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-myth-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10000"
         },
         "condition-landmark": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-landmark-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10000"
         },
         "condition-geography": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-geography-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10000"
         },
         "condition-settlement": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-settlement-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10000"
         },
         "condition-natural-law": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-natural-law-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10000"
         },
         "condition-organization": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-organization-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10000"
         },
         "condition-prose": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-prose-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10000"
         },
         "condition-profession": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-profession-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10000"
         },
         "condition-plot": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-plot-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10000"
         },
         "condition-rank": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-rank-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10000"
         },
         "condition-species": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-species-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10000"
         },
         "condition-technology": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-technology-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10000"
         },
         "condition-ritual": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-ritual-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10000"
         },
         "condition-vehicle": {
-            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
-            "weight": "10"
+            "value": "Describe a [url:https://www.worldanvil.com/world/condition/new|tab]Condition[/url], which [generator:prompt-relationships-condition-vehicle-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10000"
         },
         "document-person": {
             "value": "Describe a [url:https://www.worldanvil.com/world/document/new|tab]Document[/url], which [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",

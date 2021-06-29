@@ -1,5 +1,8 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-a-symptom-of": "is a symptom of",
+        "is-the-cause-of": "is the cause of",
+        "grants-immunity-to": "grants immunity to"
     }
 }

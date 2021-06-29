@@ -1,5 +1,8 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "has-ravaged": "has ravaged",
+        "is-ravaging": "is ravaging",
+        "has-originated-in": "has originated in"
     }
 }

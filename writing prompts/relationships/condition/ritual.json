@@ -1,5 +1,7 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-involved-in": "is involved in",
+        "is-the-source-inspiration-for": "is the source inspiration for"
     }
 }

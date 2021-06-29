@@ -1,5 +1,8 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "only-affects": "only affects",
+        "has-originated-with": "has originated with",
+        "has-caused-the-extinction-of": "has caused the extinction of"
     }
 }

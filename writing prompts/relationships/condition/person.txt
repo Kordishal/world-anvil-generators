@@ -1,1 +1,10 @@
 is related to
+affects
+has affected
+was diagnosed in
+is diagnosed in
+is researched by
+is treated by
+is caused by
+is spread by
+was created by

@@ -1,5 +1,8 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-discussed-in": "is discussed in",
+        "is-described-in": "is described in",
+        "is-the-topic-of": "is the topic of"
     }
 }

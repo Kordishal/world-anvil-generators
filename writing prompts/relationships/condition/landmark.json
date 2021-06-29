@@ -1,5 +1,9 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "was-contracted-in": "was contracted in",
+        "can-be-contracted-in": "can be contracted in",
+        "is-treated-in": "is treated in",
+        "can-be-treated-in": "can be treated in"
     }
 }

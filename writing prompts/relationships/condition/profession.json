@@ -1,5 +1,9 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "only-affects": "only affects",
+        "is-treated-by": "is treated by",
+        "is-handled-by": "is handled by",
+        "can-be-treated-by": "can be treated by"
     }
 }

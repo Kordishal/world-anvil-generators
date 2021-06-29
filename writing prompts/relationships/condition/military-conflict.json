@@ -1,5 +1,9 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "ended": "ended",
+        "caused": "caused",
+        "affected-the-outcome-of": "affected the outcome of",
+        "affected": "affected"
     }
 }

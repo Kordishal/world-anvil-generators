@@ -1,5 +1,10 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "can-be-treated-by": "can be treated by",
+        "can-be-caused-by": "can be caused by",
+        "can-be-cured-by": "can be cured by",
+        "is-treated-by": "is treated by",
+        "is-caused-by": "is caused by"
     }
 }

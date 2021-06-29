@@ -1,5 +1,10 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-used-in": "is used in",
+        "is-mentioned-in": "is mentioned in",
+        "is-described-in": "is described in",
+        "was-important-in": "was important in",
+        "was-important-during": "was important during"
     }
 }

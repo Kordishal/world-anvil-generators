@@ -1,5 +1,7 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-spread-by": "is spread by",
+        "is-contained-by": "is contained by"
     }
 }

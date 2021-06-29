@@ -1,5 +1,8 @@
 {
     "values": {
-        "is-related-to": "is related to"
+        "is-related-to": "is related to",
+        "is-attributed-to": "is attributed to",
+        "is-strengthening": "is strengthening",
+        "empowers": "empowers"
     }
 }

@@ -1,0 +1,740 @@
+{
+    "values": {
+        "condition-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-person-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "condition-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-condition-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "condition-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-document-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "condition-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-ethnicity-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "condition-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-formation-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "condition-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-item-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "condition-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-language-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "condition-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-material-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "condition-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-military-conflict-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "condition-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-myth-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "condition-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-landmark-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "condition-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-geography-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "condition-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-settlement-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "condition-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-natural-law-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "condition-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-organization-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "condition-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-prose-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "condition-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-profession-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "condition-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-plot-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "condition-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-rank-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "condition-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-species-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "condition-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-technology-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "condition-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-ritual-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "condition-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/condition/new|tab]a medical condition which is feared by some[/url], that [generator:prompt-relationships-condition-vehicle-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "ethnicity-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "ethnicity-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "ethnicity-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "ethnicity-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "ethnicity-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "ethnicity-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "ethnicity-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "ethnicity-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "ethnicity-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "ethnicity-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "ethnicity-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "ethnicity-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "ethnicity-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "ethnicity-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "ethnicity-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "ethnicity-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "ethnicity-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "ethnicity-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "ethnicity-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "ethnicity-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "ethnicity-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "ethnicity-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "ethnicity-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ethnicity/new|tab]an ethnicity whose cultural exports are highly sought after[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "item-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "item-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "item-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "item-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "item-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "item-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "item-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "item-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "item-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "item-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "item-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "item-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "item-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "item-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "item-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "item-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "item-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "item-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "item-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "item-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "item-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "item-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "item-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/item/new|tab]an extraordinary writing tool (or type of writing tool)[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "myth-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "myth-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "myth-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "myth-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "myth-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "myth-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "myth-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "myth-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "myth-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "myth-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "myth-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "myth-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "myth-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "myth-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "myth-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "myth-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "myth-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "myth-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "myth-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "myth-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "myth-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "myth-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "myth-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/myth/new|tab]a myth or fairytale about a prophecy, oracle, fortune-telling or other revelation[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "landmark-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "landmark-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "landmark-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "landmark-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "landmark-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "landmark-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "landmark-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "landmark-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "landmark-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "landmark-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "landmark-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "landmark-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "landmark-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "landmark-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "landmark-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "landmark-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "landmark-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "landmark-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "landmark-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "landmark-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "landmark-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "landmark-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "landmark-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/location/new?type=landmark|tab]a building associated with healing the sick[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "species-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "species-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "species-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "species-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "species-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "species-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "species-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "species-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "species-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "species-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "species-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "species-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "species-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "species-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "species-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "species-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "species-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "species-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "species-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "species-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "species-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "species-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "species-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/species/new|tab]a species of working animal[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "technology-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "technology-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "technology-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "technology-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "technology-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "technology-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "technology-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "technology-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "technology-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "technology-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "technology-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "technology-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "technology-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "technology-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "technology-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "technology-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "technology-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "technology-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "technology-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "technology-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "technology-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "technology-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "technology-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/technology/new|tab]a new medical cure, treatment or breakthrough[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        },
+        "ritual-person": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:person-article-28world29-soullink|{}|target] (person).",
+            "weight": "10"
+        },
+        "ritual-condition": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:condition-article-28world29-soullink|{}|target] (condition).",
+            "weight": "10"
+        },
+        "ritual-document": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:document-article-28world29-soullink|{}|target] (document).",
+            "weight": "10"
+        },
+        "ritual-ethnicity": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ethnicity-article-28world29-soullink|{}|target] (ethnicity).",
+            "weight": "10"
+        },
+        "ritual-formation": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:formation-article-28world29-soullink|{}|target] (formation).",
+            "weight": "10"
+        },
+        "ritual-item": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:item-article-28world29-soullink|{}|target] (item).",
+            "weight": "10"
+        },
+        "ritual-language": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:language-article-28world29-soullink|{}|target] (language).",
+            "weight": "10"
+        },
+        "ritual-material": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:material-article-28world29-soullink|{}|target] (material).",
+            "weight": "10"
+        },
+        "ritual-military-conflict": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:military-conflict-article-28world29-soullink|{}|target] (military-conflict).",
+            "weight": "10"
+        },
+        "ritual-myth": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:myth-article-28world29-soullink|{}|target] (myth).",
+            "weight": "10"
+        },
+        "ritual-landmark": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:landmark-article-28world29-soullink|{}|target] (landmark).",
+            "weight": "10"
+        },
+        "ritual-geography": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:geography-article-28world29-soullink|{}|target] (geography).",
+            "weight": "10"
+        },
+        "ritual-settlement": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:settlement-article-28world29-soullink|{}|target] (settlement).",
+            "weight": "10"
+        },
+        "ritual-natural-law": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:natural-law-article-28world29-soullink|{}|target] (natural-law).",
+            "weight": "10"
+        },
+        "ritual-organization": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:organization-article-28world29-soullink|{}|target] (organization).",
+            "weight": "10"
+        },
+        "ritual-prose": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:prose-article-28world29-soullink|{}|target] (prose).",
+            "weight": "10"
+        },
+        "ritual-profession": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:profession-article-28world29-soullink|{}|target] (profession).",
+            "weight": "10"
+        },
+        "ritual-plot": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:plot-article-28world29-soullink|{}|target] (plot).",
+            "weight": "10"
+        },
+        "ritual-rank": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:rank-article-28world29-soullink|{}|target] (rank).",
+            "weight": "10"
+        },
+        "ritual-species": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:species-article-28world29-soullink|{}|target] (species).",
+            "weight": "10"
+        },
+        "ritual-technology": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:technology-article-28world29-soullink|{}|target] (technology).",
+            "weight": "10"
+        },
+        "ritual-ritual": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:ritual-article-28world29-soullink|{}|target] (ritual).",
+            "weight": "10"
+        },
+        "ritual-vehicle": {
+            "value": "Describe [url:https://www.worldanvil.com/world/ritual/new|tab]a festival associated with a celestial body[/url], that [generator:prompt-relationships-default-soullink|{}|relation] [generator:vehicle-article-28world29-soullink|{}|target] (vehicle).",
+            "weight": "10"
+        }
+    }
+}

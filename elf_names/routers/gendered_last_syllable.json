@@ -1,0 +1,6 @@
+{
+  "values": {
+    "male": "[generator:female-first-letter-last-syllable-soullink|{}|female-first-letter-last-syllable][generator:female-last-syllable-soullink|{}|female-last-syllable]",
+    "female": "[generator:male-first-letter-last-syllable-soullink|{}|male-first-letter-last-syllable][generator:male-last-syllable-soullink|{}|male-last-syllable]"
+  }
+}

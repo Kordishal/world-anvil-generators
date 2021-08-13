@@ -1,0 +1,193 @@
+Elf First Names
+
+
+Gender
+male,
+female,
+
+
+No of Syllable
+
+2 Syllables,25
+first syllable (letter first syllable + syllable ) + 
+gender last syllable (letter last syllable + last syllable) and
+House Name (house prefix + house suffix)
+
+3 Syllables,70
+(letter first syllable + syllable + syllable) +
+gender last syllable (letter last syllable + last syllable) and
+House Name (house prefix + house suffix)
+
+4 Syllables,5
+(letter first syllable + syllable + syllable + syllable) + 
+gender last syllable (letter last syllable + last syllable)and
+House Name (house prefix + house suffix)
+
+
+Letter First Syllable
+b
+br
+c
+d
+dr
+f
+g
+gl
+k
+l
+m
+r
+s
+t
+th
+v
+
+
+Syllable
+
+ae
+aeb
+ael
+aer
+ag
+ahl
+al
+an
+ar
+as
+bo
+ed
+eg
+eh
+el
+en
+er
+es
+eth
+ia
+iaur
+ien
+il
+im
+in
+îr
+is
+oeh
+ol
+on
+or
+ua
+ur
+y
+
+
+MALE
+
+Letter Last Syllable
+b
+d
+m
+n
+r
+s
+t
+
+Last Syllable
+
+aer
+ion
+ir
+en
+on
+or
+
+
+FEMALE
+
+Letter Last Syllable
+d
+n
+r
+s
+t
+
+Last Syllable
+
+el
+es
+eth
+iel
+il
+is
+ith
+oc
+
+
+HOUSE NAMES
+
+House Prefix
+
+alean
+alea
+arabi
+arkenea
+auvrea
+baequi
+banni
+cyGreen
+dirth
+dryear
+dwin
+eyllis
+eyther
+freani
+gysse
+heasi
+hlae
+hunith
+kennyr
+kille
+maern
+Melith
+myrth
+norre
+orle
+oussea
+rilynn
+teasen
+tyr
+tyrnea
+
+
+House Suffix
+
+altin
+anea
+annia
+aear
+arnith
+atear
+athem
+dlues
+elrvis
+eplith
+ettln
+ghymn
+itryn
+lylth
+mitore
+nddare
+neldth
+rae
+raheal
+rretyn
+sithek
+thym
+tlarn
+tlithar
+tylar
+undlin
+urdrenn
+valsa
+virrea
+zea

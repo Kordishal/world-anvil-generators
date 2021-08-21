@@ -1,0 +1,20 @@
+{
+  "values": {
+    "none": {
+      "value": " ",
+      "weight": 80
+    },
+    "one": {
+      "value": " [generator:romanian-given-names-masculine-soullink|{}|first-middle-name] ",
+      "weight": 15
+    },
+    "two": {
+      "value": " [generator:romanian-given-names-masculine-soullink|{}|first-middle-name] [generator:romanian-given-names-masculine-soullink|{}|second-middle-name] ",
+      "weight": 4
+    },
+    "three": {
+      "value": " [generator:romanian-given-names-masculine-soullink|{}|first-middle-name] [generator:romanian-given-names-masculine-soullink|{}|second-middle-name] [generator:romanian-given-names-masculine-soullink|{}|third-middle-name] ",
+      "weight": 1
+    }
+  }
+}

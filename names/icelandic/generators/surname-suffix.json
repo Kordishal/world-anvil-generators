@@ -1,0 +1,16 @@
+{
+  "values": {
+    "dóttir": {
+        "value": "dóttir",
+        "weight": 49
+    },
+    "son": {
+        "value": "son",
+        "weight": 49
+    },
+    "bur": {
+        "value": "bur",
+        "weight": 2
+    }
+  }
+}

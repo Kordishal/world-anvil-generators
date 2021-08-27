@@ -1,0 +1,16 @@
+{
+  "values": {
+    "patronym": {
+        "value": "[generator:icelandic-given-names-28masculine29-soullink|{}|given-name-father]sbur",
+        "weight": 90
+    },
+    "matronym": {
+        "value": "[generator:icelandic-given-names-28feminine29--soullink|{}|given-name-mother]sbur",
+        "weight": 9
+    },
+    "family": {
+        "value": "Hagalín",
+        "weight": 1
+    }
+  }
+}

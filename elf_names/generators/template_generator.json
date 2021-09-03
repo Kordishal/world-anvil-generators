@@ -2,11 +2,11 @@
   "values": {
     "names_01": {
       "value": "[template:elf-name-282-syllables29-soullink|{}|name]",
-      "weight": "25"
+      "weight": "80"
     },
     "names_02": {
       "value": "[template:elf-name-283-syllables29-soullink|{}|name]",
-      "weight": "70"
+      "weight": "15"
     },
     "names_03": {
       "value": "[template:elf-name-284-syllables29-soullink|{}|name]",

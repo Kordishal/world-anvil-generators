@@ -1,10 +1,8 @@
 {
   "values": {
     "letter_01": "b",
-    "letter_02": "br",
     "letter_03": "c",
     "letter_04": "d",
-    "letter_05": "dr",
     "letter_06": "f",
     "letter_07": "g",
     "letter_08": "gl",
@@ -14,7 +12,6 @@
     "letter_12": "r",
     "letter_13": "s",
     "letter_14": "t",
-    "letter_15": "th",
     "letter_16": "v"
   }
 }

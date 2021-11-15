@@ -1,5 +1,4 @@
-.idea/*
-*.iml
+.idea
 eugene
 /names/framework/kaikki.org-dictionary-all.json
 /names/framework/given_names.json

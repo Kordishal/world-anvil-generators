@@ -76,6 +76,8 @@ for folder in ['male', 'female', 'unisex', 'other']:
 if not os.path.exists('output/generators/surnames'):
     os.mkdir('output/generators/surnames')
 
+base_string = '[url:https://en.wiktionary.org/wiki/{}|tab]{}[/url]'
+
 for key in values:
     for category in values[key]:
         words = values[key][category]
@@ -87,7 +89,7 @@ for key in values:
         generator = dict()
         generator['values'] = dict()
         for word in words:
-            generator['values'][f'value{count}'] = word
+            generator['values'][f'value{count}'] = base_string.format(word, word)
             count += 1
         with open(f'output/generators/given-names/{key}/{category}.json', 'w') as fp:
             json.dump(generator, fp, ensure_ascii=False, indent='    ')
@@ -102,7 +104,7 @@ for key in surnames_dict:
     generator = dict()
     generator['values'] = dict()
     for word in words:
-        generator['values'][f'value{count}'] = word
+        generator['values'][f'value{count}'] = base_string.format(word, word)
         count += 1
     with open(f'output/generators/surnames/{key}.json', 'w') as fp:
         json.dump(generator, fp, ensure_ascii=False, indent='    ')

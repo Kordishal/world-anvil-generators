@@ -1,0 +1,7 @@
+maize
+corn
+squash
+gourd
+potato
+bean
+tomato

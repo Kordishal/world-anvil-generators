@@ -1,0 +1,135 @@
+black ash
+green ash
+white ash
+basswood 
+beech
+gray birch
+paper birch
+black birch
+mountain paper birch
+yellow birch
+butternut
+black cherry
+chestnut
+eastern cottonwood
+slippery elm
+hackberry
+bitternut hickory
+shagbark hickory
+hornbeam 
+eastern hop-hornbeam 
+red maple
+silver maple
+striped maple
+sugar maple
+black oak
+burr oak
+chestnut oak
+northern red oak
+swamp white oak
+white oak
+balsam poplar
+big tooth aspen
+quaking aspen 
+eastern larch
+black willow
+eastern red cedar
+northern white cedar
+balsam fir
+eastern hemlock
+jack pine
+pitch pine
+red pine
+white pine
+black spruce
+red spruce
+white spruce
+speckled alder
+plum
+choke cherry
+fire cherry
+hawthorns
+mountain maple
+mountain ash
+nannyberry
+prickly ash
+downy serviceberry 
+staghorn sumac
+pussy willow
+witch hazel
+northern arrowwood
+common blackberry
+high bush blueberry
+low bush blueberry
+buttonbush
+catberry
+black chokeberry
+red chokeberry
+shrubby cinquefoil
+highbush cranberry
+spreading dogbane
+gray dogwood
+red osier dogwood
+black elderberry 
+red elderberry
+beaked hazelnut
+hobblebush
+common honeysuckle
+black huckleberry
+maple leaf viburnum
+red raspberry
+pasture rose
+prickly rose
+swamp rose
+mountain laurel
+bog laurel
+sheep laurel
+wild snowberry bush
+spicebush
+broad-leaved meadow sweet
+hardhack 
+sweet fern
+sweet gale
+wild raisin 
+winterberry 
+leatherleaf
+bog rosemary
+labrador tea
+common juniper
+yew 
+white baneberry
+red baneberry
+bunchberry
+mayflower
+cranberry
+goldthread
+blue flag
+lily
+partridgeberry
+wood sorrel
+violet
+wintergreen
+verbena
+cardinal flower
+turtlehead
+frost grape
+bracken fern
+cinnamon fern
+hay scented fern
+interrupted fern
+lady fern
+maidenhair fern
+ostrich fern
+royal fern
+sensitive fern
+mountain wood fern
+spinulose wood fern
+crested shield fern
+common wood fern
+marginal shield fern
+long beech fern
+broad beech fern
+fragile fern
+bulblet fern
+ebony spleenwort
+maidenhair spleenwort

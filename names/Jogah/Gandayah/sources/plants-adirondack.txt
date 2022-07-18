@@ -1,0 +1,146 @@
+Ash 	black ash 	Fraxinus nigra 	T-D 	s 	60 	w-m 	M 	M
+Ash 	green ash 	Fraxinus pennsylvanica 	T-D 	s 	60 	w-m 	M-T 	F
+Ash 	white ash 	Fraxinus americana 	T-D 	c 	80 	moist 	I 	F
+Basswood 	American basswood (linden) 	Tilia americana 	T-D 	  	70 	moist 	M
+Beech 	American beech 	Fagus grandifolia 	T-D 	  	80 	moist 	T
+Birch 	gray birch 	Betula populifolia 	T-D 	s 	50 	w-m 	I 	M
+Birch 	paper (white) birch 	Betula papyrifera 	T-D 	c 	70 	m-d 	I
+Birch 	black birch 	Betula lenta 	T-D 	  	70 	moist 	M
+Birch 	mountain paper birch 	Betula cordifolia 	T-D 	  	40 	m-d 	I
+Birch 	yellow birch 	Betula alleghaniensis 	T-D 	  	80 	moist 	M
+Butternut 	butternut 	Juglans cinerea 	T-D 	  	80 	moist 	M
+Cherry 	black cherry 	Prunus serotina 	T-D 	s 	80 	moist 	I 	M
+Chestnut 	American chestnut 	Castanea dentata  	T-D 	xxx 	100 	moist 	I
+Cottonwood 	eastern cottonwood 	Populus deltoides 	T-D 	s 	80 	moist 	I 	VF
+Elm 	American Elm 	Ulmus americana 	T-D 	xxx 	100 	moist 	M
+Elm 	slippery elm 	Ulmus rubra 	T-D 	  	50 	moist 	M
+Hackberry 	hackberry 	Celtis occidentalis 	T-D 	s 	60 	moist 	M-I 	F
+Hickory 	bitternut hickory 	Carya cordiformis 	T-D 	s 	70 	moist 	M 	M
+Hickory 	shagbark hickory 	Carya ovata 	T-D 	  	70 	moist 	M
+Hornbeam 	American hornbeam (blue-beech) 	Carpinus caroliniana 	T-D 	  	35 	moist 	M
+Hornbeam 	eastern hop-hornbeam (ironwood) 	Ostrya virginiana 	T-D 	  	40 	moist 	T
+Maple 	red maple 	Acer rubrum 	T-D 	c 	70 	moist 	T-M 	M-F
+Maple 	silver maple 	Acer saccharinum 	T-D 	s 	80 	moist 	I 	F
+Maple 	striped maple 	Acer pensylvanicum 	T-D 	  	35 	moist 	T
+Maple 	sugar maple 	Acer saccharum  	T-D 	c 	80 	moist 	T 	S
+Oak 	black oak 	Quercus velutina 	T-D 	  	65 	moist 	M
+Oak 	burr oak 	Quercus macrocarpa 	T-D 	  	100 	moist 	I
+Oak 	chestnut oak 	Quercus montana 	T-D 	  	80 	moist 	M
+Oak 	northern red oak 	Quercus rubra 	T-D 	c 	100 	m-d 	M 	M-F
+Oak 	swamp white oak 	Quercus bicolor 	T-D 	s 	70 	w-m 	M-I 	M
+Oak 	white oak 	Quercus alba 	T-D 	c 	100 	m-d 	M-I 	F
+Poplar 	balsam poplar 	Populus balsamifera 	T-D 	  	65 	moist 	M 	F
+Poplar 	big tooth aspen 	Populus grandidentata 	T-D 	  	80 	m-d 	I 	VF
+Poplar 	quaking aspen (trembling aspen) 	Populus tremuloides  	T-D 	s 	65 	moist 	I 	VF
+Tamarack  (Conifer) 	eastern larch/tamarack/hackmatack 	Larix laricina 	T-D 	s 	80 	w-m 	M 	M-F
+Willow 	black willow 	Salix nigra 	T-D 	s 	50 	w-m 	I 	F
+Cedar 	eastern red cedar 	Juniperus virginiana 	T-E 	s 	40 	moist 	M 	S
+Cedar 	northern white cedar 	Thuja occidentalis 	T-E 	c 	65 	moist 	M 	S-M 	favored conifer deer food
+Fir 	balsam fir 	Abies balsamea 	T-E 	c 	70 	moist 	M 	M-F
+Hemlock 	eastern (Canadian) hemlock 	Tsuga canadensis 	T-E 	c 	80 	moist 	T 	S 	favored conifer deer food, although 2
+Pine 	jack pine 	Pinus banksiana 	T-E 	  	60 	m-d 	I
+Pine 	pitch pine 	Pinus rigida 	T-E 	  	60 	m-d 	I
+Pine 	red pine 	Pinus resinosa 	T-E 	c 	80 	m-d 	I 	F
+Pine 	white pine 	Pinus strobus 	T-E 	c 	100 	m-d 	I 	F-VF
+Spruce 	black spruce 	Picea mariana 	T-E 	s 	80 	moist 	M 	S-M
+Spruce 	red spruce 	Picea rubens 	T-E 	  	80 	moist 	T 	S
+Spruce 	white spruce 	Picea glauca 	T-E 	  	80 	moist 	M 	M
+Alder 	speckled alder 	Alnus rugosa 	ST-D 	s 	15 	w-m 	I 	M
+Canada Plum 	Canada plum 	Prunus nigra 	ST-D 	  	15 	moist 	M
+Cherry 	choke cherry 	Prunus virginiana 	ST-D 	s 	20 	m-d 	I 	F
+Cherry 	fire cherry 	Prunus pennsylvanica 	ST-D 	  	20 	m-d 	I
+Hawthorn 	hawthorns 	Crataegus sp. 	ST-D 	  	25 	moist 	M
+Maple 	mountain maple 	Acer spicatum 	ST-D 	  	15 	moist 	T
+Mountain Ash 	American mountain ash 	Sorbus americana 	ST-D 	c 	20 	moist 	M-I
+Nannyberry 	nannyberry 	Viburnum lentago 	ST-D 	  	20 	w-m 	M-I
+Prickly Ash 	prickly ash 	Zanthoxylum americanum 	ST-D 	  	20 	moist 	M-I
+Serviceberry 	downy serviceberry (shad bush) 	Amelanchier arborea 	ST-D 	s 	25 	w-m 	M-I
+Sumac 	staghorn sumac 	Rhus typhina 	ST-D 	  	20 	m-d 	I
+Willow 	pussy willow 	Salix discolor 	ST-D 	  	15 	w-m 	M-I
+Witch Hazel 	witch hazel 	Hamamelis virginiana 	ST-D 	  	20 	moist 	M-I
+Arrowwood 	northern arrowwood 	Viburnum dentatum var.lucidum 	S-D 	s 	12 	w-m 	M
+Blackberry 	common blackberry 	Rubus allegheniensis 	S-D 	c 	5 	m-d 	I
+Blueberry 	high bush blueberry 	Vaccinium corymbosum 	S-D 	c 	8 	w-m 	T-M
+Blueberry 	low bush blueberry 	Vaccinium spp.  	S-D 	s 	2 	w-d 	M-I
+Buttonbush 	buttonbush 	Cephalanthus occidentalis 	S-D 	s 	8 	w-w 	M
+Catberry 	catberry 	Nemopanthus mucronatus 	S-D 	  	10 	w 	T-M
+Chokeberry 	black chokeberry 	Aronia melanocarpa 	S-D 	s 	8 	w-m 	M
+Chokeberry 	red chokeberry 	Aronia arbutifolia 	S-D 	s 	10 	m-d 	M 	F
+Cinquefoil 	shrubby cinquefoil 	Potentilla fruticosa 	S-D 	  	3 	m-d 	I
+Cranberry 	American highbush cranberry 	Viburnum trilobum 	S-D 	c 	14 	w-m 	T-M
+Dogbane 	spreading dogbane 	Apocynum androsaemifolium 	S-D 	  	3 	d 	I
+Dogwood 	gray dogwood 	Cornus foemina ssp. racemosa 	S-D 	s 	8 	w-d 	T 	M
+Dogwood 	red osier (red-stem) dogwood 	Cornus sericea  	S-D 	c 	5 	w-m 	M-I 	F
+Elderberry  	black elderberry (common) 	Sambucus canadensis 	S-D 	s 	10 	w-w 	T
+Elderberry  	red elderberry 	Sambucus racemosa ssp. pubens 	S-D 	  	12 	moist 	M
+Hazelnut 	beaked hazelnut 	Corylus cornuta 	S-D 	  	8 	moist 	M
+Hobblebush 	hobblebush 	Viburnum lantanoides 	S-D 	  	6 	moist 	T
+Honeysuckle 	common honeysuckle 	Lonicera canadensis 	S-D 	  	7 	m-d 	M
+Huckleberry 	black huckleberry 	Gaylussacia baccata 	S-D 	s 	3 	w-d 	I
+Maple leaf viburnum 	maple leaf viburnum 	Viburnum acerifolium 	S-D 	  	5 	moist 	T
+Raspberry 	red raspberry 	Rubus idaeus 	S-D 	c 	4 	m-d 	I
+Rose 	pasture rose 	Rosa carolina 	S-D 	  	3 	m-d 	I
+Rose 	prickly rose 	Rosa acicularis 	S-D 	  	3 	moist 	I
+Rose 	swamp rose 	Rosa palustris 	S-D 	s 	7 	w-w 	M-I
+Mountain Laurel 	mountain laurel 	Kalmia latifolia 	S-D 	  	4 	d 	M-I
+Bog Laurel 	bog laurel 	Kalmia polifolia 	S-D 	  	3 	w 	I
+Sheep Laurel 	sheep laurel 	Kalmia augustifolia 	S-D 	  	3 	w-m 	M-I
+Snowberry 	wild snowberry bush 	Symphoricarpos albus 	S-D 	  	4 	m-d 	I
+Spicebush 	spicebush 	Lindera benzoin 	S-D 	s 	8 	w-m 	T
+Spirea 	broad-leaved meadow sweet 	Spirea latifolia 	S-D 	s 	4 	w-m 	M-I
+Spirea 	hardhack (steeplebush) 	Spirea tomentosa 	S-D 	  	4 	w-d 	I
+Sweet fern 	sweet fern 	Comptonia peregrina 	S-D 	s 	4 	m-d 	M-I
+Sweet gale 	sweet gale 	Myrica gale 	S-D 	  	4 	w-m 	M
+Wild raisin 	wild raisin (witherod) 	Viburnum nudum var. cassinoides 	S-D 	s 	10 	w-m 	M
+Winterberry 	winterberry (winterberry holly) 	Ilex verticillata 	S-D 	s 	8 	wet 	M
+Leatherleaf 	leatherleaf 	Chamaedaphne calyculata 	S-D 	  	3 	w 	I
+Bog Rosemary 	bog rosemary 	Andromeda glaucophylla 	S-D 	  	2 	w 	I
+Labrador Tea 	labrador tea 	Rhododendron groenlandicum 	S-D 	  	3 	w 	I
+Juniper 	common juniper 	Juniperus communis 	S-E 	  	3 	dry 	I
+Yew 	American yew (Canadian Yew) 	Taxus canadensis 	S-E 	  	3 	moist 	T 	  	favored conifer deer food
+Baneberry 	white baneberry 	Actaea alba 	HP 	  	2 	moist 	T
+Baneberry 	red baneberry 	Actaea rubra 	HP 	  	2 	moist 	T
+Bunchberry 	bunchberry 	Cornus canadensis 	HP 	  	0.5 	moist 	T
+Canada mayflower 	Canada mayflower 	Maianthemum canadense 	HP 	  	0.5 	moist 	T
+Cranberry 	American cranberry 	Vaccinium corymbosum (macrocarpon) 	HP 	s 	0.5 	w-w 	M
+Goldthread 	goldthread 	Coptis trifolia 	HP 	  	0.5 	moist 	T
+Iris 	blue flag 	Iris versicolor 	HP 	s 	2 	water 	M-I
+Joe pye weed 	Joe pye weed 	Eupatorium maculatum/purpureum 	HP 	s 	4 	w-w 	M
+Lily 	Canada lily 	Lilium canadense 	HP 	  	3 	moist 	M
+Partridgeberry 	partridgeberry 	Mitchella repens 	HP 	  	0.5 	moist 	T
+Sorrel 	wood sorrel 	Oxalis montana 	HP 	  	0.5 	moist 	T
+Violet 	violet 	Viola spp. 	HP 	  	0.5 	moist 	T
+Wintergreen 	wintergreen 	Gaultheria procumbens 	HP 	  	0.5 	moist 	T
+Verbena 	verbena 	Verbena hastata 	HP 	  	3 	w 	I
+Cardinal Flower 	cardinal flower 	Lobelia cardinalis 	HP 	  	2.5 	w 	M-I
+Turtlehead 	turtlehead 	Chelone glabra 	HP 	  	2.5 	w 	M-I
+Grape, frost 	frost grape 	Vitis riparia 	VN
+Virginia creeper 	Virginia creeper 	Parthenocissus quinquefolia 	VN
+Bracken 	bracken fern 	Pteridium aquilinum 	FN 	s 	2.5 	m-d 	M
+Christmas 	Christmas fern 	Polystichum acrostichoides 	FN 	s 	3 	m-d 	T-M
+Cinnamon  	cinnamon fern 	Osmunda cinnamomea 	FN 	s 	3 	w-m 	T-M
+Hay scented 	hay scented fern 	Dennstaedtia punctilobula 	FN 	  	1.5 	m-d 	I
+Interrupted  	interrupted fern 	Osmunda claytoniana 	FN 	s 	2.5 	m-d 	T-M
+Lady 	lady fern 	Athyrium filix-femina 	FN 	s 	2.5 	moist 	T-M
+Maidenhair  	maidenhair fern 	Adiantum pedatum 	FN 	s 	1.5 	moist 	T-M
+Massachusetts 	Massachusetts fern 	Thelypteris simulata 	FN 	  	1 	moist 	T-M
+Marsh 	Marsh fern 	Thelypteris palustris 	FN 	  	1 	w 	I
+New York 	New York fern 	Thelypteris noveboracensis 	FN 	s 	1.5 	moist 	T-M
+Ostrich 	ostrich fern 	Matteuccia struthiopteris 	FN 	s 	4 	w-m 	T-M
+Royal  	royal fern 	Osmunda regalis 	FN 	s 	5 	wet 	T-M
+Sensitive 	sensitive fern 	Onoclea sensibilis 	FN 	s 	2 	w-m 	T-M
+Clinton's 	Clinton's fern 	Dryopteris clintoniana 	FN 	  	3.5 	m 	T-M
+Goldie's 	Goldie's fern 	Dryopteris goldiana 	FN 	  	3.5 	m 	T-M
+Mountain Wood 	mountain wood fern 	Dryopteris campyloptera 	FN 	  	2 	m 	T-M
+Spinulose Wood 	spinulose wood fern 	Dryopteris carthusiana 	FN 	  	2 	m 	T-M
+Crested Shield 	crested shield fern 	Dryopteris cristata 	FN 	  	1.5 	w 	I-M
+Common Wood 	common wood fern 	Dryopteris intermedia 	FN 	  	2 	m 	T-M
+Marginal Shield 	marginal shield fern 	Dryopteris marginalis 	FN 	  	2 	m 	T-M
+Long Beech 	long beech fern 	Phegopteris connectilis 	FN 	  	1 	m 	T-M
+Broad Beech 	broad beech fern 	Phegopteris hexagonoptera 	FN 	  	1 	m 	T-M
+Fragile 	fragile fern 	Cystopteris fragilis 	FN 	  	1 	w-m 	T-M
+Bulblet 	bulblet fern 	Cystopteris bulbifera 	FN 	  	1 	w-m 	T-M
+Oak 	Oak fern 	Gymnocarpium dryopteris 	FN 	  	0.5 	m 	T-M
+Braun's 	Braun's holly fern 	Polystichum braunii 	FN 	  	1.5 	m 	T-M
+Ebony Spleenwort 	ebony spleenwort 	Asplenium platyneuron 	FN 	  	0.5 	m 	M
+Maidenhair Spleenwort 	maidenhair spleenwort 	Asplenium trichomanes 	FN 	  	0.5 	m 	M

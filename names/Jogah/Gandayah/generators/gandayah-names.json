@@ -1,0 +1,28 @@
+{
+    "values": {
+        "crops": {
+            "value": "[generator:crops-soullink|{}|crops-soullink_1]",
+            "weight": 10
+        },
+        "insects": {
+            "value": "[generator:insects-soullink|{}|insects-soullink_1]",
+            "weight": 10
+        },
+        "plant-parts": {
+            "value": "[generator:plant-parts-soullink|{}|plant-parts-soullink_1]",
+            "weight": 20
+        },
+        "adirondack-plants": {
+            "value": "[generator:adirondack-plants-soullink|{}|adirondack-plants-soullink_1]",
+            "weight": 100
+        },
+        "positive-mood-or-emotion": {
+            "value": "[generator:positive-mood-or-emotion-soullink|{}|positive-mood-or-emotion-soullink_1]",
+            "weight": 5
+        },
+        "tool": {
+            "value": "[generator:tool-soullink|{}|tool-soullink_1]",
+            "weight": 5
+        }
+    }
+}

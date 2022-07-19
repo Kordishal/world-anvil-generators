@@ -2,3 +2,5 @@ knife
 hoe
 rake
 plough
+spade
+shovel

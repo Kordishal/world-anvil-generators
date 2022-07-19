@@ -1,0 +1,14 @@
+{
+    "values": {
+        "leaf": "leaf",
+        "bud": "bud",
+        "seed": "seed",
+        "fruit": "fruit",
+        "branch": "branch",
+        "stem": "stem",
+        "flower": "flower",
+        "flower leaf": "flower leaf",
+        "thorn": "thorn",
+        "root": "root"
+    }
+}

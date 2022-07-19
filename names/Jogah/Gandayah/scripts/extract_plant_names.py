@@ -2,7 +2,7 @@ import re
 
 if __name__ == '__main__':
     output = list()
-    with open('../sources/plants-adirondack.txt', 'r') as fp:
+    with open('../sources/plants-adirondack-source.txt', 'r') as fp:
 
         for line in fp:
             values = line.split('\t')
@@ -18,6 +18,6 @@ if __name__ == '__main__':
             if value.islower():
                 output.append(value)
 
-    with open('../sources/plants-adirondack-cleaned.txt', 'w') as fp:
+    with open('../sources/adirondack-plants.txt', 'w') as fp:
         for i in output:
             fp.write(i + '\n')

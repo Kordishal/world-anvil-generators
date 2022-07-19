@@ -1,0 +1,11 @@
+{
+    "values": {
+        "maize": "maize",
+        "corn": "corn",
+        "squash": "squash",
+        "gourd": "gourd",
+        "potato": "potato",
+        "bean": "bean",
+        "tomato": "tomato"
+    }
+}

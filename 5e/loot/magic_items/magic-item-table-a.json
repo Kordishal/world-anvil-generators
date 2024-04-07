@@ -1,0 +1,36 @@
+{
+  "values": {
+    "magic-item-a-1": {
+      "value": "[blocklink:1402001] - [url:https://www.worldanvil.com/world/block/1402001/copy]Copy[/url]",
+      "weight": "50"
+    },
+    "magic-item-a-2": {
+      "value": "Spell scroll (cantrip)",
+      "weight": "10"
+    },
+    "magic-item-a-3": {
+      "value": "[blocklink:1402005] - [url:https://www.worldanvil.com/world/block/1402005/copy]Copy[/url]",
+      "weight": "10"
+    },
+    "magic-item-a-4": {
+      "value": "Spell scroll (1st level)",
+      "weight": "10"
+    },
+    "magic-item-a-5": {
+      "value": "Spell scroll (2nd level)",
+      "weight": "5"
+    },
+    "magic-item-a-6": {
+      "value": "[blocklink:1401997] - [url:https://www.worldanvil.com/world/block/1401997/copy]Copy[/url]",
+      "weight": "3"
+    },
+    "magic-item-a-7": {
+      "value": "[blocklink:1401992] - [url:https://www.worldanvil.com/world/block/1401992/copy]Copy[/url]",
+      "weight": "1"
+    },
+    "magic-item-a-8": {
+      "value": "[blocklink:1401989] - [url:https://www.worldanvil.com/world/block/1401989/copy]Copy[/url]",
+      "weight": "1"
+    }
+  }
+}

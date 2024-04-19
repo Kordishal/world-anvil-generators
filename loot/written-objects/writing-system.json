@@ -1,0 +1,13 @@
+{
+    "values": {
+        "ws0": "Unknown",
+        "ws1": "Southern Aurelian",
+        "ws2": "Western Aurelian",
+        "ws3": "Skystone",
+        "ws4": "Draconic",
+        "ws10": "Infernal",
+        "ws20": "Celestial",
+        "ws30": "Primordial",
+        "ws40": "Abyssal"
+    }
+}

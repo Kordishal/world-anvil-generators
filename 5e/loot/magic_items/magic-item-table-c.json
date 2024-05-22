@@ -1,0 +1,116 @@
+{
+    "values": {
+        "magic-item-1-c": {
+            "value": "[blocklink:1407756] - [url:https://www.worldanvil.com/world/block/1407756/copy]Copy[/url]",
+            "weight": 15
+        },
+        "magic-item-2-c": {
+            "value": "Spell scroll (4th-level)",
+            "weight": 7
+        },
+        "magic-item-3-c": {
+            "value": "Ammunition, +2",
+            "weight": 6
+        },
+        "magic-item-4-c": {
+            "value": "[blocklink:1407757] - [url:https://www.worldanvil.com/world/block/1407757/copy]Copy[/url]",
+            "weight": 5
+        },
+        "magic-item-5-c": {
+            "value": "[blocklink:1345587] - [url:https://www.worldanvil.com/world/block/1345587/copy]Copy[/url]",
+            "weight": 5
+        },
+        "magic-item-6-c": {
+            "value": "Potion of gaseous form",
+            "weight": 5
+        },
+        "magic-item-7-c": {
+            "value": "Potion of frost giant strength",
+            "weight": 5
+        },
+        "magic-item-8-c": {
+            "value": "Potion of stone giant strength",
+            "weight": 5
+        },
+        "magic-item-9-c": {
+            "value": "Potion of heroism",
+            "weight": 5
+        },
+        "magic-item-10-c": {
+            "value": "Potion of invulnerability",
+            "weight": 5
+        },
+        "magic-item-11-c": {
+            "value": "Potion of mind reading",
+            "weight": 5
+        },
+        "magic-item-12-c": {
+            "value": "Spell scroll (5th-level)",
+            "weight": 5
+        },
+        "magic-item-13-c": {
+            "value": "Elixir of health",
+            "weight": 3
+        },
+        "magic-item-14-c": {
+            "value": "Oil of etherealness",
+            "weight": 3
+        },
+        "magic-item-15-c": {
+            "value": "Potion of fire giant strength",
+            "weight": 3
+        },
+        "magic-item-16-c": {
+            "value": "Quaal's feather token",
+            "weight": 3
+        },
+        "magic-item-17-c": {
+            "value": "Scroll of protection",
+            "weight": 2
+        },
+        "magic-item-18-c": {
+            "value": "Bag of beans",
+            "weight": 2
+        },
+        "magic-item-19-c": {
+            "value": "Bead of force",
+            "weight": 2
+        },
+        "magic-item-20-c": {
+            "value": "Chime of opening",
+            "weight": 1
+        },
+        "magic-item-21-c": {
+            "value": "Decanter of endless water",
+            "weight": 1
+        },
+        "magic-item-22-c": {
+            "value": "Eyes of minute seeing",
+            "weight": 1
+        },
+        "magic-item-23-c": {
+            "value": "Folding boat",
+            "weight": 1
+        },
+        "magic-item-24-c": {
+            "value": "Heward's handy haversack",
+            "weight": 1
+        },
+        "magic-item-25-c": {
+            "value": "Horseshoes of speed",
+            "weight": 1
+        },
+        "magic-item-26-c": {
+            "value": "Necklace of fireballs",
+            "weight": 1
+        },
+        "magic-item-27-c": {
+            "value": "Periapt of health",
+            "weight": 1
+        },
+        "magic-item-28-c": {
+            "value": "Sending Stones",
+            "weight": 1
+        }
+    }
+}

@@ -1,5 +1,5 @@
 openpyxl
-pywaclient~=0.6.5
+pywaclient
 requests
 simple-elastic
 PyPDF2

@@ -1,0 +1,14 @@
+{
+    "values": {
+        "dino-1": "1 regisaur [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-2": "1 altisaur [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-3": "[generator:roll-2d4-soullink|{}|roll-2d4-soullink_1] ankylosaurus [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-4": "[generator:roll-2d4-soullink|{}|roll-2d4-soullink_1] allosaurus [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-5": "1 aerosaur [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-6": "1 ceratops [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-7": "[generator:roll-1d4-soullink|{}|roll-1d4-soullink_1] triceratops [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-8": "1 tyrannosaurus rex pursuing prey",
+        "dino-9": "[generator:roll-2d4-soullink|{}|roll-2d4-soullink_1] brontosaurus [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]",
+        "dino-10": "[generator:roll-1d4-soullink|{}|roll-1d4-soullink_1] stegosaurus [generator:dinosaur-random-encounter-activity-soullink|{}|dinosaur-random-encounter-activity-soullink_1]"
+    }
+}

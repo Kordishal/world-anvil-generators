@@ -1,0 +1,1 @@
+A random encounter table for wild jungle encounters.
